@@ -7,3 +7,23 @@ G4M3R Is a multi-functional Discord bot that can help you get **YOUR **server **
 [Invite G4M3R](https://www.gitbook.com/book/pedall/g4m3r-wiki/edit#) - [Join the server](/ https://discord.gg/mtJyQjW "Join the Official Discord server")  
 [Patreon](https://www.patreon.com/g4m3r "Donate to the G4M3R Patreon!") - [Paypal](https://www.paypal.me/pedall "Make a one time donation to Pedall!")
 
+### Developers
+
+Pedall - Owner
+
+BitQuote - Developer
+
+King-Vlad - Developer
+
+Grade1801 - Developer
+
+GG142 - Developer
+
+Loganrose - Developer
+
+Shinji - Web Developer
+
+Yammy - Web Developer
+
+
+
