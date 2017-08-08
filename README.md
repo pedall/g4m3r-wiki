@@ -1,6 +1,6 @@
 # G4M3R Wiki
 
-G4M3R Is a multi-functional Discord bot that can help you get **YOUR **server **ACTIVE**. G4M3R has the **One and ONLY** event system that allows you to create
+G4M3R Is a multi-functional Discord bot that can help you get **YOUR **server **ACTIVE**. G4M3R has the **BEST** event system that allows you to create events within your server, and you have an option of making them private\(password required\) or public. G4M3R not only has the event system but lots of more that can _spice_ up your server. In this wiki you can find how to use and setup G4M3R.
 
 ### Links
 
