@@ -1,7 +1,6 @@
 {
   "plugins": [
     "-sharing",
-    "-fontsettings",
     "-highlight",
     "collapsible-menu",
     "youtube",
