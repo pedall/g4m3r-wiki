@@ -4,7 +4,9 @@
     "-highlight",
     "collapsible-menu",
     "youtube",
-    "wikify"
+    "wikify",
+    "bootstrap-callout"
+    "etoc"
   ],
   "pluginsConfig": {
     "wikify": {
