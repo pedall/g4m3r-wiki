@@ -1,9 +1,15 @@
 {
   "plugins": [
+    "-sharing",
+    "-fontsettings",
+    "-highlight",
     "collapsible-menu",
     "youtube",
     "wikify",
-    "bootstrapjs"
+    "prism",
+    "page-toc",
+    "bootstrap-callout",
+
   ],
   "pluginsConfig": {
     "wikify": {
