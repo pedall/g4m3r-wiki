@@ -14,7 +14,9 @@
 
 ### Q. How do i change the prefix?
 
-### A. 
+### A. &lt;prefix&gt;s prefix &lt;new\_prefix&gt;
+
+---
 
 
 
