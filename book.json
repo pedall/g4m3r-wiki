@@ -4,9 +4,7 @@
     "-highlight",
     "collapsible-menu",
     "youtube",
-    "wikify",
-    "prism",
-    "toc"
+    "wikify"
   ],
   "pluginsConfig": {
     "wikify": {
