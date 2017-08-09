@@ -2,9 +2,11 @@
   "plugins": [
     "collapsible-menu",
     "toggle-chapters",
-    "-search",
-    "theme-faq",
-    "-fontsettings",
-    "-sharing"
-  ]
+    "wikify"
+  ],
+  "pluginsConfig": {
+        "wikify": {
+            "lintOutput": "D:/GitHub/g4m3r-wiki/output"
+        }
+    }
 }
