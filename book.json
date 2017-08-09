@@ -3,11 +3,14 @@
     "collapsible-menu",
     "toggle-chapters",
     "toggle-headers",
+    "expandable-chapters",
+    "youtube",
     "wikify"
   ],
   "pluginsConfig": {
-        "wikify": {
-            "lintOutput": "./output.xml"
-        }
-    }
+    "wikify": {
+      "lintOutput": "./output.xml"
+    },
+    "expandable-chapters": {}
+  }
 }
