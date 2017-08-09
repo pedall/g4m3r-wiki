@@ -2,6 +2,12 @@
 
 If you don't find what your looking for in the \#FAQ channel on the G4M3R server then you can look in here. If you have any questions or suggestions you can join the G4M3R server [**here**](/ https://discord.gg/mtJyQjW "G4M3R Server Invite").
 
+---
+
+<!-- toc -->
+
+---
+
 > #### primary::Q: Why wont G4M3R respond to me?
 >
 > A: Make sure you are using the right prefix \(default is g!\). If that doesn't work then report it in the \#support channel in the G4M3R discord server \(Use this link: [**https://discord.gg/mtJyQjW**](https://discord.gg/mtJyQjW)\)
