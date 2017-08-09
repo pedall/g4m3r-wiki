@@ -8,8 +8,7 @@
     "wikify",
     "prism",
     "page-toc",
-    "bootstrap-callout",
-
+    "bootstrap-callout"
   ],
   "pluginsConfig": {
     "wikify": {
