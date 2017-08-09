@@ -1,6 +1,10 @@
 {
   "plugins": [
     "collapsible-menu",
-    "toggle-chapters"
+    "toggle-chapters",
+    "-search",
+    "theme-faq",
+    "-fontsettings",
+    "-sharing"
   ]
 }
