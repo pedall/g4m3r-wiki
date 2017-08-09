@@ -22,9 +22,9 @@ If you don't find what your looking for in the \#FAQ channel on the G4M3R server
 
 ---
 
-> #### primary::Title
+> #### primary::Q: How do i use the events system?
 >
-> Content
+> A: There is a very detailed description in the commands tab.
 
 
 
