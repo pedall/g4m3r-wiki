@@ -1,6 +1,7 @@
 {
   "plugins": [
     "toggle-chapters",
+    "richquotes",
     "youtube",
     "wikify"
   ],
@@ -8,6 +9,12 @@
     "wikify": {
       "lintOutput": "./output.xml"
     },
-    "expandable-chapters": {}
+    "expandable-chapters": {},
+    "richquotes": {
+      "star": {
+        "alert": "info",
+        "picto": "fa-star"
+      }
+    }
   }
 }
