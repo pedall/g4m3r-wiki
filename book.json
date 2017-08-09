@@ -2,6 +2,7 @@
   "plugins": [
     "collapsible-menu",
     "toggle-chapters",
+    "toggle-headers",
     "wikify"
   ],
   "pluginsConfig": {
