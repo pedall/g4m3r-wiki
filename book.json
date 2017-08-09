@@ -1,6 +1,6 @@
 {
   "plugins": [
-    "sane-sidebar",
+    "collapsible-menu",
     "youtube",
     "wikify"
   ],
