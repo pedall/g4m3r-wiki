@@ -6,7 +6,7 @@
   ],
   "pluginsConfig": {
         "wikify": {
-            "lintOutput": "D:/GitHub/g4m3r-wiki/output"
+            "lintOutput": "D:/GitHub/g4m3r-wiki/output.xml"
         }
     }
 }
