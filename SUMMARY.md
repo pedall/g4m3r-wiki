@@ -9,5 +9,5 @@
   * [Community](commands/community.md)
     * [Events](commands/community/events.md)
   * [Moderation](commands/moderation.md)
-* [FAQ](faq.md)
+* [FAQ](F.A.Q./faq.md)
 
