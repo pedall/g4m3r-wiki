@@ -1,7 +1,7 @@
 {
   "plugins": [
     "collapsible-menu",
-    "richquotes",
+    "callouts",
     "youtube",
     "wikify"
   ],
@@ -10,7 +10,7 @@
       "lintOutput": "./output.xml"
     },
     "expandable-chapters": {},
-    "richquotes": {
+    "callouts": {
       "star": {
         "alert": "info",
         "picto": "fa-star"
