@@ -1,6 +1,6 @@
 {
   "plugins": [
-    "toggle-chapters",
+    "collapsible-menu",
     "richquotes",
     "youtube",
     "wikify"
