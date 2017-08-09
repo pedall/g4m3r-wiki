@@ -1,5 +1,3 @@
 # all basic commands
 
-> #### type::title
->
-> content
+.popover,[data-popover]

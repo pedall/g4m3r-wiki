@@ -1,20 +1,13 @@
 {
   "plugins": [
     "collapsible-menu",
-    "callouts",
     "youtube",
-    "wikify"
+    "wikify",
+    "bootstrapjs"
   ],
   "pluginsConfig": {
     "wikify": {
       "lintOutput": "./output.xml"
-    },
-    "expandable-chapters": {},
-    "callouts": {
-      "star": {
-        "alert": "info",
-        "picto": "fa-star"
-      }
     }
   }
 }
