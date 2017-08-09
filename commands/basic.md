@@ -1,5 +1,31 @@
 # all basic commands
 
-> #### type::Title
+> #### primary::Title
 >
 > Content
+
+---
+
+> #### success::Title
+>
+> Content
+
+---
+
+> #### danger::Title
+>
+> Content
+
+---
+
+> #### warning::Title
+>
+> Content
+
+---
+
+> #### info::Title
+>
+> Content
+
+---
