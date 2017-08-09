@@ -8,3 +8,5 @@
     * [Ping](commands/ping.md)
   * [Community](commands/community.md)
   * [Moderation](commands/moderation.md)
+* [FAQ](faq.md)
+
