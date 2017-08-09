@@ -6,8 +6,7 @@
     "youtube",
     "wikify",
     "prism",
-    "toc",
-    "bootstrap-callout"
+    "toc"
   ],
   "pluginsConfig": {
     "wikify": {
