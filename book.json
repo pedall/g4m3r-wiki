@@ -6,15 +6,12 @@
     "youtube",
     "wikify",
     "prism",
-    "page-toc",
+    "etoc",
     "bootstrap-callout"
   ],
   "pluginsConfig": {
     "wikify": {
       "lintOutput": "./output.xml"
-    },
-    "page-toc": {
-      "position": "top"
     }
   }
 }
