@@ -1,12 +1,12 @@
 # all basic commands
 
-> #### primary::Title
+> #### primary::Ping
 >
-> Content
+> Pong! Find the latency of the bot
 
 ---
 
-> #### success::Title
+> #### primary::Title
 >
 > Content
 
