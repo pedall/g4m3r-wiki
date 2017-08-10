@@ -8,7 +8,7 @@
 
 > #### primary::Info
 >
-> Get the bots info (servers, users, channelse, etc)
+> Get the bots info \(servers, users, channels, etc\)
 
 ---
 
@@ -33,3 +33,6 @@
 > #### primary::Statistics
 >
 > Get statistics about commands, users, etc
+
+
+
