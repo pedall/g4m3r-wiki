@@ -6,26 +6,30 @@
 
 ---
 
-> #### primary::Title
+> #### primary::Info
 >
-> Content
+> Get the bots info (servers, users, channelse, etc)
 
 ---
 
-> #### danger::Title
+> #### primary::Invite
 >
-> Content
+> Get invite to add G4M3R to your own server
 
 ---
 
-> #### warning::Title
+> #### primary::About
 >
-> Content
+> Find out more about the vision for G4M3R
 
 ---
 
-> #### info::Title
+> #### primary::Shardinfo
 >
-> Content
+> Get some info about the shard the bot is running on
 
 ---
+
+> #### primary::Statistics
+>
+> Get statistics about commands, users, etc
