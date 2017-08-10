@@ -2,7 +2,7 @@
 
 > #### primary::Ping
 >
-> Pong! Find the latency of the bot
+> Checks the command response time of the bot.
 
 ---
 

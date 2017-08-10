@@ -5,7 +5,12 @@
 * [Commands](commands.md)
   * [Admin](commands/admin.md)
   * [Basic](commands/basic.md)
+    * [Info](commands/info.md)
+    * [Invite](commands/invite.md)
     * [Ping](commands/ping.md)
+    * About
+    * [Shardinfo](commands/shardinfo.md)
+    * [Statistics](commands/statistics.md)
   * [Community](commands/community.md)
     * [Events](commands/community/events.md)
   * [Moderation](commands/moderation.md)
