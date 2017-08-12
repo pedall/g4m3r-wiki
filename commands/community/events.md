@@ -12,7 +12,21 @@ G4M3R Has the best event system on Discord. It allows you to create private/publ
 
 ![](/assets/import.png)
 
-To edit
+To edit, select any number shown before the category you want to edit.
+
+#### Functions:
+
+**While creating an event:**
+
+\[S\]ave, \[Q\]uit - Save or Quit the event you have pulled up
+
+**While editing an event:**
+
+\[S\]ave, \[C\]ancel, \[Q\]uit - Save or Cancel editing the event or just quit
+
+**While viewing an event:**
+
+
 
 
 
