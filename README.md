@@ -23,7 +23,7 @@ GG142 - Developer
 
 Loganrose - Developer
 
-Shinji - Web Developer
+Dsslimshady- Web Developer
 
 Yammy - Web Developer
 
