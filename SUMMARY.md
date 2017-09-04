@@ -8,7 +8,7 @@
     * [Info](commands/info.md)
     * [Invite](commands/invite.md)
     * [Ping](commands/ping.md)
-    * About
+    * [About](commands/about.md)
     * [Shardinfo](commands/shardinfo.md)
     * [Statistics](commands/statistics.md)
   * [Community](commands/community.md)

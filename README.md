@@ -21,7 +21,7 @@ Grade1801 - Developer
 
 GG142 - Developer
 
-Loganrose - Developer
+Loganrose - Developer + Wiki Creator
 
 Dsslimshady- Web Developer
 

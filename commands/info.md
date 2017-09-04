@@ -8,5 +8,9 @@ Get the bots info \(servers, users, channelse, etc\)
 
 `<prefix>info`
 
+### Example
+
+`g!info`
+
 ![](/assets/info.png)
 
