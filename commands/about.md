@@ -1,16 +1,11 @@
 # About Command
-
-### Description
-
-Get info about the bot
-
 ### Usage
 
 `<prefix>about`
 
 ### Example
 
-`.about`
+`g!about`
 
 ![](https://image.prntscr.com/image/XyO2H6VPTCSgPqvvdWbaOQ.png)
 
