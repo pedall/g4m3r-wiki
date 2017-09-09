@@ -36,7 +36,15 @@
 
 ---
 
-#### 
+#### primary::Serverinfo
+
+Get some valuable information about your server
+
+---
+
+#### primary::Usersettings
+
+Get all your user settings from the in-chat menu
 
 
 
