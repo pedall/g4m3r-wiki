@@ -1,31 +1,23 @@
 # all community commands
 
-> #### primary::Title
->
-> Content
+>### accounts  
+> Register your social accounts, as well as your game accounts
 
 ---
+>### background
+>Select a profile picture from a selection of options
 
-> #### success::Title
->
-> Content
+___
 
----
+>### events
+>View, fabricate, join, and manage events
 
-> #### danger::Title
->
-> Content
+___
 
----
+>### games
+>Add one of your games to your account
 
-> #### warning::Title
->
-> Content
+___
 
----
+>###
 
-> #### info::Title
->
-> Content
-
----
