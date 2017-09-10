@@ -1,48 +1,48 @@
 # all basic commands
 
-> #### primary::Ping
+> #### primary::ping
 >
 > Checks the command response time of the bot.
 
 ---
 
-> #### primary::Info
+> #### primary::info
 >
 > Get the bots info \(servers, users, channels, etc\)
 
 ---
 
-> #### primary::Invite
+> #### primary::invite
 >
 > Get invite to add G4M3R to your own server
 
 ---
 
-> #### primary::About
+> #### primary::about
 >
 > Find out more about the vision for G4M3R
 
 ---
 
-> #### primary::Shardinfo
+> #### primary::shardinfo
 >
 > Get some info about the shard the bot is running on
 
 ---
 
-> #### primary::Statistics
+> #### primary::statistics
 >
 > Get statistics about commands, users, etc
 
 ---
 
-> #### primary::Serverinfo
+> #### primary::serverinfo
 >
 > Get some valuable information about your server
 
 ---
 
-> #### primary::Usersettings
+> #### primary::usersettings
 >
 > Get all your user settings from the in-chat menu
 
