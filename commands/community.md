@@ -20,4 +20,11 @@ ___
 ___
 
 >### profile
-> Shows the profile card of a user for a certain background
+> Shows the profile card of a user with a certain background
+
+___
+
+>### bg
+>gives a wide selection of backgrounds to place on your profile background
+
+___
