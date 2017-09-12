@@ -6,6 +6,7 @@
   * [Admin](commands/admin.md)
   * [Community](commands/community.md)
     * [Events](commands/community/events.md)
+  * [Gaming](commands/gaming.md)
   * [Basic](commands/basic.md)
     * [Info](commands/info.md)
     * [Invite](commands/invite.md)
