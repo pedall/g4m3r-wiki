@@ -6,7 +6,7 @@
   * [Admin](commands/admin.md)
   * [Gaming](commands/gaming.md)
   * [Moderation](commands/moderation.md)
-  * Other
+  * [Other](commands/other.md)
   * [Basic](commands/basic.md)
     * [Info](commands/info.md)
     * [Invite](commands/invite.md)
