@@ -5,7 +5,8 @@
 * [Commands](commands.md)
   * [Admin](commands/admin.md)
   * [Gaming](commands/gaming.md)
-    * CS:GO
+    * [CS:GO](commands/gaming/csgo.md)
+    * [Overwatch](commands/gaming/overwatch.md)
   * [Moderation](commands/moderation.md)
   * [Other](commands/other.md)
   * [Basic](commands/basic.md)
@@ -17,6 +18,5 @@
     * [Statistics](commands/statistics.md)
   * [Community](commands/community.md)
     * [Events](commands/community/events.md)
-  * [Moderation](commands/moderation.md)
 * [FAQ](faq.md)
 
