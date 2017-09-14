@@ -7,6 +7,7 @@
   * [Gaming](commands/gaming.md)
     * [CS:GO](commands/gaming/csgo.md)
     * [Overwatch](commands/gaming/overwatch.md)
+    * [PUBG](commands/gaming/pubg.md)
   * [Moderation](commands/moderation.md)
   * [Other](commands/other.md)
   * [Basic](commands/basic.md)
