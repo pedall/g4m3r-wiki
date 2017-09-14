@@ -5,6 +5,7 @@
 * [Commands](commands.md)
   * [Admin](commands/admin.md)
   * [Gaming](commands/gaming.md)
+    * CS:GO
   * [Moderation](commands/moderation.md)
   * [Other](commands/other.md)
   * [Basic](commands/basic.md)
