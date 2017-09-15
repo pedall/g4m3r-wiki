@@ -26,3 +26,8 @@ Kashz - Developer
 reziko - Developer
 
 yuvi - Developer
+
+### Support Team
+caligula - Supporter 
+
+Itovar18 - Supporter
