@@ -1,4 +1,4 @@
-# all moderation commands
+# All Moderation Commands Rundown
 
 >###Ban
 >Ban a user from the server and delete their messages from the former 7 days
