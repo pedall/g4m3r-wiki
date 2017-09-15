@@ -7,7 +7,7 @@
 ### Example
 
 
-`g!reason 1 somenew text` 
+`g!reason 1 some new text` 
 
 
 ![](/assets/reason.jpg)

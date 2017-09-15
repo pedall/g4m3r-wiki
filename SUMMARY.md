@@ -13,6 +13,7 @@
     * [Kick](commands/moderation/kick.md)
     * [Reason](commands/moderation/reason.md)
     * [Soft-Ban](commands/moderation/soft-ban.md)
+    * [Warn](commands/moderation/warn.md)
   * [Other](commands/other.md)
   * [Basic](commands/basic.md)
     * [Info](commands/info.md)
