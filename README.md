@@ -27,7 +27,6 @@ reziko - Developer
 
 yuvi - Developer
 
-### Support Team
-caligula - Supporter 
+Itovar18 - Developer
 
-Itovar18 - Supporter
+Caligula- Developer
