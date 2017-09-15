@@ -15,15 +15,14 @@ Pedall - Owner
 
 BitQuote - Developer
 
-King-Vlad - Developer
-
 Grade1801 - Developer
-
-GG142 - Developer
-
-Loganrose - Developer + Wiki Creator
-
-Dsslimshady- Web Developer
 
 Yammy - Web Developer
 
+Skillz4Killz - Developer
+
+Kashz - Developer
+
+reziko - Developer
+
+yuvi - Developer
