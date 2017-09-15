@@ -2,15 +2,15 @@
 
 ### Usage
 
-```
-<prefix>ban <username> [reason]
-```
+
+`<prefix>ban <username> [reason]`
+
 
 ### Example
 
-```
-m!ban @legendworld test
-```
+
+`g!ban @legendworld test`
+
 
 ![](/assets/ban.jpg)
 

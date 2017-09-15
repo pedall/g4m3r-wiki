@@ -2,15 +2,15 @@
 
 ### Usage
 
-```
-<prefix>kick <username> [reason]
-```
+    
+`<prefix>kick <username> [reason]`
+
 
 ### Example
 
-```
-m!kick @legendworld Test
-```
+
+`g!kick @legendworld test`
+
 
 ![](/assets/kick.jpg)
 

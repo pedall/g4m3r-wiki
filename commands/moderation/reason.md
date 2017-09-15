@@ -2,15 +2,13 @@
 
 ### Usage
 
-```
-<prefix>reason [ID] [reason] [...]
-```
+`<prefix>reason [ID] [reason] [...]`
 
 ### Example
 
-```
-m!reason 1 somenew text 
-```
+
+`g!reason 1 somenew text` 
+
 
 ![](/assets/reason.jpg)
 
