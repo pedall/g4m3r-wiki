@@ -24,5 +24,7 @@
     * [Statistics](commands/statistics.md)
   * [Community](commands/community.md)
     * [Events](commands/community/events.md)
+    * [Accounts](commands/community/accounts.md)
+    * [Profile](commands/community/profile.md)
 * [FAQ](faq.md)
 
