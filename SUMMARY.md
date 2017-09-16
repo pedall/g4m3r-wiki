@@ -26,5 +26,6 @@
     * [Events](commands/community/events.md)
     * [Accounts](commands/community/accounts.md)
     * [Profile](commands/community/profile.md)
+    * [Background](commands/community/background.md)
 * [FAQ](faq.md)
 
