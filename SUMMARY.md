@@ -27,5 +27,6 @@
     * [Accounts](commands/community/accounts.md)
     * [Profile](commands/community/profile.md)
     * [Background](commands/community/background.md)
+    * [Games](commands/community/games.md)
 * [FAQ](faq.md)
 
