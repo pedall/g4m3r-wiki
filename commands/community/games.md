@@ -13,7 +13,7 @@
 * _games_ \(list all games you registered\)
 * _games priority_ \(change the order or games\) 
 
-&gt;&gt; possible actions are _no action, add, \_and \_remove_
+&gt;&gt; possible actions are _no action, add, and  remove_
 
 &gt;&gt;choose from over **55k games** and **130 platforms**
 

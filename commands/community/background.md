@@ -14,19 +14,19 @@
 
 ### Interactive Tutorial
 
-* type _numbers _to select
+* type numbers to select
 * type _letters/ words_ words for the options \(e.g. **q** for quitting the menu\)
 
-&gt;&gt; valid category names are _anime, fun, games, others _and _racing_
+&gt;&gt; valid category names are _anime, fun, games, others and racing_
 
 ### Example
 
 ```
-g!background 12 
+g!background 12
 ```
 
 ```
-g!background fun 
+g!background fun
 ```
 
 ![](https://cdn.discordapp.com/attachments/282295514727448587/358591334245728287/image.png)
