@@ -10,7 +10,7 @@
 * [Nuke](/commands/admin/nuke.md)
 * [Settings](/commands/admin/settings.md)
 
-## Basic
+## [Basic](/commands/basic.md)
 
 * [About](/commands/basic/about.md)
 * [Info](/commands/basic/info.md)
