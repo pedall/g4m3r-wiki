@@ -31,7 +31,23 @@
 
 * [CS:GO](/commands/gaming/cs:go.md)
 * [Overwatch](/commands/gaming/overwatch.md)
-* [
+* [PUBG](/commands/gaming/pubg.md)
+
+##[Moderation](/commands/moderation.md)
+
+* [Ban](/commands/moderation/ban.md)
+* [Kick](/commands/moderation/kick.md)
+* [Reason](/commands/moderation/reason.md)
+* [Soft-Ban](/commands/moderation/soft-ban.md)
+* [Warn](/commands/moderation/warn.md)
+
+##[Other](/commands/other.md)
+
+* [Embed](/commands/other/embed.md)
+* [Meme](/commands/other/meme.md)
+* [Kitten](/commands/other/kitten.md)
+* [Puppy](/commands/other/puppy.md)
+* [Imgur](/commands/other/imgur.md)
 
 
 
