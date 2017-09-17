@@ -19,4 +19,23 @@
 * [Shardinfo](/commands/basic/shardinfo.md)
 * [Statistics](/commands/basic/statistics.md)
 
-##Community
+##[Community](/commands/community.md)
+
+* [Accounts](/commands/community/accounts.md)
+* [Background](/commands/community/background.md)
+* [Events](/commands/community/events.md)
+* [Games](/commands/community/games.md)
+* [Profile](/commands/community/profile.md)
+
+##[Gaming](/commands/gaming.md)
+
+* [CS:GO](/commands/gaming/cs:go.md)
+* [Overwatch](/commands/gaming/overwatch.md)
+* [
+
+
+
+
+
+
+
