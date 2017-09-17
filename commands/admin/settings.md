@@ -18,7 +18,10 @@
     * `The first option, [1], allows you to change up who can create an event. The three options are everyone, admins and all moderators, and only admins.`
     * `Option [2] allows you to change default settings from on to off and vice versa`
     * `The [3] option helps you change the type of event from default gaming to calendar or community. This change is reversible.`
-    *
+    * `Option [4] allows you to set a default event time. In order to do this, you have to set a number, then a character. Characters are "m" for minute, "h" for hour, "d" for days, and "w" for weeks. No definite max duration.`
+    * `The next option, [5], changes the default number of 5 members that can attend an event.``
+    * `Option [6] Allows you to change your default platform (PC) to either Xbox or PS4. This is reversible.`
+    * `The final option [7] helps you add a default game to your event.` 
 
 
 
@@ -28,4 +31,4 @@
 
 
 
-[prefix|admins|moderation|mod| general|events]`
+
