@@ -1,3 +1,6 @@
-# All Administrator Commands
+# All Administrator Commands Rundown
 
->
+
+
+
+

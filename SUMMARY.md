@@ -4,6 +4,8 @@
 * [Setting Up](setting-up.md)
 * [Commands](commands.md)
   * [Admin](commands/admin.md)
+    * [Allow](commands/admin/allow.md)
+    * [Nuke](commands/admin/nuke.md)
   * [Moderation](commands/moderation.md)
     * [Ban](commands/moderation/ban.md)
     * [Kick](commands/moderation/kick.md)
