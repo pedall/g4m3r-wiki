@@ -12,5 +12,11 @@
 
 ## Basic
 
+* [About](/commands/basic/about.md)
+* [Info](/commands/basic/info.md)
+* [Invite](/commands/basic/invite.md)
+* [Ping](/commands/basic/ping.md)
+* [Shardinfo](/commands/basic/shardinfo.md)
+* [Statistics](/commands/basic/statistics.md)
 
-
+##Community
