@@ -7,7 +7,10 @@ G4M3R is a multi-functional Discord bot that can help you get **YOUR** server **
 ### Links
 
 [Invite G4M3R](https://discordapp.com/oauth2/authorize?&client_id=270010330782892032&scope=bot) - [Join the server](https://discord.gg/mtJyQjW)   
-[Patreon](https://www.patreon.com/g4m3r) - "Donate to the G4M3R Patreon!" - [Paypal](https://www.paypal.me/pedall) - "Make a one time donation to Pedall!"
+
+[Patreon](https://www.patreon.com/g4m3r) - "Donate to the G4M3R Patreon!" 
+
+[Paypal](https://www.paypal.me/pedall) - "Make a one time donation to Pedall!"
 
 ### Developers
 
