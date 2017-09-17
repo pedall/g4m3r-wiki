@@ -6,6 +6,7 @@
   * [Admin](commands/admin.md)
     * [Allow](commands/admin/allow.md)
     * [Nuke](commands/admin/nuke.md)
+    * [Settings](commands/admin/settings.md)
   * [Basic](commands/basic.md)
     * [Info](commands/info.md)
     * [Invite](commands/invite.md)

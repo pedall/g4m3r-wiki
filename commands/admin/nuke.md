@@ -3,21 +3,21 @@
 ### Usage 
 
 ```
-<prefix>nuke [ammount] [link/invite/bots/you/me/upload/user]
+<prefix>nuke [amount]  [link|invite|bots|you|me|upload|user:user]
 ```
 
 ### Extended Help 
 
 &gt;&gt;**Options to nuke messages**
 
-* _nuke \[x\] _deletes x messages
-* _nuke \[x\] @user_ deletes x messages from that user 
-* _nuke \[x\] link _deletes x posted links 
-* _nuke \[x\] invite_ deletes x posted links 
-* _nuke \[x\] bots _deletes x messages from  all bots
-* _nuke \[x\] you _deletes x messages from the bot
-* _nuke \[x\] me _deletes x messages from the command author 
-* _nuke \[x\] upload_ deletes x messages with attachments 
+* _nuke \[x\]: deletes x messages
+* _nuke \[x\] @user: deletes x messages from that user 
+* _nuke \[x\] link: deletes x posted links 
+* _nuke \[x\] invite: deletes x posted links 
+* _nuke \[x\] bots: deletes x messages from  all bots
+* _nuke \[x\] you: deletes x messages from the bot
+* _nuke \[x\] me: deletes x messages from the command author 
+* _nuke \[x\] upload: deletes x messages with attachments 
 
 ### Example 
 
