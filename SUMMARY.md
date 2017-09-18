@@ -16,6 +16,8 @@
     * [Shardinfo](commands/shardinfo.md)
     * [Statistics](commands/statistics.md)
     * [Help](commands/help.md)
+    * [Serverinfo](commands/serverinfo.md)
+    * [Usersettings](commands/usersettings.md)
   * [Community](commands/community.md)
     * [Accounts](commands/community/accounts.md)
     * [Background](commands/community/background.md)
