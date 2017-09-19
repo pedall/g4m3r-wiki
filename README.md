@@ -1,4 +1,4 @@
- d# G4M3R Wiki
+[](/info@g4m3r.xyz) d# G4M3R Wiki
 <!-- notoc -->
 
 
@@ -39,4 +39,4 @@ Itovar18 - Developer
 Caligula- Developer
 
 ___
-Contact the developer for any questions at info@g4m3r.xyz
+Contact the developer for any questions at 
