@@ -28,6 +28,7 @@
     * [CS:GO](commands/gaming/csgo.md)
     * [Overwatch](commands/gaming/overwatch.md)
     * [PUBG](commands/gaming/pubg.md)
+    * Stats
   * [Moderation](commands/moderation.md)
     * [Ban](commands/moderation/ban.md)
     * [Kick](commands/moderation/kick.md)
