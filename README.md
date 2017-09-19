@@ -1,4 +1,4 @@
-# G4M3R Wiki
+ d# G4M3R Wiki
 <!-- notoc -->
 
 
@@ -37,3 +37,6 @@ yuvi - Developer
 Itovar18 - Developer
 
 Caligula- Developer
+
+___
+Contact the developer for any questions at info@g4m3r.xyz
