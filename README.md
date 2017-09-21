@@ -1,4 +1,4 @@
-[](/info@g4m3r.xyz) d# G4M3R Wiki
+[](/info@g4m3r.xyz)    **G4M3R Wiki**
 <!-- notoc -->
 
 
@@ -36,7 +36,7 @@ yuvi - Developer
 
 Itovar18 - Developer
 
-Caligula- Developer
+caIigula- Developer
 
 ___
-Contact the developer for any questions at 
+Contact us for any questions at g4m3r@info.com
