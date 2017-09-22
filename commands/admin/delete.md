@@ -1,10 +1,14 @@
-# Delete Command 
+# Delete Command
 
-### Usage 
+### Usage
 
 ```
 <prefix>delete [command]
 ```
+
+### Alias
+
+* Use the alias _**del **_for delete 
 
 ### Example
 

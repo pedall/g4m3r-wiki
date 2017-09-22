@@ -6,7 +6,9 @@
 
 ### Example
 
-`g!shardinfo`
+```
+.shardinfo
+```
 
 ![](/assets/shardinfo.png)
 
