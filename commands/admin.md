@@ -1,22 +1,22 @@
 # All Administrator Commands Rundown
 
->### Allow
->Activate/deactivate usage of certain commands in the specified channel.
 
-___
 
->###Delete
->Activate deletion of command messages for certain commands.
-___
+### [Allow](/commands/admin/allow.md)
 
->### Nuke
->Obliterates specified group of messages without filter.
-___
+Activate/deactivate usage of certain commands in the specified channel
 
->###Settings
-> All guilds settings via in-chat messages.
-___
+### [Delete](#delete)
 
+Activate deletion of command messages for certain commands.
+
+### [Nuke](/commands/admin/nuke.md)
+
+Obliterates specified group of messages without filter.
+
+### [Settings](/commands/admin/settings.md)
+
+All guilds settings via in-chat messages.
 
 
 
