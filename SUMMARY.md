@@ -8,6 +8,7 @@
     * [Nuke](commands/admin/nuke.md)
     * [Settings](commands/admin/settings.md)
     * [Delete](commands/admin/delete.md)
+    * [Saverole](commands/admin/saverole.md)
   * [Basic](commands/basic.md)
     * [About](commands/about.md)
     * [Info](commands/info.md)
