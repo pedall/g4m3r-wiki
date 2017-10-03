@@ -14,3 +14,5 @@
 
 ![](/assets/ban.jpg)
 
+###Alias 
+Use the alias **b** for ban

@@ -10,3 +10,6 @@
 
 
 ![](/assets/Screen Shot 2017-09-14 at 1.11.48 PM.png)
+
+###Alias
+Use the alias **ow** for overwatch

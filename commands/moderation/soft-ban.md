@@ -11,3 +11,5 @@
 
 ![](/assets/softban.jpg)
 
+###Alias 
+Use the alias **sb** for soft-ban

@@ -35,3 +35,5 @@ g!background fun
 
 ![](https://cdn.discordapp.com/attachments/282295514727448587/358591344010067969/image.png)
 
+###Alias
+Use the alias **bg** for background

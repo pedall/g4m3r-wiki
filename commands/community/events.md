@@ -26,7 +26,8 @@ To edit, select any number shown before the category you want to edit.
 
 **While viewing an event:**
 
-
+###Alias
+Use the alias **e** for events
 
 
 

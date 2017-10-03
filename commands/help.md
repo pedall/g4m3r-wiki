@@ -41,3 +41,6 @@ g!help compact
 
 ![](https://cdn.discordapp.com/attachments/282295514727448587/359329963520032768/image.png)
 
+###Alias
+Use the alias **h** for help
+

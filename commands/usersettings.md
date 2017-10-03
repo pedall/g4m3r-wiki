@@ -27,5 +27,8 @@ g!usersettings
 
 ![](https://cdn.discordapp.com/attachments/282295514727448587/359343912323907584/image.png)
 
+###Alias
+Use the alias **us** for usersettings
+
 
 

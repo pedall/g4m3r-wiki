@@ -14,3 +14,5 @@
 
 ![](/assets/kick.jpg)
 
+###Alias
+Use the alias **k** for kick

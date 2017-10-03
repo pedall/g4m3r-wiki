@@ -29,3 +29,5 @@ g!games add Vainglory
 
 ![](https://cdn.discordapp.com/attachments/282295514727448587/358694991222013953/image.png)
 
+###Alias
+Use the alias **g** for games

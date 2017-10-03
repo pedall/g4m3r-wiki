@@ -30,5 +30,6 @@ g!profile @pedall
 
 ![](https://cdn.discordapp.com/attachments/282295514727448587/358587417684344843/image.png)
 
-
+###Alias
+Use the alias **prof** for profile
 

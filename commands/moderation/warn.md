@@ -12,3 +12,5 @@
 
 ![![](/assets/warn remove.jp](/assets/warn add.jpg)
 
+###Alias 
+Use the alias **w** for warn

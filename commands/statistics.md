@@ -8,3 +8,5 @@
 
 `g!statistics`
 
+###Alias
+Use the alias **st** for statistics
