@@ -4,11 +4,17 @@
 
 `<prefix>reason [ID] [reason] [...]`
 
+### Extended Help
+
+```
+Example: .reason 1 some new text
+```
+
+
+
 ### Example
 
-
-`g!reason 1 some new text` 
-
+`g!reason 1 some new text`
 
 ![](/assets/reason.jpg)
 

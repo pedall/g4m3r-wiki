@@ -8,21 +8,15 @@ If you have any questions or suggestions you can join the G4M3R server [**here**
 
 **A**: Make sure you are using the right prefix \(default is g!\). If that doesn't work then report it in the \#support channel in the G4M3R discord server \(Use this link: [**https://discord.gg/mtJyQjW**](https://discord.gg/mtJyQjW)\)
 
-
-
 #### Q: Something is broke on the bot/and or website, will it get fixed anytime soon?
 
 **A**: Most likely the G4M3R development team already knows and they're doing there best to fix it. You can still let us know in the \#support channel in the G4M3R Server
-
-
 
 #### Q: How do I change the prefix?
 
 **A**: `<prefix>`s prefix
 
 **Example: **`g!s prefix !`
-
-
 
 #### Q: How do I use the events system?
 
@@ -51,6 +45,7 @@ _Minimum unit is ´m´ for minutes _
 * 2.5h = 2 hours and 30 minutes
 
 * 130 m = 2 hours 10 minutes
+
 * 30h = 1 day and 6 hours
 
 #### 
@@ -63,7 +58,7 @@ _.e_ // **lists all events** of this server
 
 * _.e add &lt;event-type&gt;_ // can be **"gaming" **or **"community"** or also without event type
 
-*  _.e join &lt;eventID&gt; &lt;pinCode&gt;_ // pincode only if event is set to private \(via edit only atm\)
+* _.e join &lt;eventID&gt; &lt;pinCode&gt;_ // pincode only if event is set to private \(via edit only atm\)
 
 * _.e leave &lt;eventID&gt;_
 
@@ -120,7 +115,5 @@ _.e_ // **lists all events** of this server
 
 #### Q: How i can make G4M3R join my server?
 
-**A: **Go to [https://g4m3r.xyz/](https://g4m3r.xyz/) and click on the **ADD **button or type \_**.join **\_in chat
-
-
+**A: **Go to [https://g4m3r.xyz/](https://g4m3r.xyz/) and click on the **ADD **button or type **.join **in chat
 

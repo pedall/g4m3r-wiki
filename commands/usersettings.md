@@ -1,4 +1,4 @@
-# Usersettings Command 
+# Usersettings Command
 
 ### Usage
 
@@ -10,7 +10,11 @@
 
 * _settings_ \(opens interactive menu with all guild settings\)
 * _settings \[menu\] _\(opens menu directly\)
-* _settings \[menu\] \[input\] \(_directly sets that input if possible\)
+* \_settings \[menu\] \[input\] \(\_directly sets that input if possible\)
+
+### Alias
+
+* use the alias _**us**_ or _me_ for _**usersettings**_
 
 ### Interactive Tutorial
 
@@ -27,8 +31,7 @@ g!usersettings
 
 ![](https://cdn.discordapp.com/attachments/282295514727448587/359343912323907584/image.png)
 
-###Alias
+### Alias
+
 Use the alias **us** for usersettings
-
-
 

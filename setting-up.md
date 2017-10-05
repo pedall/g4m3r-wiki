@@ -1,4 +1,4 @@
-# Setting G4M3R Up For Your Server
+# Setting G4M3R up For Your Server
 
 
 

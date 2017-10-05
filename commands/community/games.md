@@ -19,6 +19,10 @@
 
 &gt;&gt;change the order of the games since _only top 3_ are shown in your profile
 
+### Alias
+
+* Use the alias _**g**_ for _**games**_
+
 ### Example
 
 ```
@@ -29,5 +33,7 @@ g!games add Vainglory
 
 ![](https://cdn.discordapp.com/attachments/282295514727448587/358694991222013953/image.png)
 
-###Alias
-Use the alias **g** for games
+### 
+
+
+

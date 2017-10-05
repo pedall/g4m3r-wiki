@@ -13,5 +13,9 @@
 
 ![](https://cdn.discordapp.com/attachments/282295514727448587/358570861076414465/image.png)
 
-###Alias
-Use the alias **acc** for accounts
+### Alias
+
+* Use the alias _**acc** _for _**accounts**_
+
+
+

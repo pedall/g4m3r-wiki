@@ -2,7 +2,10 @@
 
 ### Usage
 
- `<prefix>csgo <username>`
+`<prefix>csgo <username>`
+
+
+
 ### Example
 
 `g!csgo coldzera`

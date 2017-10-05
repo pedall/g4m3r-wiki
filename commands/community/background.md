@@ -12,6 +12,12 @@
 * _background \[category name\] _\(opens menu with backgrounds of that category\)
 * _background \[background number\] _\(directly select that background\) 
 
+### Alias
+
+* Use the alias _**bg**_ for_** background**_
+
+
+
 ### Interactive Tutorial
 
 * type numbers to select
@@ -35,5 +41,7 @@ g!background fun
 
 ![](https://cdn.discordapp.com/attachments/282295514727448587/358591344010067969/image.png)
 
-###Alias
-Use the alias **bg** for background
+### 
+
+
+
