@@ -8,12 +8,12 @@
 
 ### Alias
 
-* Use the alias _**del **_for delete 
+* Use the alias **del **for _**delete **_
 
 ### Example
 
 ```
-g!delete nuke
+.delete nuke
 ```
 
 ![](https://cdn.discordapp.com/attachments/282295514727448587/359327461076500480/image.png)
