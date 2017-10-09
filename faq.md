@@ -6,7 +6,7 @@ If you have any questions or suggestions you can join the G4M3R server [**here**
 
 #### Q: Why wont G4M3R respond to me?
 
-**A**: Make sure you are using the right prefix \(default is g!\). If that doesn't work then report it in the \#support channel in the G4M3R discord server \(Use this link: [**https://discord.gg/mtJyQjW**](https://discord.gg/mtJyQjW)\)
+**A**: Make sure you are using the right prefix \(default is .\). If that doesn't work then report it in the \#support channel in the G4M3R discord server \(Use this link: [**https://discord.gg/mtJyQjW**](https://discord.gg/mtJyQjW)\)
 
 #### Q: Something is broke on the bot/and or website, will it get fixed anytime soon?
 
@@ -16,7 +16,9 @@ If you have any questions or suggestions you can join the G4M3R server [**here**
 
 **A**: `<prefix>`s prefix
 
-**Example: **`g!s prefix !`
+**Example: **`g!s prefix .`
+
+![](https://cdn.discordapp.com/attachments/282295514727448587/366998838847995905/image.png)
 
 #### Q: How do I use the events system?
 
@@ -116,4 +118,104 @@ _.e_ // **lists all events** of this server
 #### Q: How i can make G4M3R join my server?
 
 **A: **Go to [https://g4m3r.xyz/](https://g4m3r.xyz/) and click on the **ADD **button or type **.join **in chat
+
+![](https://cdn.discordapp.com/attachments/282295514727448587/366998370255896577/image.png)
+
+### **Q:How do i customize the cool new profile cards of the bot? **
+
+**A: Check this!**
+
+On the profile card you can show:
+
+**A\)**
+
+your social / gaming accounts
+
+**B\)**
+
+the top 3 games you play
+
+**C\)**
+
+your clan / community \(feature in implementation\)
+
+![](https://cdn.discordapp.com/attachments/282295514727448587/366996725547794444/image.jpg)
+
+**profile card:**
+
+• get your own profile with
+
+`.profile`
+
+• get profile of another user
+
+`.prof @username`
+
+»» alias:
+
+`.prof`
+
+»» example:
+
+`.prof @pedall#2147`
+
+![](https://cdn.discordapp.com/attachments/282295514727448587/367000103954939904/image.png)
+
+  
+**custom backgrounds:**
+
+• open the menu with
+
+`.background`
+
+• directly select a background
+
+`.bg number`
+
+\(if you know the number\) • get all backgrounds of one category
+
+`.bg category`
+
+»» alias:
+
+`.bg`
+
+»» example:
+
+`.bg 10`
+
+or
+
+`.bg games`
+
+![](https://cdn.discordapp.com/attachments/282295514727448587/367001079856234508/image.png)
+
+
+
+**games:**
+
+* register a game with _.gamesadd &lt;gamename&gt;_
+* change the priority of your registered games \(top 3 are on the profile card\) with _.g prio_
+
+&lt;&lt;alias: _.g add &lt;gamename&gt;_
+
+&lt;&lt;example: .g add game destiny 2
+
+![](https://cdn.discordapp.com/attachments/282295514727448587/367002698131832834/image.png)
+
+![](https://cdn.discordapp.com/attachments/282295514727448587/367002728301330432/image.png)
+
+**help for each command **
+
+_.help &lt;commandname&gt; or alias_
+
+&lt;&lt;alias _.h &lt;commandname&gt;/&lt;commandalias&gt;_
+
+&lt;&lt;example _.h accounts or .h g \( g is the alias for games\)_
+
+![](https://cdn.discordapp.com/attachments/282295514727448587/367003961007276042/image.png)
+
+
+
+
 
