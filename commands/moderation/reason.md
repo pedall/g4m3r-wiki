@@ -10,11 +10,9 @@
 Example: .reason 1 some new text
 ```
 
-
-
 ### Example
 
-`g!reason 1 some new text`
+.`reason 1 some new text`
 
 ![](/assets/reason.jpg)
 

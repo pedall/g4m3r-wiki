@@ -6,15 +6,15 @@
 
 ### Alias
 
-* Use the alias _**sb** _for _**soft-ban**_
+* Use the alias _**sb** \_for _**soft-ban**\_
 
-### Extended Help 
+### Extended Help
 
 ```
 <prefix>softban @user [number] [reason]
 ```
 
-* _number _defines for how much days messages get deleted 
+* \_number \_ defines for how much days messages get deleted 
 * **reason** can also be defined later with the **reason** command
 
 **To be able to ban a user: **
@@ -24,7 +24,7 @@
 
 ### Example
 
-`g!softban @legendworld 24h Test`
+.`softban @legendworld 24h Test`
 
 ![](/assets/softban.jpg)
 

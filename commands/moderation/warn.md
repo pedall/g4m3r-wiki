@@ -10,10 +10,10 @@
 
 ### Example
 
-`g!warn add @caligula Test`  
-`g!warn list @caligula`  
-`g!warn remove @caligula`  
-`g!warn removeall @caligula`
+.`warn add @caligula Test :` adds a warn to a specific user  
+.`warn list @caligulas`shows the list of warnings for a specific user  
+.`warn remove @caligula`removes a warning from a specific user  
+.`warn removeall @caligula`removes every warning from a specific user
 
 ![!\[\]\(/assets/warn remove.jp](/assets/warn add.jpg)
 
