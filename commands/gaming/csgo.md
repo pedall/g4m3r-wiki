@@ -4,11 +4,9 @@
 
 `<prefix>csgo <username>`
 
-
-
 ### Example
 
-`g!csgo coldzera`
+.`csgo coldzera`
 
 ![\[\]\(/assets/Screen Shot 2017-09-14 at 12.29.48 PM.png\)\# CS:GO Command ](/assets/Screen Shot 2017-09-14 at 12.29.48 PM.png)
 

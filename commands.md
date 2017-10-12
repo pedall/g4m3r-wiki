@@ -57,13 +57,23 @@
 
 ---
 
-## [Other](/commands/other.md)
+## [Utility](/commands/utility.md)
 
 * [Embed](/commands/other/embed.md) - _Makes an embed from the embed object you input._
-* [Meme](/commands/other/meme.md) - _Create and store custom made memes. Meme like a boss!_
-* [Kitten](/commands/other/kitten.md) - _Tribute to the former \(and very awesome\) AwesomeBot by Bitquote &lt;3._
-* [Puppy](/commands/other/puppy.md) - _Tribute to the former \(and very awesome\) AwesomeBot by Bitquote &lt;3._
+
 * [Imgur](/commands/other/imgur.md) - _Upload an image to imgur and receive a link._
+
+* [Role](/commands/utility/role.md) -_ Adds/removes a role from the self assignable list to yourself _
+
+
+
+## [Fun](/commands/fun.md)
+
+* [Meme](/commands/other/meme.md) - _Create and store custom made memes. Meme like a boss!_
+
+* [Kitten](/commands/other/kitten.md) - _Tribute to the former \(and very awesome\) AwesomeBot by Bitquote &lt;3._
+
+* [Puppy](/commands/other/puppy.md) - _Tribute to the former \(and very awesome\) AwesomeBot by Bitquote &lt;3._
 
 
 

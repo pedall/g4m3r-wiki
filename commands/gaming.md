@@ -1,16 +1,26 @@
 # All Gaming Commands Rundown
 
->###CS:GO
->Check your Counter-Strike: Global Offensive stats
+### CS:GO
 
-___
->### Stats
+> Check your Counter-Strike: Global Offensive stats
+
+---
+
+### Stats
+
 > Register your usernames/IDs and receive statistics for most relevant games
 
-___
->###Overwatch
->Check your Overwatch statistics
+---
 
-___
->###PUGB
->Check your Player Unknown Battlegrounds statistics
+### Overwatch
+
+> Check your Overwatch statistics
+
+---
+
+### PUGB
+
+> Check your Player Unknown Battlegrounds statistics
+
+
+

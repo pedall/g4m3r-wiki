@@ -1,19 +1,19 @@
 # All Utility Commands Rundown
 
-> ### Embed
->
+### Embed
+
 > Makes an embed from the embed object you input.
 
-### 
 
-> ### Imgur
->
+
+### Imgur
+
 > Upload an image to imgur and receive a link.
 
 ### 
 
-> ### Role
->
+### Role
+
 > Adds/removes a role from the self assignable list to yourself.
 
 
