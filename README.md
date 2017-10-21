@@ -8,7 +8,7 @@ G4M3R is a multi-functional Discord bot that can help you get **YOUR** server **
 
 [Invite G4M3R](https://discordapp.com/oauth2/authorize?&client_id=270010330782892032&scope=bot) - [Join the server](https://discord.gg/mtJyQjW)   
 
-###Donations
+### Donations
 
 [Patreon](https://www.patreon.com/g4m3r) - "Donate to the G4M3R Patreon!" 
 
@@ -32,7 +32,7 @@ reziko - Developer
 
 yuvi - Developer
 
-###Support Team
+### Support Team
 
 Itovar18 - Developer
 
