@@ -1,18 +1,18 @@
 # All Basic Commands Rundown
 
-### Ping
+### [Ping](/commands/basic/png.md)
 
 > Checks the command response time of the bot.
 
 ---
 
-### Info
+### [Info](/commands/basic/info.md)
 
 > Get the bots info \(servers, users, channels, etc\)
 
 ---
 
-### Invite
+### [Invite]
 
 > Find out more about the vision for G4M3R
 
