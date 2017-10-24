@@ -1,6 +1,6 @@
 # All Basic Commands Rundown
 
-### [Ping](/commands/basic/png.md)
+### [Ping](/commands/basic/ping.md)
 
 > Checks the command response time of the bot.
 
