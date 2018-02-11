@@ -1,25 +1,34 @@
 # All Community Commands Rundow
 
->### Accounts  
+### [Accounts](commands/community/accounts.md)
+
 > Register your social accounts, as well as your game accounts
 
 ---
->### Background
->Select a profile picture from a selection of options
 
-___
+### [Background](/commands/community/background.md)
 
->### Events
->View, fabricate, join, and manage events
+> Select a profile picture from a selection of options
 
-___
+---
 
->### Games
->Add one of your games to your account
+### [Events](/commands/community/events.md)
 
-___
+> View, fabricate, join, and manage events
 
->### Profile
+---
+
+### [Games](/commands/community/games.md)
+
+> Add one of your games to your account
+
+---
+
+### [Profile](/commands/community/profile.md)
+
 > Shows the profile card of a user with a certain background
 
-___
+---
+
+
+

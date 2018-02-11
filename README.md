@@ -1,6 +1,5 @@
-# G4M3R Wiki
+# **G4M3R Wiki**
 <!-- notoc -->
-
 
 G4M3R is a multi-functional Discord bot that can help you get **YOUR** server **ACTIVE**. G4M3R has the **BEST** event system that allows you to create events within your server, and you have an option of making them private (password protected) or public. G4M3R doesn't only have the event system but loads of other features that can _spice_ up your server. In this wiki you can find how to use and setup G4M3R.
 
@@ -8,7 +7,7 @@ G4M3R is a multi-functional Discord bot that can help you get **YOUR** server **
 
 [Invite G4M3R](https://discordapp.com/oauth2/authorize?&client_id=270010330782892032&scope=bot) - [Join the server](https://discord.gg/mtJyQjW)   
 
-###Donations
+### Donations
 
 [Patreon](https://www.patreon.com/g4m3r) - "Donate to the G4M3R Patreon!" 
 
@@ -32,8 +31,11 @@ reziko - Developer
 
 yuvi - Developer
 
-###Support Team
+### Support Team
 
-Itovar18 - Developer
+Recurve
 
-Caligula- Developer
+Genesis Frog
+
+___
+Contact us for any questions at info@g4m3r.xyz

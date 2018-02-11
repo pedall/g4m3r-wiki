@@ -6,7 +6,9 @@
 
 ### Example
 
-`g!ping`
+```
+.ping
+```
 
-![](/assets/ping.png)
+![](https://cdn.discordapp.com/attachments/282295514727448587/360804279075733505/image.png)
 

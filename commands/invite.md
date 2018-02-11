@@ -1,11 +1,14 @@
 # Invite Command
+
 ### Usage
 
 `<prefix>invite`
 
 ### Example
 
-`g!invite`
+```
+.invite
+```
 
-![](https://image.prntscr.com/image/8pMjCZCFT0KzopcmzA66OQ.png)
+![](https://cdn.discordapp.com/attachments/282295514727448587/360805627150336011/image.png)
 

@@ -1,13 +1,21 @@
 # Player Unknown Battlegrounds command
 
-#Usage
+# Usage
 
 `<prefix>pubg <username> <type> [lastXgames]`
-`For the [lastXgames], you can only go up to the last five games`
 
-#Example
+* For the \[lastXgames\], you can only go up to the last five games 
+
+**Types:**
+
+* Solo
+* Duo
+* Trio
+* Squad
+
+# Example
 
 g!pubg Moondye7 solo last1
 
-
 ![](/assets/Screen Shot 2017-09-14 at 1.38.51 PM.png)
+

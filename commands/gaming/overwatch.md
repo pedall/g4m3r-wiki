@@ -1,12 +1,20 @@
-#Overwatch Command
+# Overwatch Command
 
-###Usage
+### Usage
 
 `<prefix>.ow <username> [platform]`
 
-###Example
+### Alias
 
-`g!ow Mistakes#2832 pc`
+* Use the alias _**ow**_ for_** overwatch**_
 
+### Example
+
+.`ow Mistakes#2832 pc`
 
 ![](/assets/Screen Shot 2017-09-14 at 1.11.48 PM.png)
+
+### 
+
+
+

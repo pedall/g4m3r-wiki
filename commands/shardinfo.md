@@ -4,9 +4,21 @@
 
 `<prefix>shardinfo`
 
+### Alias
+
+* use the alias _**shard**_ for _**shardinfo**_
+
 ### Example
 
-`g!shardinfo`
+```
+.shardinfo
+```
 
 ![](/assets/shardinfo.png)
+
+### Alias
+
+* Use the Alias **shard ** for shardinfo
+
+
 

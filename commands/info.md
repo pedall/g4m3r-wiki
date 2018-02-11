@@ -6,7 +6,9 @@
 
 ### Example
 
-`g!info`
+```
+.info
+```
 
-![](/assets/info.png)
+![](https://cdn.discordapp.com/attachments/282295514727448587/360805179156856842/image.png)
 

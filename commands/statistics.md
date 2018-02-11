@@ -8,3 +8,9 @@
 
 `g!statistics`
 
+### Alias
+
+* Use the alias _**st**_ for _**statistics**_
+
+
+
