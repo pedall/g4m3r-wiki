@@ -35,7 +35,7 @@ yuvi - Developer
 
 Recurve
 
-Genesis Frog
+Genesis "Green" Frog
 
 ___
 Contact us for any questions at info@g4m3r.xyz
