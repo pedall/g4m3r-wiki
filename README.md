@@ -33,9 +33,9 @@ yuvi - Developer
 
 ### Support Team
 
-Recurve
+Recurve™
 
-Genesis "Green" Frog
+Genesis Frog
 
 ___
 Contact us for any questions at info@g4m3r.xyz
