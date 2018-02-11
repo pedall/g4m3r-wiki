@@ -1,4 +1,4 @@
-[](/info@g4m3r.xyz)    **G4M3R Wiki**
+# **G4M3R Wiki**
 <!-- notoc -->
 
 G4M3R is a multi-functional Discord bot that can help you get **YOUR** server **ACTIVE**. G4M3R has the **BEST** event system that allows you to create events within your server, and you have an option of making them private (password protected) or public. G4M3R doesn't only have the event system but loads of other features that can _spice_ up your server. In this wiki you can find how to use and setup G4M3R.
@@ -33,9 +33,9 @@ yuvi - Developer
 
 ### Support Team
 
-Itovar18 - Developer
+Recurve
 
-caligula- Developer
+Genesis Frog
 
 ___
-Contact us for any questions at g4m3r@info.com
+Contact us for any questions at info@g4m3r.xyz
