@@ -4,13 +4,5 @@
     "-highlight",
     "collapsible-menu",
     "youtube",
-    "wikify",
-    "bootstrap-callout",
-    "etoc"
-  ],
-  "pluginsConfig": {
-    "wikify": {
-      "lintOutput": "./output.xml"
-    }
-  }
+  ]
 }
