@@ -1,7 +1,13 @@
 # Summary
 
 * [Introduction](README.md)
+* Basics
+  * What is a prefix?
 * [Setting Up](setting-up.md)
+  * add the bot
+  * settings dashboard
+  * Events
+  * Profile
 * [Commands](commands.md)
   * [Admin](commands/admin.md)
     * [Allow](commands/admin/allow.md)
