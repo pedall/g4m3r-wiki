@@ -28,7 +28,6 @@ You can also donate to G4M3R using these links:
 
 - Recurve™
 - Genesis Frog
-- Ismael
 
 ## Got any questions?
 
