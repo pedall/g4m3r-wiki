@@ -12,8 +12,8 @@ To change the prefix, _which is advised if you have another bot that uses the sa
    Anyone without admin rights on the bot will not be able to get into the settings menu.
 
 2. Access the **settings menu** of G4M3R Bot by typing `.settings`  
-   Here you can **view** the currently set prefix as shown below at  **\[ 1 \]  **In this case the prefix is `.`  
-   ![](/assets/serversettings.png)
+   Here you can **view** the currently set prefix as shown below at  **\[ 1 \]  **In this case the prefix is `.  
+   `![](/assets/serversettings.png)
 
 3. If you want to **change** the prefix, type  `1`into the chat.  
    This will open the **prefix layer** of the menu.  
