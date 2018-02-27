@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* Basics
-  * What is a prefix?
+* [Basics](basics.md)
+  * [What is a prefix?](basics/what-is-a-prefix.md)
 * [Setting Up](setting-up.md)
   * add the bot
   * settings dashboard

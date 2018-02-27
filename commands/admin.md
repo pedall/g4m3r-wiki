@@ -1,22 +1,28 @@
 # All Administrator Commands Rundown
 
-
-
 ### [Allow](/commands/admin/allow.md)
 
-Activate/deactivate usage of certain commands in the specified channel
-___
+_\[prefix\]_**Allow** activates or deactivates the usage of certain commands in specified channels.
+
+---
+
 ### [Delete](/commands/admin/delete.md)
 
-Activate deletion of command messages for certain commands.
-___
+_\[prefix\]_**Delete** activates the deletion of your inputted command messages for specified commands.
+
+---
+
 ### [Nuke](/commands/admin/nuke.md)
 
-Obliterates specified group of messages without filter.
-___
+_\[prefix\]_**Nuke** obliterates a specified amount of messages without filter.
+
+---
+
 ### [Settings](/commands/admin/settings.md)
 
-All guilds settings via in-chat messages.
+_\[prefix\]_**Settings** shows all G4M3R server settings via in-chat messages which you can manage.
 
-___
+---
+
+
 
