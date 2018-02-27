@@ -8,7 +8,7 @@ What this means for the bot, that you let the bot know that you **want to use** 
 The standard prefix of G4M3R is `.`  
 To change the prefix, _which is advised if you have another bot that uses the same prefix_, follow the simple steps below.
 
-1. Make sure you are in a channel where the bot has the **access and permissions** set up as described in [**Introduction**](/setting-up.md)**.**  
+1. Make sure you are in a channel where the bot has the **access and permissions** set up as described in [**Setting Up**](/setting-up.md)**.**  
    Anyone without admin rights on the bot will not be able to get into the settings menu.
 
 2. Access the **settings menu** of G4M3R Bot by typing `.settings`  
