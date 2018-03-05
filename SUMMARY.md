@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [Setting Up](setting-up.md)
-  * [Prefix](basics/what-is-a-prefix.md)
-  * [Dashboard Settings](basics/settings-dashboard.md)
+  * [Prefix](settingup/prefix.md)
+  * [Dashboard Settings](settingup/dashboard.md)
 * [Commands](commands.md)
   * [Admin](commands/admin.md)
     * [Allow](commands/admin/allow.md)
