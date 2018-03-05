@@ -2,11 +2,9 @@
 
 * [Introduction](README.md)
 * [Setting Up](setting-up.md)
-  * add the bot
-  * settings dashboard
-  * Events
-  * Profile
-* [What is a prefix?](basics/what-is-a-prefix.md)
+  * [Add G4M3R bot](basics/add-the-bot.md)
+  * [What is a prefix?](basics/what-is-a-prefix.md)
+  * [Dashboard Settings](basics/settings-dashboard.md)
 * [Commands](commands.md)
   * [Admin](commands/admin.md)
     * [Allow](commands/admin/allow.md)
