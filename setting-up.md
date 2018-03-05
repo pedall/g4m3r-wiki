@@ -1,35 +1,26 @@
-# Setting up G4M3R for your Server.
+# Setting Up
 
-**Welcome to the Setting Up Section!**
+In this section, you can find how to set up the bot on your server and how to use its commands. There will also be links to more in-depth guides related to the bot. 
 
-** Here**, you will learn how to set up **your bot**,** use its commands,** and **learn how to properly use it.**
+### Adding G4M3R Bot to your Server.
 
-To get the bot you have to go to the official G4M3R website \( [g4m3r.xyz](/g4m3r.xyz) \) and add the bot to your server. Keep in mind, you can only **add** a bot to your server when you have the **"Manage Server" permission** on the server.
+To add the bot, you must have the 'Manage Server' permission in the server you would like to add it to, and then you can add the bot through the official G4M3R website \( [g4m3r.xyz](/g4m3r.xyz) \).
 
-![](/assets/Screen Shot.jpg.png)
+![](https://media.discordapp.net/attachments/364017502638047233/420316688307716118/G4M3Raddscreenv2.png)
 
-![](/assets/FullSizeRender.jpg)
+**Please give the bot as many permissions as possible.** Otherwise some commands may not function due to missing permissions.
 
-To** avoid missing permissions** and with that commands that possible not function correctly, give the **bot as much permissions as possible!**
+### Changing the Prefix
 
-After you have completed these steps, you can **change the prefix** if you want.
+The default prefix for G4M3R bot is **`g!`**
+The prefix can be changed in the settings menu using **`g!settings`**
 
-* The **default prefix** for G4M3R is** .**
-* If there are no other bots with the same prefix you can skip this step and jump to the next!
+For a more in-depth explanation, visit the [prefix](/setting-up/Prefix.md) page.
 
-Just follow these simple steps to see the prefix of the bot and how to change it:  
-If you have a bot with the same prefix, it might be easier to set up a private channel for the bot so they don't interfere with each other.
+### Further Setting Up
 
-1. Type**`.settings`** to get to the server settings menu.
+You have now successfully added the bot to your server and used a command! You can further adjust the bot to fit your server. 
+We recommend you start with the **`g!settings`** menu. For example you can add other admins and moderators to the bot.
 
-![](https://cdn.discordapp.com/attachments/282295514727448587/368755589519638528/image.png)
-
-2. Here you can see the currently set prefix, to change the prefix proceed to the next step.
-
-![](https://cdn.discordapp.com/attachments/282295514727448587/368755610306740224/image.png)
-
-3. To change the prefix type **1 into the chat **to get to the** prefix menu. **Now you can insert a new prefix into the chat. This can be _special symbols_ and/or _letters_. For example **`g!`**or **`! `**_We recommend not to use letters only as this might active that bot in normal sentences._
-
-**  
-**After the prefix change, you can start customising the bot to your server for example add **Admins/Moderators **to the bot.
+For more information about the commands related to administrating, visit the [admin](/Commands/Admin.md) page.
 

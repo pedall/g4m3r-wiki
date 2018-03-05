@@ -2,8 +2,7 @@
 
 * [Introduction](README.md)
 * [Setting Up](setting-up.md)
-  * [Add G4M3R bot](basics/add-the-bot.md)
-  * [What is a prefix?](basics/what-is-a-prefix.md)
+  * [Prefix](basics/what-is-a-prefix.md)
   * [Dashboard Settings](basics/settings-dashboard.md)
 * [Commands](commands.md)
   * [Admin](commands/admin.md)
