@@ -15,12 +15,12 @@ To add the bot, you must have the 'Manage Server' permission in the server you w
 The default prefix for G4M3R bot is **`g!`**
 The prefix can be changed in the settings menu using **`g!settings`**
 
-For a more in-depth explanation, visit the [prefix](/setting-up/Prefix.md) page.
+For a more in-depth explanation, visit the [prefix](/setting-up/prefix.md) page.
 
 ### Further Setting Up
 
 You have now successfully added the bot to your server and used a command! You can further adjust the bot to fit your server. 
 We recommend you start with the **`g!settings`** menu. For example you can add other admins and moderators to the bot.
 
-For more information about the commands related to administrating, visit the [admin](/Commands/Admin.md) page.
+For more information about the commands related to administrating, visit the [admin](/Commands/admin.md) page.
 
