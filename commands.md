@@ -1,77 +1,89 @@
 # Commands
 
-> A total command overview for all G4M3R commands.
+_A complete command overview for all G4M3R commands._
 
 ---
 
-## [Admin](/commands/admin.md)
+### [Admin](/commands/admin.md)
 
-* [Allow](/commands/admin/allow.md) - _Activate / Deactivate the usage of a specified command in the specified channel._
-* [Nuke](/commands/admin/nuke.md) -_ Nukes a certain amount of messages without a filter. A maximum of 100 messages._
-* [Settings](/commands/admin/settings.md) - _All server settings via an in-chat menu._
-* [Delete](/commands/admin/delete.md) - _Activate the deletion of your command message for a specified command._
-* [Saverole](/commands/admin/saverole.md) - _Adds a role to the list of assignable roles for your server. _
-
----
-
-## [Basic](/commands/basic.md)
-
-* [About](/commands/about.md) - _Gives information about the bot._
-* [Info](/commands/info.md) - _Provides some detail about the bot and stats._
-* [Invite](/commands/invite.md) - _Displays the website link of the bot._
-* [Ping](/commands/ping.md) - _Checks the command response time of the bot._
-* [Shardinfo](/commands/shardinfo.md) -_ Provides some details about the bot and stats._
-* [Statistics](/commands/statistics.md) -_ Get basic statistics about command usage._
-* [Help](/commands/help.md) - _Displays general help, all commands and/or help for a specific command. _
-* [Serverinfo](/commands/serverinfo.md) - _Shows valuable information about your server._
-* [Usersettings](/commands/usersettings.md) - _All user settings via an in-chat menu._
+| _\[prefix\]_**Command** | **What does it do?** | **Aliases** |
+| :--- | :--- | :--- |
+| [Allow](/commands/admin/allow.md) | Enable/Disable the usage of a specified command in the current\_ active \_channel. |  |
+| [Nuke](/commands/admin/nuke.md) | Nukes a given amount of messages without a filter. Maximum of 100 messages. |  |
+| [Settings](/commands/admin/settings.md) | All server settings via an easy in-chat menu. |  |
+| [Delete](/commands/admin/delete.md) | Enable/disable deletion of a text/command message of a specified command. |  |
+| [Saverole](/commands/admin/saverole.md) | Add a given role to the list of self-assignable roles in your server. |  |
 
 ---
 
-## [Community](/commands/community.md)
+### [Basic](/commands/basic.md)
 
-* [Accounts](/commands/community/accounts.md) -_ Register your game and social accounts \(e.g. PSN, Twitter, etc.\)._
-* [Background](/commands/community/background.md) - _Select your custom background for your G4M3R profile. _
-* [Events](/commands/community/events.md) - _View, create, join and manage events._
-* [Games](/commands/community/games.md) - Add_ games you play to your account._
-* [Profile](/commands/community/profile.md) - _Shows the profile card of a user. _
-
----
-
-## [Gaming](/commands/gaming.md)
-
-* [CS:GO](/commands/gaming/cs:go.md) - Check Counter-Strike: Global Offensive \(CS:GO\) stats.
-* [Overwatch](/commands/gaming/overwatch.md) - _Check Overwatch stats._
-* [PUBG](/commands/gaming/pubg.md) - _Checks PlayerUnknown's Battleground \(PUGB\) stats._
-* [Stats](/Stats) - _Register usernames / IDs and get stats for all relevant games._
+| _\[prefix\]_**Command** | **What does it do?** | **Aliases** |
+| :--- | :--- | :--- |
+| [About](/commands/about.md) | Provides information about the bot. |  |
+| [Info](/commands/info.md) | Provides some details about the bot and its status. |  |
+| [Invite](/commands/invite.md) | Display the website url/link of the bot |  |
+| [Ping](/commands/ping.md) | Checks the command response time of the    bot. |  |
+| [Shardinfo](/commands/shardinfo.md) | Provides some details about the bot and its status. |  |
+| [Statistics](/commands/statistics.md) | Get basic statistics about command usage. |  |
+| [Help](/commands/help.md) | Displays general help, all commands and/or help for a specified command. |  |
+| [Serverinfo](/commands/serverinfo.md) | Displays valuable information about your     Discord server |  |
+| [Usersettings](/commands/usersettings.md) | All personal user settings via an easy in-chat menu. |  |
 
 ---
 
-## [Moderation](/commands/moderation.md)
+### [Community](/commands/community.md)
 
-* [Ban](/commands/moderation/ban.md) - _Bans a user from the server and deletes their messages from the past week._
-* [Kick](/commands/moderation/kick.md) - _Kicks a user from the server._
-* [Reason](/commands/moderation/reason.md) - _ Update a mod-log reason or belated adding of a reason._
-* [Soft-Ban](/commands/moderation/soft-ban.md) - _Bans / unbans a user and deletes user's messages of last 7 days._
-* [Warn](/commands/moderation/warn.md) - Adds a warning_, check lists or removes a warn._
+| \[prefix\]**Command** | **What does it do?** | **Aliases** |
+| :--- | :--- | :--- |
+| [Accounts](/commands/community/accounts.md) | Register the games you play and social         gaming accounts \(e.g PSN, Twitter, etc.\) |  |
+| [Background](/commands/community/background.md) | Select one of many custom backgrounds for your G4M3R Profile. |  |
+| [Events](/commands/community/events.md) | View, create, join and manage events. |  |
+| [Games](/commands/community/games.md) | Add the games you play to your account. |  |
+| [Profile](/commands/community/profile.md) | View the profile card of a user \(or yourself\). |  |
 
 ---
 
-## [Utility](/commands/utility.md)
+### [Gaming](/commands/gaming.md)
 
-* [Embed](/commands/other/embed.md) - _Makes an embed from the embed object you input._
+| \[prefix\]**Command** | **What does it do?** | **Aliases** |
+| :--- | :--- | :--- |
+| [CS:GO](/commands/gaming/cs:go.md) | View Counter-Stike: Global Offensive stats |  |
+| [Overwatch](/commands/gaming/overwatch.md) | View Overwatch stats. |  |
+| [PUBG](/commands/gaming/pubg.md) | View PlayerUnknown's Battlegrounds Stats |  |
+| [Stats](/Stats) | Register usernames/ID's to your account and easily view the stats. |  |
 
-* [Imgur](/commands/other/imgur.md) - _Upload an image to imgur and receive the image url._
+---
 
-* [Role](/commands/utility/role.md) -_ Adds/removes a role from the self assignable list to yourself _
+### [Moderation](/commands/moderation.md)
 
-## [Fun](/commands/fun.md)
+| \[prefix\]**Command** | **What does it do?** | **Aliases** |
+| :--- | :--- | :--- |
+| [Ban](/commands/moderation/ban.md) | Bans a user from the server and deletes their messages from the past week. |  |
+| [Kick](/commands/moderation/kick.md) | Kicks a user from the server. |  |
+| [Reason](/commands/moderation/reason.md) | Update a mod-log reason or belated adding of a reason. |  |
+| [Soft-Ban](/commands/moderation/soft-ban.md) | Bans/Unbans a user and deletes the user's messages of last 7 days. |  |
+| [Warn](/commands/moderation/warn.md) | Adds a warning, view lists or remove a warn. |  |
 
-* [Meme](/commands/other/meme.md) - _Create and store custom made memes. Meme like a boss!_
+---
 
-* [Kitten](/commands/other/kitten.md) - _Tribute to the former \(and very awesome\) AwesomeBot by Bitquote &lt;3._
+### [Utility](/commands/utility.md)
 
-* [Puppy](/commands/other/puppy.md) - _Tribute to the former \(and very awesome\) AwesomeBot by Bitquote &lt;3._
+| \[prefix\]**Command** | **What does it do?** | **Aliases** |
+| :--- | :--- | :--- |
+| [Embed](/commands/other/embed.md) | Create an embed from the predefined embed object you enter. |  |
+| [Imgur](/commands/other/imgur.md) | Upload an image to imgur and directly receive the image url. |  |
+| [Role](/commands/utility/role.md) | Add/Remove a role from the available self assignable roles to yourself. |  |
+
+---
+
+### [Fun](/commands/fun.md)
+
+| \[prefix\]**Command** | **What does it do?** | **Aliases** |
+| :--- | :--- | :--- |
+| [Meme](/commands/other/meme.md) | Create and store custom made memes. _Lika a boss!_ |  |
+| [Kitten](/commands/other/kitten.md) | View a random kitten! _Tribute to AwesomeBot by Bitquote._ |  |
+| [Puppy](/commands/other/puppy.md) | View a random puppy! _Tribute to AwesomeBot by Bitquote,_ |  |
 
 
 
