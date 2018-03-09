@@ -9,10 +9,10 @@ _A complete command overview for all G4M3R bot commands, categorised._
 | _\[prefix\]_**Command** | **What does it do?** | **Aliases** |
 | :--- | :--- | :--- |
 | [Allow](/commands/admin/allow.md) | Enable/Disable the usage of a specified command in the current\_ active \_channel. | - |
-| [Nuke](/commands/admin/nuke.md) | Nukes a given amount of messages without a filter. Maximum of 100 messages. | _\[prefix\]_n |
-| [Settings](/commands/admin/settings.md) | All server settings via an easy in-chat menu. | _\[prefix\]_s |
-| [Delete](/commands/admin/delete.md) | Enable/disable deletion of a text/command message of a specified command. | _\[prefix\]_del |
-| [Saverole](/commands/admin/saverole.md) | Add a given role to the list of self-assignable roles in your server. | _\[prefix\]_sr |
+| [Nuke](/commands/admin/nuke.md) | Nukes a given amount of messages without a filter. Maximum of 100 messages. | \[prefix\]n |
+| [Settings](/commands/admin/settings.md) | All server settings via an easy in-chat menu. | \[prefix\]s |
+| [Delete](/commands/admin/delete.md) | Enable/disable deletion of a text/command message of a specified command. | \[prefix\]del |
+| [Saverole](/commands/admin/saverole.md) | Add a given role to the list of self-assignable roles in your server. | \[prefix\]sr |
 
 ---
 
@@ -22,13 +22,13 @@ _A complete command overview for all G4M3R bot commands, categorised._
 | :--- | :--- | :--- |
 | [About](/commands/about.md) | Provides information about the bot. | - |
 | [Info](/commands/info.md) | Provides some details about the bot and its status. | - |
-| [Invite](/commands/invite.md) | Display the website url/link of the bot | _\[prefix\]_join |
-| [Ping](/commands/ping.md) | Checks the command response time of the    bot. | _\[prefix\]_pong |
-| [Shardinfo](/commands/shardinfo.md) | Provides some details about the bot and its status. | _\[prefix\]_shard |
-| [Statistics](/commands/statistics.md) | Get basic statistics about command usage. | _\[prefix\]_st |
-| [Help](/commands/help.md) | Displays general help, all commands and/or help for a specified command. | _\[prefix\]_h |
-| [Serverinfo](/commands/serverinfo.md) | Displays valuable information about your     Discord server | _\[prefix\]_si |
-| [Usersettings](/commands/usersettings.md) | All personal user settings via an easy in-chat menu. | _\[prefix\]_us |
+| [Invite](/commands/invite.md) | Display the website url/link of the bot | \[prefix\]join |
+| [Ping](/commands/ping.md) | Checks the command response time of the    bot. | \[prefix\]pong |
+| [Shardinfo](/commands/shardinfo.md) | Provides some details about the bot and its status. | \[prefix\]shard |
+| [Statistics](/commands/statistics.md) | Get basic statistics about command usage. | \[prefix\]st |
+| [Help](/commands/help.md) | Displays general help, all commands and/or help for a specified command. | \[prefix\]h |
+| [Serverinfo](/commands/serverinfo.md) | Displays valuable information about your     Discord server | \[prefix\]si |
+| [Usersettings](/commands/usersettings.md) | All personal user settings via an easy in-chat menu. | \[prefix\]us |
 
 ---
 
@@ -36,11 +36,11 @@ _A complete command overview for all G4M3R bot commands, categorised._
 
 | _\[prefix\]_**Command** | **What does it do?** | **Aliases** |
 | :--- | :--- | :--- |
-| [Accounts](/commands/community/accounts.md) | Register the games you play and social         gaming accounts \(e.g PSN, Twitter, etc.\) | _\[prefix\]_acc |
-| [Background](/commands/community/background.md) | Select one of many custom backgrounds for your G4M3R Profile. | _\[prefix\]_bg |
-| [Events](/commands/community/events.md) | View, create, join and manage events. | _\[prefix\]_e |
-| [Games](/commands/community/games.md) | Add the games you play to your account. | _\[prefix\]_g |
-| [Profile](/commands/community/profile.md) | View the profile card of a user \(or yourself\). | _\[prefix\]_prof |
+| [Accounts](/commands/community/accounts.md) | Register the games you play and social         gaming accounts \(e.g PSN, Twitter, etc.\) | \[prefix\]acc |
+| [Background](/commands/community/background.md) | Select one of many custom backgrounds for your G4M3R Profile. | \[prefix\]bg |
+| [Events](/commands/community/events.md) | View, create, join and manage events. | \[prefix\]e |
+| [Games](/commands/community/games.md) | Add the games you play to your account. | \[prefix\]g |
+| [Profile](/commands/community/profile.md) | View the profile card of a user \(or yourself\). | \[prefix\]prof |
 
 ---
 
@@ -49,9 +49,9 @@ _A complete command overview for all G4M3R bot commands, categorised._
 | _\[prefix\]_**Command** | **What does it do?** | **Aliases** |
 | :--- | :--- | :--- |
 | [CSGO](/commands/gaming/cs:go.md) | View Counter-Stike: Global Offensive stats | - |
-| [Overwatch](/commands/gaming/overwatch.md) | View Overwatch stats. | _\[prefix\]_ow |
+| [Overwatch](/commands/gaming/overwatch.md) | View Overwatch stats. | \[prefix\]ow |
 | [PUBG](/commands/gaming/pubg.md) | View PlayerUnknown's Battlegrounds Stats | - |
-| [Stats](/Stats) | Register usernames/ID's to your account and easily view the stats. | _\[prefix\]_gs \| register \| reg |
+| [Stats](/Stats) | Register usernames/ID's to your account and easily view the stats. | \[prefix\]gs \| register \| reg |
 
 ---
 
@@ -59,11 +59,11 @@ _A complete command overview for all G4M3R bot commands, categorised._
 
 | _\[prefix\]_**Command** | **What does it do?** | **Aliases** |
 | :--- | :--- | :--- |
-| [Ban](/commands/moderation/ban.md) | Bans a user from the server and deletes their messages from the past week. | _\[prefix\]_b |
-| [Kick](/commands/moderation/kick.md) | Kicks a user from the server. | _\[prefix\]_k |
+| [Ban](/commands/moderation/ban.md) | Bans a user from the server and deletes their messages from the past week. | \[prefix\]b |
+| [Kick](/commands/moderation/kick.md) | Kicks a user from the server. | \[prefix\]k |
 | [Reason](/commands/moderation/reason.md) | Update a mod-log reason or belated adding of a reason. | - |
-| [Soft-Ban](/commands/moderation/soft-ban.md) | Bans/Unbans a user and deletes the user's messages of last 7 days. | _\[prefix\]_sb |
-| [Warn](/commands/moderation/warn.md) | Adds a warning, view lists or remove a warn. | _\[prefix\]_w |
+| [Soft-Ban](/commands/moderation/soft-ban.md) | Bans/Unbans a user and deletes the user's messages of last 7 days. | \[prefix\]sb |
+| [Warn](/commands/moderation/warn.md) | Adds a warning, view lists or remove a warn. | \[prefix\]w |
 
 ---
 
@@ -73,7 +73,7 @@ _A complete command overview for all G4M3R bot commands, categorised._
 | :--- | :--- | :--- |
 | [Embed](/commands/other/embed.md) | Create an embed from the predefined embed object you enter. | - |
 | [Imgur](/commands/other/imgur.md) | Upload an image to imgur and directly receive the image url. | - |
-| [Role](/commands/utility/role.md) | Add/Remove a role from the available self assignable roles to yourself. | _\[prefix\]_r |
+| [Role](/commands/utility/role.md) | Add/Remove a role from the available self assignable roles to yourself. | \[prefix\]r |
 
 ---
 
