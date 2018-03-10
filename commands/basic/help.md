@@ -37,8 +37,6 @@ Also it shows a one liner explanation about the command.
 
 **Alias:** `[prefix]h a`
 
-
-
 ---
 
 ### Help details
@@ -49,10 +47,6 @@ Includes a one line explanation about the command just like help all.
 #### Use:
 
 `[prefix]help details`
-
-**Alias:** `[prefix]h d`
-
-
 
 ---
 
@@ -69,11 +63,7 @@ It will show you what you need to know to use the command.
 
 #### Preview:
 
- `[prefix]h ping`
+`[prefix]h ping`
 
 ![](/assets/pingcommand.png)
-
-
-
-
 
