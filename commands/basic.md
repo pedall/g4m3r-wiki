@@ -1,46 +1,16 @@
-# All Basic Commands Rundown
+# G4M3R Basic commands:
 
-### [Ping](/commands/basic/ping.md)
+The basic commands provide information about the bot, the server and/or usersettings.  
+More in-depth and specified information about each command can be found on their respective pages.  
+[\[About\]](/commands/basic/about.md) [\[Botinfo\]](/commands/basic/botinfo.md) [\[Help\]](/commands/admin/saverole/help.md) [\[Info\]](/commands/basic/info.md) [\[Invite\]](/commands/basic/invite.md) [\[Ping\]](/commands/basic/ping.md) [\[Serverinfo\]](/commands/basic/serverinfo.md) [\[Shardinfo\]](/commands/basic/shardinfo.md) [\[Statistics\]](/commands/basic/statistics.md) [\[Usersettings\]](/commands/basic/usersettings.md)
 
-> Checks the command response time of the bot.
 
----
 
-### [Info](/commands/basic/info.md)
+To view the in-chat overview of all Basic commands use: **`.help basic `**or **`.h basic`**
 
-> Get the bots info \(servers, users, channels, etc\)
+![](/assets/basiccommands.png)
 
----
-
-### [Invite](/commands/basic/invite.md)
-
-> Find out more about the vision for G4M3R
-
----
-
-### [Shardinfo](/commands/basic/shardinfo.md)
-
-> Get some info about the shard the bot is running on
-
----
-
-### [Statistics](/commands/basic/statistics.md)
-
-> Get statistics about commands, users, etc
-
----
-
-### [Serverinfo](/commands/basic/serverinfo.md)
-
-> Get some valuable information about your server
-
----
-
-### [Usersettings](/commands/basic/usersettings.md)
-
-> Get all your user settings from the in-chat menu
-
----
+### 
 
 
 

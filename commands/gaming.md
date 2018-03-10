@@ -1,4 +1,4 @@
-# All Gaming Commands Rundown
+# All _Gaming_ Commands Rundown
 
 ### CS:GO
 

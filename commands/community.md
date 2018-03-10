@@ -1,4 +1,4 @@
-# All Community Commands Rundow
+# All _Community_ Commands Rundow
 
 ### [Accounts](commands/community/accounts.md)
 
