@@ -5,7 +5,7 @@ You can easily view information about the set permissions.
 
 #### Use:
 
-**Information:**
+**Get information:**
 
 `[prefix]permission` _View all commands with special permissions defined._
 
@@ -31,10 +31,8 @@ You can easily view information about the set permissions.
 
 ##### Preview:
 
-![](/assets/permissioncommanddisable.png)_  
+![](/assets/permissioncommanddisable.png)_    
 _
-
-
 
 `[prefix]permission remove <command name>`_ Removes all current exceptions for the specified command._
 
