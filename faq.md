@@ -1,62 +1,59 @@
-# **                                                  FAQ**
+# **FAQ**
 
-If you have any questions or suggestions you can join the G4M3R server [**here**](/ https://discord.gg/mtJyQjW "G4M3R Server Invite"). If you cant find what you´re  searching for you can look **here** for an answer.
+Here you can find answers to commonly asked questions. If you have any other questions or suggestions, please join the G4M3R server [**here**](/ https://discord.gg/mtJyQjW "G4M3R Server Invite").
 
 # Questions & Answers
 
 #### Q: Why wont G4M3R respond to me?
 
-**A**: Make sure you are using the right prefix \(default is .\). If that doesn't work then report it in the \#support channel in the G4M3R discord server \(Use this link: [**https://discord.gg/mtJyQjW**](https://discord.gg/mtJyQjW)\)
+**A:** Make sure you are using the right prefix \(default is g!\). If that doesn't work, then report it in the \#support channel in the G4M3R discord server \(Use this link: [**https://discord.gg/mtJyQjW**](https://discord.gg/mtJyQjW)\)
 
-#### Q: Something is broke on the bot/and or website, will it get fixed anytime soon?
+#### Q: Something is broken on the bot and/or website, will it get fixed anytime soon?
 
-**A**: Most likely the G4M3R development team already knows and they're doing there best to fix it. You can still let us know in the \#support channel in the G4M3R Server
+**A:** Most likely the G4M3R development team already knows and they're doing their best to fix it. You can still let them know in the \#support channel in the G4M3R Server
 
 #### Q: How do I change the prefix?
 
-**A**: `<prefix>`s prefix
+**A:** `[prefix]s prefix`
 
-**Example: **`g!s prefix .`
+**Example: ** `g!s prefix .`
 
-![](https://cdn.discordapp.com/attachments/282295514727448587/366998838847995905/image.png)
+![](/assets/prefixchange.png)
 
 #### Q: How do I use the events system?
 
-A: There is a very detailed description in the commands tab.
+**A:** Please view the [events](/commands/community/events.md) page for a very detailed guide.
 
-#### 
+#### Q: What is the input for duration and frequency in an event?
 
-#### Q: What is the input for duration and frequency in an event
+**A:** Units
 
-**A:** **Units **
+* `1 mo` = 1 month
 
-* _1 mo _
+* `1 w` = 1 week
 
-* _1 w = 1 week_
+* `1 d` = 1 day
 
-* _1 d = 1 day_
+* `1 h` = 1 hour
 
-* _1 h = 1 hour_
+* `1 m` = 1 minute
 
-* _1 m = 1 min_
-
-_Minimum unit is ´m´ for minutes _  
-**Important: **Format has always to be _&lt;number&gt;&lt;whitespace&gt;&lt;unit&gt;_  
+**Important: **Format always has to be `<number><space><unit>`  
 **Examples: **
 
-* 2.5h = 2 hours and 30 minutes
+* 2.5 h = 2 hours and 30 minutes
 
 * 130 m = 2 hours 10 minutes
 
-* 30h = 1 day and 6 hours
-
-#### 
+* 30 h = 1 day and 6 hours
 
 #### Q: Is there a cheat sheet for the bot?
 
-**A: There is:**
+**A: **There is:
 
-_.e_ // **lists all events** of this server
+* .h details // lists all the commands in detail
+
+* .e  // lists all events in the server
 
 * _.e add &lt;event-type&gt;_ // can be **"gaming" **or **"community"** or also without event type
 
@@ -84,44 +81,40 @@ _.e_ // **lists all events** of this server
 
 * _k_ or _kick_ // then type _@user_ or the _userID_ to **kick a user**
 
-* _b_ or _back_ // if option is shown go **back** to the last step
+A new pin is generated when setting private to false and true again
 
-* _q_ or_ quit _// **quit **the interactive menu
+#### **Q: How to join / leave an event?**
 
-**New pin is generated when setting priavte to false and true again **
+**A:**  Steps:
 
-#### 
+1. Type in `.events`
 
-#### **Q: How to join / leave an event ?**
+2. Type in the `[event ID]`_ _\(For example: `1` to select event with ID 1\)\*
 
-**A**:  example steps:
+3. Type in `join` \(or `leave`\)
 
-* type _.events_
-
-* type _1 \( to select event with ID **1**\)\*_
-
-* type _j \( to **join ** event\)\*_
-
-\*replace _join _ with _leave _ to **leave a joined event **  
-\*skip those steps by typing _.events join 1_
+A quicker alternative is to just type `.events join 1` or `.e j 1`
 
 #### Q: How to edit an event while creating it?
 
-**A: **example steps:
+**A:** Steps:
 
-* type _!events add_
-* type 5_\(to select max  amount to edit\) _
-* type _99\(new max amount input\)_
-* type _S\(to save it\)_
-* type _Q\(to leave menu\)_
+* Next to each category in the create event menu is a `[number]`
+* **Type in the number of the category you want to edit.**
+* Follow the instructions displayed.
+* Press the `enter` key to save your changes.
+* Type in `C` to go back.
+* Type `Q` to quit the event creation menu completely.
 
-#### Q: How i can make G4M3R join my server?
+#### Q: How can I make G4M3R join my server?
 
-**A: **Go to [https://g4m3r.xyz/](https://g4m3r.xyz/) and click on the **ADD **button or type **.join **in chat
+**A: **Go to [https://g4m3r.xyz/](https://g4m3r.xyz/) and click on the **ADD **button
+
+Or if you are in the G4M3R Discord Server, type `.join`** **in chat
 
 ![](https://cdn.discordapp.com/attachments/282295514727448587/366998370255896577/image.png)
 
-### **Q:How do i customize the cool new profile cards of the bot? **
+### **Q:How do I customise my profile cards?**
 
 **A: Check this!**
 
@@ -161,7 +154,6 @@ your clan / community \(feature in implementation\)
 
 ![](https://cdn.discordapp.com/attachments/282295514727448587/367000103954939904/image.png)
 
-  
 **custom backgrounds:**
 
 • open the menu with
@@ -190,8 +182,6 @@ or
 
 ![](https://cdn.discordapp.com/attachments/282295514727448587/367001079856234508/image.png)
 
-
-
 **games:**
 
 * register a game with _.gamesadd &lt;gamename&gt;_
@@ -214,8 +204,4 @@ _.help &lt;commandname&gt; or alias_
 &lt;&lt;example _.h accounts or .h g \( g is the alias for games\)_
 
 ![](https://cdn.discordapp.com/attachments/282295514727448587/367003961007276042/image.png)
-
-
-
-
 
