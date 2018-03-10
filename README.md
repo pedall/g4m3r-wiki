@@ -1,14 +1,18 @@
 # **G4M3R Wiki**
 <!-- notoc -->
 
-G4M3R is a multi-functional Discord bot that can help you get **YOUR** server **ACTIVE**. G4M3R has the **BEST** event system that allows you to create events within your server, and you have an option of making them private (password protected) or public. G4M3R doesn't only have the event system but loads of other features that can _spice_ up your server. In this wiki you can find how to use and setup G4M3R.
+G4M3R is a multi-functional Discord bot that can help _you_ get your **server active**. G4M3R has the **best event system** that allows you to create events within your server, and even the possibility to make them private (password protected) or public. G4M3R doesn't only have the event system but loads of other features that can _spice_ up your server. 
+If you want to how how to **set up G4M3R** on your server you're in the right place!
+
 
 ### G4M3R Links
 
-- [Invite G4M3R to your Discord Server](https://discordapp.com/oauth2/authorize?&client_id=270010330782892032&scope=bot)
-- [Join the support server](https://discord.gg/mtJyQjW)
+- [Invite G4M3R](https://discordapp.com/oauth2/authorize?&client_id=270010330782892032&scope=bot) to your Discord Server
+- [Join](https://discord.gg/mtJyQjW) the support server
+- [Setting Up](/setting-up.md) for your server.
 
-You can also donate to G4M3R using these links:
+
+Become a **Patreon** or donate on PayPal:
 
 - [Patreon](https://www.patreon.com/g4m3r) - "Donate to the G4M3R Patreon!" 
 - [Paypal](https://www.paypal.me/pedall) - "Make a one time donation to pedall!"
