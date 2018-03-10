@@ -30,7 +30,7 @@ using @user is only relevant if you use one of the USER variables
 ### Example
 
 ```
-g!embed {"plaintext":"Test","title":"Test","description":"Test","footer":{"text":"Test"},"thumbnail":"%authorimage%","image":"https://www.almanac.com/sites/default/files/birth_month_flowers-primary-1920x1280px_pixabay.jpg","fields":[{"name":"Test","value":"%authorimage%","inline":false}],"color":7458112}
+.embed {"plaintext":"Test","title":"Test","description":"Test","footer":{"text":"Test"},"thumbnail":"%authorimage%","image":"https://www.almanac.com/sites/default/files/birth_month_flowers-primary-1920x1280px_pixabay.jpg","fields":[{"name":"Test","value":"%authorimage%","inline":false}],"color":7458112}
 ```
 
 ![](https://cdn.discordapp.com/attachments/282295514727448587/358940001846689794/image.png)
