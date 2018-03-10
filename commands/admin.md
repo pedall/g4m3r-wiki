@@ -1,26 +1,20 @@
 # All _**Administrator**_ Commands Rundown
 
-### [Delete](/commands/admin/delete.md)
+The admin commands provide server administrator settings.  
+These settings can really make permanent changes to your server, for example the `nuke` command **PERMANENTLY** deletes messages.
 
-_\[prefix\]_**Delete** activates the deletion of your inputted command messages for specified commands.
+But these commands also allow you to make your server a cleaner and nicer!  
+For example have a welcome message for new users upon joining your server.
 
-### [Settings](/commands/admin/settings.md)
+* [\[Delete\]](/commands/admin/delete.md)
+* [\[Settings\]](/commands/admin/settings.md)
+* [\[Hibye\]](/commands/admin/hibye.md)
+* [\[Nuke\]](/commands/admin/nuke.md)
+* [\[Permission\]](/commands/admin/permission.md)
 
-_\[prefix\]_**Settings** shows all G4M3R server settings via in-chat messages which you can manage.
 
-### [Hibye](/commands/admin/hibye.md)
 
-_\[prefix\]_**Hibye**\_ \_allows you to set a welcome and/or goodbye message when members join and leave the server.
+To view all admin commands use: **`[prefix]h admin`**
 
-### [Nuke](/commands/admin/nuke.md)
-
-_\[prefix\]_**Nuke** obliterates a specified amount of messages without filter.
-
-### [Permission](/commands/admin/permission.md)
-
-_\[prefix\]_**Permission **Enable/Disable the permission of usage of commands in a specified channel
-
-### [Saverole](/commands/admin/saverole.md)
-
-_\[prefix\]_**Settings** shows all G4M3R server settings via in-chat messages which you can manage.
+![](/assets/admincategory.png)
 
