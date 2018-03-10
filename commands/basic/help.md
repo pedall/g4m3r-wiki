@@ -1,43 +1,69 @@
 # Help Command
 
-### Usage
+The help can be used in a few different ways. We will go through each different option below.
 
-```
-<prefix>help [command] [action]
-```
+* Help
+* Help all
+* Help details
+* Help &lt;command&gt;
+* Help &lt;category&gt;
 
-### Extended Help
+---
 
-* _help _- get general help
-* \_help all - \_list all commands with short description
-* _help compact_ - list all commands without description
-* _help  &lt;commandName&gt; _- list detailed help for a specific command
+### Help
 
-### Alias
+This shows you a quick overview of all available commands.
 
-* use the alias_ **h**_** **for _**help**_
+#### Use:
 
-### Example
+`[prefix]help`
 
-```
-g!help all
-```
+_**Alias**_: `[prefix]h`
 
-```
-g!help nuke
-```
+#### Preview:
 
-```
-g!help compact
-```
+![](/assets/helpcommand.png)
 
-![](https://cdn.discordapp.com/attachments/282295514727448587/359329947690598400/image.png)
+---
 
-![](https://cdn.discordapp.com/attachments/282295514727448587/359329952052674570/image.png)
+### Help all
 
-![](https://cdn.discordapp.com/attachments/282295514727448587/359329963520032768/image.png)
+Help all shows a full overview of all commands in the following categories: Admin, Basic, Gaming Stats, Moderation.  
+Also it shows a one liner explanation about the command.
 
-### Alias
+#### Use:
 
-Use the alias **h** for help
+`[prefix]help all`
+
+**Alias:** `[prefix]h a`
+
+---
+
+### Help details
+
+Help details shows all commands in the following categories: Admin, Basic, Fun, Community, Gaming Stats, Moderation, Utility.  
+Includes a one line explanation about the command just like help all.
+
+#### Use:
+
+`[prefix]help details`
+
+---
+
+### Help &lt;command&gt;
+
+With this great and useful command you can request information about any command available with G4M3R.  
+It will show you what you need to know to use the command.
+
+#### Use:
+
+`[prefix]help <command>`
+
+**Alias:** `[prefix]h <command alias>`
+
+#### Preview:
+
+`[prefix]h ping`
+
+![](/assets/pingcommand.png)
 

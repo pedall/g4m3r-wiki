@@ -27,9 +27,9 @@
 g!usersettings
 ```
 
-![](https://cdn.discordapp.com/attachments/282295514727448587/359343900357296138/image.png)
 
-![](https://cdn.discordapp.com/attachments/282295514727448587/359343912323907584/image.png)
+
+
 
 ### Alias
 

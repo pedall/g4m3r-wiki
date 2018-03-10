@@ -1,14 +1,15 @@
 # About Command
 
-### Usage
+The **About** command provides some basic information about the bot and where you can find useful links.  
+A brief summery of the visions and awesome features for G4M3R is also shown here as well!
 
-`<prefix>about`
+#### Use:
 
-### Example
+`[prefix]about`
 
-```
- .about
-```
+#### 
 
-![](https://cdn.discordapp.com/attachments/282295514727448587/360804676112744458/image.png)
+#### Preview:
+
+![](/assets/aboutcommand.png)
 

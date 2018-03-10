@@ -1,4 +1,4 @@
-# All Moderation Commands Rundown
+# All _Moderation_ Commands Rundown
 
 ### Ban
 

@@ -1,6 +1,6 @@
 # Setting Up
 
-In this section, you can find how to set up the bot on your server and how to use its commands. There will also be links to more in-depth guides related to the bot. 
+In this section, you can find how to set up the bot on your server and how to use its commands. There will also be links to more in-depth guides related to the bot.
 
 ### Adding G4M3R Bot to your Server.
 
@@ -12,15 +12,21 @@ To add the bot, you must have the 'Manage Server' permission in the server you w
 
 ### Changing the Prefix
 
-The default prefix for G4M3R bot is **`g!`**
-The prefix can be changed in the settings menu using **`g!settings`**
+The default prefix for G4M3R bot is `g!`  
+The prefix can be changed in the settings menu using `g!settings`
 
 For a more in-depth explanation, visit the [prefix](/setting-up/prefix.md) page.
 
 ### Further Setting Up
 
-You have now successfully added the bot to your server and used a command! You can further adjust the bot to fit your server. 
-We recommend you start with the **`g!settings`** menu. For example you can add other admins and moderators to the bot.
+You have now successfully added the bot to your server and used a command! You can further adjust the bot to fit your server.   
+We recommend you start with the `g!settings` menu. For example you can add other admins and moderators to the bot.
 
 For more information about the commands related to administrating, visit the [admin](/Commands/admin.md) page.
+
+
+
+
+
+_**Tip:** Create a bot commands channel in your server and use that for all commands and to try out so you dont flood your general chat._
 
