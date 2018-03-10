@@ -1,8 +1,7 @@
-# G4M3R Basic commands:
+# G4M3R _Basic_ commands:
 
 The basic commands provide information about the bot, the server and/or usersettings.  
-More in-depth and specified information about each command can be found on their respective pages.  
-
+More in-depth and specified information about each command can be found on their respective pages.
 
 * [\[About\]](/commands/basic/about.md)
 * [\[Botinfo\]](/commands/basic/botinfo.md)

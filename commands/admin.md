@@ -1,4 +1,4 @@
-# All _**Administrator**_ Commands Rundown
+# G4M3R _**Administrator**_ Commands:
 
 The admin commands provide server administrator settings.  
 These settings can really make permanent changes to your server, for example the `nuke` command **PERMANENTLY** deletes messages.
@@ -12,9 +12,7 @@ For example have a welcome message for new users upon joining your server.
 * [\[Nuke\]](/commands/admin/nuke.md)
 * [\[Permission\]](/commands/admin/permission.md)
 
-
-
-To view all admin commands use: **`[prefix]h admin`**
+To view all admin commands use: `[prefix]h admin`
 
 ![](/assets/admincategory.png)
 
