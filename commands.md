@@ -15,7 +15,6 @@ _A complete command overview for all G4M3R bot commands, categorised._
 | [Saverole](/commands/admin/saverole.md) | Add a given role to the  list of self-assignable roles in your server. | \[prefix\]sr |
 | [Settings](/commands/admin/settings.md) | All server settings via an easy in-chat menu. | \[prefix\]s |
 
-
 ---
 
 ### [Basic](/commands/basic.md)
@@ -30,9 +29,8 @@ _A complete command overview for all G4M3R bot commands, categorised._
 | [Ping](/commands/basic/ping.md) | Checks the command response time  of thebot. | \[prefix\]pong |
 | [Serverinfo](/commands/basic/serverinfo.md) | Displays valuable information about    your Discord server | \[prefix\]si |
 | [Shardinfo](/commands/basic/shardinfo.md) | Provides some details about the bot and its status. | \[prefix\]shard |
-| [Statistics](/commands/basic/statistics.md) | Get basic statistics about command usage. | \[prefix\]st | 
+| [Statistics](/commands/basic/statistics.md) | Get basic statistics about command usage. | \[prefix\]st |
 | [Usersettings](/commands/basic/usersettings.md) | All personal user settings via an easy  in-chat menu. | \[prefix\]us |
-
 
 ---
 
@@ -70,7 +68,7 @@ _A complete command overview for all G4M3R bot commands, categorised._
 | [Kick](/commands/moderation/kick.md) | Kicks a user from the server. | \[prefix\]k |
 | [Mail](/commands/moderation/mail.md) | Update a mod-log reason or belated adding of a reason. | - |
 | [Reason](/commands/moderation/reason.md) | Update a mod-log reason or belated adding of a reason. | - |
-| [Softban](/commands/moderation/soft-ban.md) | Bans/Unbans a user and deletes the user's messages of last 7 days. | \[prefix\]sb |
+| [Softban](/commands/moderation/softban.md) | Bans/Unbans a user and deletes the user's messages of last 7 days. | \[prefix\]sb |
 | [Unban](/commands/moderation/unban.md) | Bans/Unbans a user and deletes the user's messages of last 7 days. | \[prefix\]sb |
 | [Warn](/commands/moderation/warn.md) | Adds a warning, view lists or remove a warn. | \[prefix\]w |
 
@@ -84,8 +82,6 @@ _A complete command overview for all G4M3R bot commands, categorised._
 | [Imgur](/commands/utility/imgur.md) | Upload an image to imgur and directly receive the image url. | - |
 | [Role](/commands/utility/role.md) | Add/Remove a role from the available self assignable roles to yourself. | \[prefix\]r |
 | [tag](/commands/utility/tag.md) | Add/Remove a role from the available self assignable roles to yourself. | \[prefix\]r |
-
-
 
 ---
 
