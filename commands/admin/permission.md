@@ -19,7 +19,9 @@ You can easily view information about the set permissions.
 
 ![](/assets/permissionscommand.png)
 
+##### 
 
+##### 
 
 ##### Set permissions:
 
@@ -27,11 +29,18 @@ You can easily view information about the set permissions.
 
 `[prefix]permission enable|disable <command name> <@role|#channel|id>` _Enable/Disable the use of an command for a specified @role or \#channel. This deletes old set permissions for the specified command regarding the specified @role / \#channel._
 
+##### Preview:
+
+![](/assets/permissioncommanddisable.png)_  
+_
+
+
+
 `[prefix]permission remove <command name>`_ Removes all current exceptions for the specified command._
 
 `[prefix]permission remove <command name> <@role|#channel|id>` _Removes all current exceptions for the specified command regarding the specified @role, \#channel or ID._
 
+##### Preview:
 
-
-
+![](/assets/permissioncommandroledisable.png)
 
