@@ -14,7 +14,7 @@
 .shardinfo
 ```
 
-![](/assets/shardinfo.png)
+
 
 ### Alias
 
