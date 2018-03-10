@@ -1,22 +1,28 @@
 # Delete Command
 
-### Usage
+The **Delete** command is a very useful command. With it you can automatically delete command messages of a specified command.
 
-```
-<prefix>delete [command]
-```
+#### Use:
 
-### Alias
+`[prefix]delete`
 
-* Use the alias **del **for _**delete **_
+Alias: `[prefix]del`
 
-### Example
+#### 
 
-```
-.delete nuke
-```
+#### Example:
 
-![](https://cdn.discordapp.com/attachments/282295514727448587/359327461076500480/image.png)
+Deletion of command  _&lt;ping&gt;_ ** DISABLED**:
 
-![](https://cdn.discordapp.com/attachments/282295514727448587/359327255341694977/image.png)
+`[prefix]ping` is entered into the chat.  
+G4M3R bot will show the ping message, however your message`[prefix]ping` remains in the chat.
+
+Deletion of command _ &lt;ping&gt;_  **ENABLED**:
+
+`[prefix]ping` is entered into the chat.  
+G4M3R bot will show the ping message and your command message `[prefix]ping` will automatically be removed from the chat.
+
+#### Preview:
+
+![](/assets/deletioncommandenabled.png)
 
