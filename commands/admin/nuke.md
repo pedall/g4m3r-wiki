@@ -8,9 +8,7 @@ All different possibilities are listed below.
 * `[prefix]nuke <amount> <me>` Delete x amount of messages of yourself. _\(User initiating command\)_
 * `[prefix]nuke <amount> <@user>`  Delete x amount of messages of mentioned user.
 * `[prefix]nuke <amount> <link|invite|upload>`  Delete x amount of messages of links, invites or messages with attachments.
-* `[prefix]nuke <amount> <you|bots>` Delete x amount of messages from G4M3R `<you> `or all bots on the server` <bots>`
-
-
+* `[prefix]nuke <amount> <you|bots>` Delete x amount of messages from G4M3R `<you>`or all bots on the server`<bots>`
 
 #### Preview:
 
@@ -23,4 +21,8 @@ All different possibilities are listed below.
 `[prefix]nuke <amount>`
 
 ![](https://media.giphy.com/media/htt4U9gGGMUnAa67yO/giphy.gif)
+
+
+
+
 
