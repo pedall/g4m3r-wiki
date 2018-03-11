@@ -152,8 +152,6 @@ On the profile card you can show:
 | :--- | :--- |
 | \[prefix\]profile @username | View @mentioned user's profile |
 
-
-
 »» example:
 
 `.prof @pedall#2147`
