@@ -1,10 +1,14 @@
 # Profile Command
 
-### Usage
+The profile command allows you to view your profile or another users.
 
-```
-<prefix>profile [user]
-```
+#### Use
+
+`[prefix]profile <user>`_Leave the user field blank to view your own._
+
+#### Preview
+
+
 
 ### Extended Help
 

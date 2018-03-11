@@ -1,21 +1,44 @@
 # Accounts Command
 
-### Usage
+The accounts command allows you to add your account names \(for example steam\) to your[ profile](/commands/community/profile.md).
 
-`<prefix>accounts [action] [account-type] [account-ID] [whatever]`
+#### Use:`[prefix]accounts <action> <account-platform> <account-ID>`
 
-### Example
+**Actions and Alias:** 
 
-`g!acc register twitch patiggg`  
-`g!acc remove twitch`
+_Leave action blank to view registered accounts_
 
-![](https://cdn.discordapp.com/attachments/282295514727448587/358570853991972866/image.png)
+`register/reg` _to register a new account_
 
-![](https://cdn.discordapp.com/attachments/282295514727448587/358570861076414465/image.png)
+`remove/rem` _to remove an account_
 
-### Alias
+`update/upd` _to update the ID of an already registered account_
 
-* Use the alias _**acc** _for _**accounts**_
+`acc`_ can be used instead of accounts_
 
+---
 
+#### Add Account
+
+`[Prefix]accounts register steam genesis_frog`
+
+![](/assets/Ems_SteamReg.png)
+
+#### Remove Account
+
+`[prefix]accounts remove steam`
+
+![](/assets/Ems_Steamremove.png)
+
+#### Update Account
+
+`[prefix]accounts update steam green_frog`
+
+![](/assets/Ems_Steamupdate_preview.png)
+
+#### View Registered Accounts
+
+`[prefix]accounts`
+
+![](/assets/Ems_accregi_preview.png)
 
