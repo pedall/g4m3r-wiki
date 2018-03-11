@@ -1,30 +1,44 @@
 # Hibye Command
 
-### Usage
+The Hibye command is a great command that can be used together with [Embed](/commands/utility/embed.md) to create great welcome _\(hi!\)_ and goodbye _\(bye!\)_ messages.  
+There are quite a few aliases for the hibye command but lets keep it simple for now.
 
-```
-<prefix>(hibye|bye|hi|welcome|goodbye) [hibye] [action] [content] [whatever]
-```
+#### Use: `[prefix]hibye <hi/bye> <enable/disable/set/get>`
 
-### Extended Help
-
-**Create a welcome/goodbye notice however you wish possible :\) **
-
-**welcome/goodbye/hi/bye:**
-
-* Choose which type you would like to use, welcome system or goodbye system or both.
-
-**enable/disable/set/get:**
-
-* Choose what to do with the type you selected earlier. 
-* enable/disable the alerts.
-* _set \_a specific message or get_ and see what it looks like.
-
-### Example
-
-```
-.hibye
-```
+Lets break down the command line:  
+`[prefix]hibye` Letting the bot know you want to use this command \(aliases below\)  
+`<hi/bye>`  View or edit  `hi `or `bye` part of the command.  
+`<enable/disable/.../...>` Enable/disable the command in the current channel.  
+`<.../.../set/get> ` To insert a new message choose `<set>`. Or view the current message with `<get>`
 
 
+
+**Aliases for hibye:**
+
+* `[prefix]hi`
+* `[prefix]bye`
+* `[prefix]welcome`
+* `[prefix]goodbye`
+
+
+
+### Examples:
+
+**View** the current welcome/hi message: `[prefix]hi hi get`
+
+**Disable** the bye message in the current channel: `[prefix]hibye bye disable`
+
+**Set** a new welcome message: `[prefix]hi hi set {embededmessage}`
+
+
+
+**Preview:**
+
+`[prefix]hi hi enable`
+
+![](/assets/hibye-welcomeenable.png)
+
+`[prefix]hi bye disable`
+
+![](/assets/hibyegoodbyedisbale.png)
 
