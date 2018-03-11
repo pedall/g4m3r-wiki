@@ -14,9 +14,7 @@ The help can be used in a few different ways. We will go through each different 
 
 This shows you a quick overview of all available commands.
 
-#### Use:
-
-`[prefix]help`
+#### Use:`[prefix]help`
 
 _**Alias**_: `[prefix]h`
 
@@ -31,9 +29,7 @@ _**Alias**_: `[prefix]h`
 Help all shows a full overview of all commands in the following categories: Admin, Basic, Gaming Stats, Moderation.  
 Also it shows a one liner explanation about the command.
 
-#### Use:
-
-`[prefix]help all`
+#### Use:`[prefix]help all`
 
 **Alias:** `[prefix]h a`
 
@@ -44,9 +40,7 @@ Also it shows a one liner explanation about the command.
 Help details shows all commands in the following categories: Admin, Basic, Fun, Community, Gaming Stats, Moderation, Utility.  
 Includes a one line explanation about the command just like help all.
 
-#### Use:
-
-`[prefix]help details`
+#### Use:`[prefix]help details`
 
 ---
 
@@ -55,9 +49,7 @@ Includes a one line explanation about the command just like help all.
 With this great and useful command you can request information about any command available with G4M3R.  
 It will show you what you need to know to use the command.
 
-#### Use:
-
-`[prefix]help <command>`
+#### Use:`[prefix]help <command>`
 
 **Alias:** `[prefix]h <command alias>`
 

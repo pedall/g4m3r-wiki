@@ -3,9 +3,9 @@
 The **Permission** command lets you active or deactivate the usage of a specified command in a specific channel.  
 You can easily view information about the set permissions.
 
-#### Use:
 
-**Get information:**
+
+**Get permission information:**
 
 `[prefix]permission` _View all commands with special permissions defined._
 
@@ -31,7 +31,7 @@ You can easily view information about the set permissions.
 
 ##### Preview:
 
-![](/assets/permissioncommanddisable.png)_    
+![](/assets/permissioncommanddisable.png)_      
 _
 
 `[prefix]permission remove <command name>`_ Removes all current exceptions for the specified command._
