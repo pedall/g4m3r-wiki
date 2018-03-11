@@ -2,11 +2,13 @@
 
 The **Delete** command is a very useful command. With it you can automatically delete command messages of a specified command.
 
-#### Use: `[prefix]delete`
+#### Use: `[prefix]delete <command>`
 
-**Alias:** `[prefix]del`
+**Alias:** `[prefix]del <command>`
 
 #### Preview:
+
+`[prefix]del ping`
 
 ![](/assets/deletioncommandenabled.png)
 
@@ -29,8 +31,6 @@ Deletion of command _ &lt;ping&gt;_  **ENABLED**:
 G4M3R bot will show the ping message and your command message `[prefix]ping` will automatically be removed from the chat.
 
 ![](https://media.giphy.com/media/pcJQnhFzAWVQm2JKTY/giphy.gif)
-
-
 
 #### 
 
