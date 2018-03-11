@@ -6,7 +6,7 @@ The **Delete** command is a very useful command. With it you can automatically d
 
 `[prefix]delete`
 
-Alias: `[prefix]del`
+**Alias:** `[prefix]del`
 
 #### 
 
