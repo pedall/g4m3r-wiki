@@ -1,10 +1,8 @@
 # Background Command
 
-### Usage
+The backgrounds command allows you to change the background of your [profile](/commands/community/profile.md).
 
-```
-<prefix>background [backgroundID/category]
-```
+#### Use: `<prefix>background [backgroundID/category]`
 
 ### Extended Help
 
@@ -15,8 +13,6 @@
 ### Alias
 
 * Use the alias _**bg**_ for_** background**_
-
-
 
 ### Interactive Tutorial
 

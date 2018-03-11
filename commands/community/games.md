@@ -1,39 +1,24 @@
 # Games Command
 
-### Usage
+The games command allows you to add the games you play to your [profile](/commands/community/profile.md). You can adjust the order of the games in your list so your top 3 are shown. You can choose from over 55k games and 130 platforms.
 
-```
-<prefix>games [action] [gameID/game] [whatever]
-```
+#### Use: `[prefix]games <action> <game ID/game>`
 
-### Extended Help
+**Actions and Aliases:**
 
-* _games add &lt;name&gt; _\(add a game by searching for it\)
-* _games remove &lt;name&gt; _\(remove a game by selecting from a list\)
-* _games_ \(list all games you registered\)
-* _games priority_ \(change the order or games\) 
+_Leave action blank to view registered games_
 
-&gt;&gt; possible actions are _no action, add, and  remove_
+`add <game name>` _to add a game by its name_
 
-&gt;&gt;choose from over **55k games** and **130 platforms**
+`remove/rem <game name>` _to remove a game by its name_
 
-&gt;&gt;change the order of the games since _only top 3_ are shown in your profile
+`priority/prio` _opens up the menu to adjust the priority_
 
-### Alias
+`g` can be used instead of games
 
-* Use the alias _**g**_ for _**games**_
+---
 
-### Example
+### Add Game
 
-```
-g!games add Vainglory
-```
-
-![](https://cdn.discordapp.com/attachments/282295514727448587/358694987820695552/image.png)
-
-![](https://cdn.discordapp.com/attachments/282295514727448587/358694991222013953/image.png)
-
-### 
-
-
+`[prefix]games add overwatch`
 

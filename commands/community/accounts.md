@@ -6,7 +6,7 @@ The accounts command allows you to add your account names \(for example steam\) 
 
 Example of account platforms: steam, twitch, bnet, psn, xb1, uplay, nintendo
 
-**Actions and Alias:**
+**Actions and Aliases:**
 
 _Leave action blank to view registered accounts_
 

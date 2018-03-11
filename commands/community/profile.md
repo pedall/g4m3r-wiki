@@ -1,42 +1,18 @@
 # Profile Command
 
-The profile command allows you to view your profile or another users.
+The profile command allows you to view your profile or another users. Your profile shows your registered [accounts](/commands/community/accounts.md) and [games](/commands/community/games.md). You can also change the [background](/commands/community/background.md) of your profile!
 
-#### Use
+#### Use:`[prefix]profile <user>`
 
-`[prefix]profile <user>`_Leave the user field blank to view your own._
+_Leave the user field blank to view your own._
+
+**Alias: **`[prefix]prof <user>`
 
 #### Preview
 
+`[prefix]profile`
 
-
-### Extended Help
-
-**The profile card shows all your:**
-
-* registered game accounts
-* registered social accounts
-* clan/ community information
-* registered games
-* custom background
-
-&gt;&gt; use the _accounts_ command to register accounts
-
-&gt;&gt; use the _background_ command to select your custom background
-
-&gt;&gt; alias for the command is _prof_ and it works in-chat and via DM
-
-### Alias
-
-* Use the alias _**prof**_ for _**profile**_
-
-### Example
-
-```
-g!profile @pedall
-```
-
-![](https://cdn.discordapp.com/attachments/282295514727448587/358587417684344843/image.png)
+![](/assets/profilepreview.png)
 
 ### 
 
