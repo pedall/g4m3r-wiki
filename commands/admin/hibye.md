@@ -35,3 +35,14 @@ Lets break down the command line:
 
 ![](/assets/hibyegoodbyedisbale.png)
 
+
+
+
+
+
+
+
+
+_Did you know? You can even disable the bye message like this:_ `[prefix]hi bye disable`  
+_As hi/bye/welcome/goodbye are aliases for the calling the same command it doesnt matter which one you enter after the prefix._
+
