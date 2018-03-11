@@ -1,27 +1,22 @@
 # Nuke Command
 
-### Usage
+The **Nuke** command is a great way to quickly clean up some channels. You can use it in multiple ways, for example delete messages from a user, delete x amount of links, delete x amount of discord links or delete x amount of your own messages.
 
-```
-<prefix>nuke [amount]  [link|invite|bots|you|me|upload|user:user]
-```
+All different possibilities are listed below.
 
-### Extended Help
+* `[prefix]nuke <amount>`  Delete x amount of messages.
+* `[prefix]nuke <amount> <me>` Delete x amount of messages of yourself. _\(User initiating command\)_
+* `[prefix]nuke <amount> <@user>`  Delete x amount of messages of mentioned user.
+* `[prefix]nuke <amount> <link|invite|upload>`  Delete x amount of messages of links, invites or messages with attachments.
+* `[prefix]nuke <amount> <you|bots>` Delete x amount of messages from G4M3R `<you> `or all bots on the server` <bots>`
 
-&gt;&gt;**Options to nuke messages**
 
-* _.nuke \[x\]_: deletes x messages
-* _.nuke \[x\] @user_: deletes x messages from that user 
-* _.nuke \[x\] link_: deletes x posted links 
-* _.nuke \[x\] invite_: deletes x posted links 
-* _.nuke \[x\] bots_: deletes x messages from  all bots
-* _.nuke \[x\] you_: deletes x messages from the bot
-* _.nuke \[x\] me_: deletes x messages from the command author 
-* _.nuke \[x\] upload_: deletes x messages with attachments 
 
-### Alias
+#### Preview:
 
-* Use the alias _**n **for _**nuke **
+`[prefix]nuke 100`
+
+![](/assets/nukepreviewmaxmsg.png)
 
 ### Example
 
