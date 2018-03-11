@@ -31,7 +31,7 @@ You can easily view information about the set permissions.
 
 ##### Preview:
 
-![](/assets/permissioncommanddisable.png)_      
+![](/assets/permissioncommanddisable.png)_        
 _
 
 `[prefix]permission remove <command name>`_ Removes all current exceptions for the specified command._
