@@ -25,9 +25,7 @@
 
 ### Example
 
-```
-g!nuke 2 @g4m3r-beta
-```
+`[prefix]nuke <amount>`
 
-![](https://media.discordapp.net/attachments/282295514727448587/359015554868183042/image.png?width=1026&height=200)
+![](https://media.giphy.com/media/htt4U9gGGMUnAa67yO/giphy.gif)
 
