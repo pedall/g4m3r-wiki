@@ -4,7 +4,5 @@
 | :---: |
 
 
-![](/assets/maxresdefault.jpg)
-
-
+![](/assets/1_pBZ1aL7UcriEesvddpPOFg.png)
 
