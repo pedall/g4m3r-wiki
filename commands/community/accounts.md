@@ -4,7 +4,9 @@ The accounts command allows you to add your account names \(for example steam\) 
 
 #### Use:`[prefix]accounts <action> <account-platform> <account-ID>`
 
-**Actions and Alias:** 
+Example of account platforms: steam, twitch, bnet, psn, xb1, uplay, nintendo
+
+**Actions and Alias:**
 
 _Leave action blank to view registered accounts_
 
