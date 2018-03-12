@@ -25,7 +25,8 @@ using @user is only relevant if you use one of the USER variables
 
 &gt;&gt; guild variables **only work ** when command is used in a guild channel
 
-**Create your embed object on this website: **[http://nadekobot.me/embedbuilder/](http://nadekobot.me/embedbuilder/)
+**Create your embed object on this website: **[embedbuilder.nadekobot.me](http://nadekobot.me/embedbuilder/)  
+Soon there will be a custom Embed Builder in your dashboard ;\)
 
 ### Example
 
