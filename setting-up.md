@@ -4,7 +4,7 @@ In this section, you can find how to set up the bot on your server and how to us
 
 ### Adding G4M3R Bot to your Server.
 
-To add the bot, you must have the '_**Manage Server**_' permission in the server you would like to add it to, and then you can add the bot through the official G4M3R website \( [g4m3r.xyz](/g4m3r.xyz) \).
+To add the bot, you must have the '_**Manage Server**_' permission in the server you would like to add it to, and then you can add the bot through the official G4M3R website \( [g4m3r.xyz](https://www.g4m3r.xyz/) \).
 
 ![](https://media.discordapp.net/attachments/364017502638047233/420316688307716118/G4M3Raddscreenv2.png)
 
