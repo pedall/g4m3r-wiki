@@ -20,13 +20,12 @@ Become a **Patreon** or donate on PayPal:
 ### Developers
 
 - pedall: **Founder**
+- kyra: Full Stack Developer
+- ksham: Full Stack Developer
+- 4ever: Full Stack Developer
+- Zishan: Full Stack Developer
+- DestinyKarma: Backend Developer
 - Grade1801: Server Admin
-- 4ever: Developer
-- Zishan: Developer
-- ksham: Developer
-- Kashz: Developer
-- kyra: Developer
-- DestinyKarma: Developer
 
 ### Support Team
 
