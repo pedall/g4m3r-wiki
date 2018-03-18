@@ -27,7 +27,7 @@ Customising the prefix is possible in this menu. For a more detailed guide about
 
 ### \[2\] Admins
 
-In the admins menu you can add, and remove admins.   
+In the admins menu you can add and remove admins.  
 To add an admin use: `add @mention`  
 To delete an admin use: `del @mention`
 
@@ -47,26 +47,25 @@ Be aware that when you add an admin they can **access ALL** the server settings 
 
 * #### \[1\] Mod Log Status
 
-  Turn the log status on or off. The Mod Log are automatically generated messages of any warn / kick / ban and auto moderation. 
+  Turn the log status on or off. The Mod Log consists of automatically generated messages of any warn / kick / ban and auto moderation in the whole server.
 
 * #### \[2\] Mod Log Channel
 
   You can select any channel \(where the bot has rights\) for the mod log to automatically send the status messages.  
   Select option 2 and then enter the \#channel-name to select the channel.  
-  ![](/assets/server_mod_moglodchannel.png)  
+  ![](/assets/server_mod_moglodchannel.png)
 
 * #### \[3\] Mod Log Colors
 
   You can change the colours of the warn, kick and ban log messages. The colour codes are hex-codes.  
   ![](/assets/server_moderation_modlogcolours.png)  
-  If you want to change the colour, for example of warnings to yellow, use: `warn #EEE514 it will then look like this:  
-  `![](/assets/mod_warnyellow.png)
+  If you want to change the colour, for example of warnings to yellow, use: `warn #EEE514 it will then look like this:`![](/assets/mod_warnyellow.png)
 
 * #### \[4\] Auto-Moderation
 
-  **\[1\] **Turn on/off the auto-moderation on your server.**  
+  **\[1\] Turn on/off** the auto-moderation on your server.**  
   \[2\] **Change the **max. amount of warnings** someone should receive _BEFORE_ auto-moderation kicks in.**  
-  \[3\] **Turn on/off the inactivity moderation on your server.  
+  \[3\] Turn on/off** the inactivity moderation on your server.  
   **\[4\] **The time between a person is _allowed to be inactive_ before **auto-moderation** kicks in. This is from their last send message.  
   **\[5\] **You can add roles to the bot, that it will **ignore for the auto-moderation**. For example your moderators, when learning the commands.  
   **\[6\]** What will happen when someone surpasses the max. amount of warnings on your server. You can choose between _kick_ / _role_.  
@@ -79,10 +78,9 @@ Be aware that when you add an admin they can **access ALL** the server settings 
 * #### \[5\] Moderation Roles
 
   To add roles that are allowed to use moderation with the G4M3R bot.  
-  `add @role ` or  `del @role` to add or delete a role from this list.  
+  `add @role` or  `del @role` to add or delete a role from this list.
 
-
-  ![](/assets/server_mod_mod-roles.png)
+![](/assets/server_mod_mod-roles.png)
 
 * #### **\[6\] Moderation Mails**
 
