@@ -59,9 +59,9 @@ Be aware that when you add an admin they can **access ALL** the server settings 
 
   You can change the colours of the warn, kick and ban log messages. The colour codes are hex-codes.  
   ![](/assets/server_moderation_modlogcolours.png)  
-  If you want to change the colour, for example of warnings to yellow, use: `warn #EEE514` it will then look like this:
-
-* ![](/assets/mod_warnyellow.png)
+  If you want to change the colour, for example of warnings to yellow, use: `warn #EEE514` it will then look like this:  
+  
+  ![](/assets/mod_warnyellow.png)
 
 * #### \[4\] Auto-Moderation
 
