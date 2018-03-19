@@ -4,7 +4,7 @@ The profile command allows you to view your profile or another users. Your profi
 
 #### Use:`[prefix]profile <user>`
 
-_Leave the user field blank to view your own._
+_Leave the user field blank to view your own profile._
 
 **Alias: **`[prefix]prof <user>`
 

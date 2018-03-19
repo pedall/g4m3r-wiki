@@ -2,42 +2,33 @@
 
 The backgrounds command allows you to change the background of your [profile](/commands/community/profile.md).
 
-#### Use: `<prefix>background [backgroundID/category]`
+#### Use: `[prefix]background`
 
-### Extended Help
+**Alias:** `[prefix]bg`
 
-* _background_ \( opens interactive menu with all backgrounds\]
-* _background \[category name\] _\(opens menu with backgrounds of that category\)
-* _background \[background number\] _\(directly select that background\) 
+**Further use:**
 
-### Alias
+`[prefix]background <category>`_ \_to search all backgrounds within that category._  
+Categories include: anime, fun, games, other, racing, coding, fantasy and space.  
+\_Leaving the category blank lists all the backgrounds.
 
-* Use the alias _**bg**_ for_** background**_
+`[prefix]background <background number>` to immediately select the background with that ID, without previewing.
 
-### Interactive Tutorial
+---
 
-* type numbers to select
-* type _letters/ words_ words for the options \(e.g. **q** for quitting the menu\)
+#### Example
 
-&gt;&gt; valid category names are _anime, fun, games, others and racing_
+`[prefix]background games`
 
-### Example
+![](/assets/Ems_bg-Games.png)
 
-```
-g!background 12
-```
+Use the reactions to change the menus page. Enter the number of the background you would like to preview.
 
-```
-g!background fun
-```
+![](/assets/Ems_AC-BG.png)
 
-![](https://cdn.discordapp.com/attachments/282295514727448587/358591334245728287/image.png)
+Enter `Y` or `N` to select or go back to the menu, or `Q` to quit completely.
 
-![](https://cdn.discordapp.com/attachments/282295514727448587/358592260314759170/image.png)
-
-![](https://cdn.discordapp.com/attachments/282295514727448587/358591344010067969/image.png)
-
-### 
+### ![](/assets/Ems_Profile.png)
 
 
 

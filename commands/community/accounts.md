@@ -8,21 +8,21 @@ Example of account platforms: steam, twitch, bnet, psn, xb1, uplay, nintendo
 
 **Actions and Aliases:**
 
-_Leave action blank to view registered accounts_
+`acc` can be used instead of accounts
 
-`register/reg` _to register a new account_
+Leave action blank to view registered accounts
 
-`remove/rem` _to remove an account_
+`add/a` to add a new account
 
-`update/upd` _to update the ID of an already registered account_
+`remove/rem` to remove an account
 
-`acc`_ can be used instead of accounts_
+`update/upd` to update the ID of an already registered account
 
 ---
 
 #### Add Account
 
-`[Prefix]accounts register steam genesis_frog`
+`[Prefix]accounts add steam genesis_frog`
 
 ![](/assets/Ems_SteamReg.png)
 
