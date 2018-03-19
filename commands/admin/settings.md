@@ -59,15 +59,15 @@ Be aware that when you add an admin they can **access ALL** the server settings 
 
   You can change the colours of the warn, kick and ban log messages. The colour codes are hex-codes.  
   ![](/assets/server_moderation_modlogcolours.png)  
-  If you want to change the colour, for example of warnings to yellow, use: `warn #EEE514 it will then look like this:`![](/assets/mod_warnyellow.png)
+  If you want to change the colour, for example of warnings to yellow, use: `warn #EEE514` it will then look like this:![](/assets/mod_warnyellow.png)
 
 * #### \[4\] Auto-Moderation
 
   **\[1\] Turn on/off** the auto-moderation on your server.**  
   \[2\] **Change the **max. amount of warnings** someone should receive _BEFORE_ auto-moderation kicks in.**  
   \[3\] Turn on/off** the inactivity moderation on your server.  
-  **\[4\] **The time between a person is _allowed to be inactive_ before **auto-moderation** kicks in. This is from their last send message.  
-  **\[5\] **You can add roles to the bot, that it will **ignore for the auto-moderation**. For example your moderators, when learning the commands.  
+  **\[4\] **The time between a person is _allowed to be inactive_ before **auto-moderation** kicks in. This is from their last sent message.  
+  **\[5\] **You can add roles to the bot that it will **ignore for the auto-moderation**. For example your moderators, when learning the commands.  
   **\[6\]** What will happen when someone surpasses the max. amount of warnings on your server. You can choose between _kick_ / _role_.  
   **\[7\]** What will happen when someone surpasses the amount of time between their last message and now. _Kick_ or _Role_.  
   **\[8\]** You can @mention the role here you want to choose for the auto-moderation **inactivity** role.  
