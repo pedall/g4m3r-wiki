@@ -37,8 +37,35 @@ Lets break down the command line:
 
 
 
+You can set the welcome message with just text, or with a pretty embed message.  
+Values that you can use for the welcome message:
+
+| Author related: | User related: | Guild related: |
+| :--- | :--- | :--- |
+| %author% | %user% | %guild% |
+| %authormention% | %usermention% | %guildimage% |
+| %authorimage% | %userimage% |  |
 
 
-_Did you know? You can even disable the bye message like this:_ `[prefix]hi bye disable`  
-_As hi/bye/welcome/goodbye are aliases for the calling the same command it doesnt matter which one you enter after the prefix._
+
+**A %usermention% welcome message:**
+
+![](/assets/usermentionvalue2.png)
+
+
+
+**An example of the author values + guild values.**
+
+![](/assets/embedvalues.png)
+
+
+
+If you want to know how to set up an embed message, check [Embed.](/commands/utility/embed.md)
+
+_Did you know? You can even disable the bye message like this:_ `[prefix]`**`hi`**` bye disable`  
+_As hi/bye/welcome/goodbye are aliases for the calling the same command it doesnt matter which one you enter directly after the prefix._
+
+
+
+
 
