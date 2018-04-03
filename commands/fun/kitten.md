@@ -1,18 +1,16 @@
 # Kitten Command
 
-### Usage
+The kitten command returns a random gif or image of a kitten.
 
-```
-<prefix>kitten
-```
+### Use: `[prefix]kitten <Optional: img>`
+
+Adding img to the end returns a kitten image.
 
 ### Example
 
 ```
 .kitten
 ```
-
-![](https://cdn.discordapp.com/attachments/282295514727448587/358943557253464065/image.png)
 
 ![](https://cdn.discordapp.com/attachments/282295514727448587/358943414949117952/sweetpuppy.gif)
 
