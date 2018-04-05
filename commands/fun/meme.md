@@ -13,7 +13,7 @@ _Leave search text blank to view all meme templates. Selecting a template previe
 
 `[meme name]` to post one of your saved memes.
 
-`list` to get a link to a list of all meme templates \(`[prefix]meme add` is a easier to view all templates though!\)
+`list` to get a link to a list of all meme templates \(`[prefix]meme add` is easier to view all templates though!\)
 
 `delete / del / remove / rem [meme ID]` to remove a meme from your saved memes.
 
@@ -29,7 +29,7 @@ Enter `Y` or `N` to select or reject the template. Rejecting returns you to the 
 Entering `Q` will quit meme creation completely.
 
 You are asked to enter the **top line** of your meme first, and then the **bottom line.**  
-Enter an underscore**`_`** to leave either line blank.  
+Enter an underscore`_` to leave either line blank.  
 You are finally asked to enter a name for your meme. You can use this name to post your meme.
 
 You are shown a preview of your meme before you save it in case you want to make changes!  
@@ -51,8 +51,5 @@ Enter the corresponding letter to select that option.
 
 You can post a meme using its name as seen in the example below.
 
-`[prefix]meme <meme name>`  
-
-
-
+`[prefix]meme <meme name>`
 
