@@ -1,14 +1,16 @@
 # Info Command
 
-### Usage
+With the **info** command you can quickly view some very helpful links and a basic information how to use the bot.
 
-`<prefix>info`
+#### Use: `[prefix]info`
 
-### Example
+#### Preview:
 
-```
-.info
-```
+`[prefix]info`
+
+![](/assets/infocommand)
+
+
 
 
 
