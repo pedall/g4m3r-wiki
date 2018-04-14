@@ -25,8 +25,12 @@ _Leave search text blank to view all meme templates. Selecting a template previe
 
 Use the reactions to change pages. To preview a meme template, enter the number ID of the meme!
 
+![](/assets/ems_memeselectionmenu.png)
+
 Enter `Y` or `N` to select or reject the template. Rejecting returns you to the menu.  
 Entering `Q` will quit meme creation completely.
+
+![](/assets/ems_Joememe.png)
 
 You are asked to enter the **top line** of your meme first, and then the **bottom line.**  
 Enter an underscore`_` to leave either line blank.  
@@ -35,13 +39,17 @@ You are finally asked to enter a name for your meme. You can use this name to po
 You are shown a preview of your meme before you save it in case you want to make changes!  
 The options are shown in the menu.
 
+![](/assets/Ems_Joememeselected.png)
+
 ---
 
 #### More Meme Examples
 
 `[prefix]meme`
 
-Enter the ID number of a meme to view it.  
+Enter the ID number of a meme to view it.
+
+![](/assets/ems_Memeselection.png)  
 You have the option to:  
 `P` Post your meme  
 `D` Delete your meme  
@@ -49,7 +57,9 @@ You have the option to:
 `Q` Exit the menu completely  
 Enter the corresponding letter to select that option.
 
-You can post a meme using its name as seen in the example below.
+![](/assets/ems_selectedmeme.png)
 
-`[prefix]meme <meme name>`
+You can also post a meme using its name, for example `[prefix]meme <name>`
+
+
 
