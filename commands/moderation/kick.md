@@ -1,20 +1,12 @@
 # Kick Command
 
-### Usage
+The perfect way to ban the scum from your server, besides banning it will also delete the messages from the past 7 days. The number and reason are optional, keep in mind the user will see the reason why you banned this person through the DM that the bot sends.
 
-`<prefix>kick <username> [reason]`
+#### Use: `[prefix]kick @user`
 
-### Alias
+Extended use**:** `[prefix]kick @user [reason]`
 
-* Use the alias _**k** _for _**kick**_
+#### Preview:
 
-### Example
-
-`g!kick @legendworld test`
-
-![](/assets/kick.jpg)
-
-### 
-
-
+`[prefix]kick @music For testing purposes.`
 

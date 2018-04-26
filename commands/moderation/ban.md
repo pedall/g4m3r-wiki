@@ -8,5 +8,5 @@ Extended use**:** `[prefix]ban @user <number> [reason]`
 
 #### Preview:
 
-`[prefix]bot @music For testing purposes.`
+`[prefix]ban @music For testing purposes.`
 
