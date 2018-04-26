@@ -1,6 +1,9 @@
 # Kick Command
 
-The perfect way to ban the scum from your server, besides banning it will also delete the messages from the past 7 days. The number and reason are optional, keep in mind the user will see the reason why you banned this person through the DM that the bot sends.
+The perfect way to kick the spam bots from your server, or unwanted people. Keep in mind that if you kick someone they can come back on the server with a server invite.
+
+Its optional to give a reason for kicking a user. You can also add this later with the `.reason` command.  
+
 
 #### Use: `[prefix]kick @user`
 
