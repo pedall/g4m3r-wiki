@@ -1,24 +1,16 @@
-# Ban Command
+# Band Command
 
-### Usage
+The perfect way to ban the scum from your server, besides banning it will also delete the messages from the past 7 days. The number and reason are optional, keep in mind the user will see the reason why you banned this person through the DM that the bot sends.
 
-`<prefix>ban <username> [reason]`
+#### Use: `[prefix]ban @user`
 
-### Alias
-
-* Use the alias _**b**_ for _**ban**_
-
-### Example
-
-```
-.ban @legendworld test
-```
+Extended use**:** `[prefix]ban @user <number> [reason]`
 
 
 
-![](/assets/ban.jpg)
+#### Preview:
 
-### 
+`[prefix]bot @music For testing purposes.`
 
 
 
