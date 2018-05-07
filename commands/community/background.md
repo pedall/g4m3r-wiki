@@ -1,8 +1,8 @@
-# Background Command
+# Background
 
-The backgrounds command allows you to change the background of your [profile](/commands/community/profile.md).
+The backgrounds command allows you to change the background of your [profile](profile.md).
 
-#### Use: `[prefix]background`
+### Use: `[prefix]background`
 
 **Alias:** `[prefix]bg`
 
@@ -14,21 +14,17 @@ Categories include: anime, fun, games, other, racing, coding, fantasy and space.
 
 `[prefix]background <background number>` to immediately select the background with that ID, without previewing.
 
----
-
-#### Example
+### Example
 
 `[prefix]background games`
 
-![](/assets/Ems_bg-Games.png)
+![](../../.gitbook/assets/ems_bg-games.png)
 
 Use the reactions to change the menus page. Enter the number of the background you would like to preview.
 
-![](/assets/Ems_AC-BG.png)
+![](../../.gitbook/assets/ems_ac-bg.png)
 
 Enter `Y` or `N` to select or go back to the menu, or `Q` to quit completely.
 
-### ![](/assets/Ems_Profile.png)
-
-
+![](../../.gitbook/assets/ems_profile.png)
 

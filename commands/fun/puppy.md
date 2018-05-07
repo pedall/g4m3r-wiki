@@ -1,14 +1,14 @@
-# Puppy Command
+# Puppy
 
 The puppy command returns a random gif or image of a puppy.
 
-### Use: `[Prefix]puppy <Optional: img>`
+## Use: `[Prefix]puppy <Optional: img>`
 
 Adding img to the end returns a puppy image.
 
-### Example
+## Example
 
-```
+```text
 .puppy
 ```
 

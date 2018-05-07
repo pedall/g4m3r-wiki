@@ -1,8 +1,8 @@
-# Accounts Command
+# Accounts
 
-The accounts command allows you to add your account names \(for example steam\) to your[ profile](/commands/community/profile.md).
+The accounts command allows you to add your account names \(for example steam\) to your[ profile](profile.md).
 
-#### Use:`[prefix]accounts <action> <account-platform> <account-ID>`
+## Use:`[prefix]accounts <action> <account-platform> <account-ID>`
 
 Example of account platforms: steam, twitch, bnet, psn, xb1, uplay, nintendo
 
@@ -18,29 +18,27 @@ Leave action blank to view registered accounts
 
 `update/upd` to update the ID of an already registered account
 
----
-
-#### Add Account
+## Add Account
 
 `[Prefix]accounts add steam genesis_frog`
 
-![](/assets/Ems_SteamReg.png)
+![](../../.gitbook/assets/ems_steamreg.png)
 
-#### Remove Account
+## Remove Account
 
 `[prefix]accounts remove steam`
 
-![](/assets/Ems_Steamremove.png)
+![](../../.gitbook/assets/ems_steamremove.png)
 
-#### Update Account
+## Update Account
 
 `[prefix]accounts update steam green_frog`
 
-![](/assets/Ems_Steamupdate_preview.png)
+![](../../.gitbook/assets/ems_steamupdate_preview.png)
 
-#### View Registered Accounts
+## View Registered Accounts
 
 `[prefix]accounts`
 
-![](/assets/Ems_accregi_preview.png)
+![](../../.gitbook/assets/ems_accregi_preview.png)
 

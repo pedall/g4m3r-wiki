@@ -1,26 +1,22 @@
-# Serverinfo Command
+# Serverinfo
 
-### Usage
+## Usage
 
-```
+```text
 <prefix>serverinfo [days]
 ```
 
-### Alias
+## Alias
 
 * use the alias _**si**_ or _sinfo_ for _**serverinfo**_
 
-### 
+## Example
 
-### Example
-
-```
+```text
 g!serverinfo
 ```
 
-
-
-### Alias
+## Alias
 
 Use the alias **si** for server info
 

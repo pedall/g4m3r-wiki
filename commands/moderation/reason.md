@@ -1,18 +1,18 @@
-# Reason Command
+# Reason
 
-### Usage
+## Usage
 
 `<prefix>reason [ID] [reason] [...]`
 
-### Extended Help
+## Extended Help
 
-```
+```text
 Example: .reason 1 some new text
 ```
 
-### Example
+## Example
 
 .`reason 1 some new text`
 
-![](/assets/reason.jpg)
+![](https://github.com/pedall/g4m3r-wiki/tree/e02c9f1e99118cbc5606efe0a929aec2ad537940/assets/reason.jpg)
 

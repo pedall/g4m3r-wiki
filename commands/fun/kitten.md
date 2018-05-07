@@ -1,14 +1,14 @@
-# Kitten Command
+# Kitten
 
 The kitten command returns a random gif or image of a kitten.
 
-### Use: `[prefix]kitten <Optional: img>`
+## Use: `[prefix]kitten <Optional: img>`
 
 Adding img to the end returns a kitten image.
 
-### Example
+## Example
 
-```
+```text
 .kitten
 ```
 

@@ -1,12 +1,12 @@
-# Imgur Command
+# Imgur
 
-### Usage
+## Usage
 
-```
+```text
 <prefix>imgur [link]
 ```
 
-### Extended Help
+## Extended Help
 
 &gt;&gt;upload an image to imgur by:
 
@@ -17,9 +17,9 @@
 
 &gt;&gt; If using a URL please ensure that the URL ends witha common picture file extension
 
-### Example
+## Example
 
-```
+```text
 g!imgur http://i.imgur.com/z0LoCtz.png
 ```
 

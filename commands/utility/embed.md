@@ -1,12 +1,12 @@
-# Embed Command
+# Embed
 
-### Usage
+## Usage
 
-```
+```text
 <prefix>embed [user] [embed] [whatever]
 ```
 
-### Extended Help
+## Extended Help
 
 &gt;&gt; _Two options_ to create an embed:
 
@@ -28,9 +28,9 @@ using @user is only relevant if you use one of the USER variables
 **Create your embed object on this website: **[embedbuilder.nadekobot.me](https://embedbuilder.nadekobot.me/)  
 Soon there will be a custom Embed Builder in your dashboard ;\)
 
-### Example
+## Example
 
-```
+```text
 .embed {"plaintext":"Test","title":"Test","description":"Test","footer":{"text":"Test"},"thumbnail":"%authorimage%","image":"https://www.almanac.com/sites/default/files/birth_month_flowers-primary-1920x1280px_pixabay.jpg","fields":[{"name":"Test","value":"%authorimage%","inline":false}],"color":7458112}
 ```
 

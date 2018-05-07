@@ -1,8 +1,8 @@
-# Events Command
+# Events
 
-G4M3R has the best event system on Discord. It allows you to create private/public events. Private events require a password to join, which is sent to the event creator via direct message. Not only can you join/create events, you have some moderation over them. You can kick members you don't want in your event. The timezone of the event is related to the timezone set in the server [settings](/commands/admin/settings.md).
+G4M3R has the best event system on Discord. It allows you to create private/public events. Private events require a password to join, which is sent to the event creator via direct message. Not only can you join/create events, you have some moderation over them. You can kick members you don't want in your event. You can also change the timezone of a particular event!
 
-#### Use: `[prefix]events <action> <event type/ID>`
+## Use: `[prefix]events <action> <event type/ID>`
 
 **Actions and Aliases:**
 
@@ -10,7 +10,7 @@ G4M3R has the best event system on Discord. It allows you to create private/publ
 
 Leave action blank to view all events in the server.
 
-`add/a <event type>` to create an event  
+`create <event type>` to create an event  
 _Event type can be: gaming, community or calendar. If no event type is entered, the default is community._
 
 `show/s <event ID>` to show the details of the event with that ID
@@ -18,6 +18,10 @@ _Event type can be: gaming, community or calendar. If no event type is entered, 
 `join/j <event ID> <pin if private>` to join that event
 
 `leave/l <event ID>` to leave that event
+
+`deny <event ID>` to show that you will not be joining that event
+
+`search` to open the search menu.
 
 The following actions can only be used if you are the **event creator** or a **server admin**:
 
@@ -29,21 +33,26 @@ The following actions can only be used if you are the **event creator** or a **s
 
 `pin <event ID>` direct messages you the pin of a private event
 
----
+## Creating an Event
 
-#### Creating an Event
-
-`[prefix]events add`
+`[prefix]events create`
 
 Enter the number corresponding to the information you would like to edit. When editing a section, just follow the instructions displayed.
 
-![](/assets/Ems_EventCreate.png)
+![](../../.gitbook/assets/ems_eventcreate.png)
 
 Press the `enter` key to save your changes.  
 Enter `c` to cancel the change and return to the event creation menu.  
 Enter `q` to quit event creation completely.
 
-When editing the duration or frequency \(to change frequency, recurring must be set to true\) of the event, keep in the mind the format has to be `<number><space><unit>`
+When editing the events start date and time, you no longer need to enter it as  `YYYY/MM/DD hh:mm.`   
+You can enter it as any of the following:
+
+* `Friday 22:30`
+* `Tomorrow 10pm`
+* `2p` \(which will change the start date to today at 2pm\)
+
+When editing the frequency \(to change frequency, recurring must be set to true\) of the event, keep in the mind the format has to be `<number><space><unit>`
 
 Below, the unit is shown like `this`
 
@@ -63,23 +72,36 @@ Examples:
 
 `130 m` = 2 hours 10 minutes
 
-#### Private Events
+## Private Events
 
 When an event is set to private, the creator will be sent a pin via direct message. Any member wishing to join this event must enter the pin along with the join command.
 
 The direct message will look like this:
 
-![](/assets/Ems_Event-NewPin.png)
+![](../../.gitbook/assets/ems_event-newpin.png)
 
 So in this example, a user would type`<prefix>events join 2 9988`to join.
 
-#### ![](/assets/Ems_EventJoined.png)
+![](../../.gitbook/assets/ems_eventjoined.png)
 
-#### View All Server Events
+## View All Server Events
 
-`<prefix>events`
+`<prefix>events  
+<prefix>e`
 
-![](/assets/Ems_Eventlist.png)
+![](../../.gitbook/assets/ems_eventlist.png)
+
+## Search for an event
+
+`<prefix>search`
+
+Opens up a menu allowing you to enter a search criteria. 
+
+You can also enter your search criteria directly as part of the search command.
+
+`<prefix>search author: [@user / ID]   
+<prefix>search type: [event type]   
+<prefix>search tags: [tag1] [tag2] [tag3]`
 
 
 

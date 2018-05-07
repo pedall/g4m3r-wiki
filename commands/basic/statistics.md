@@ -1,16 +1,14 @@
-# Statistics Command
+# Statistics
 
-### Usage
+## Usage
 
 `<prefix>statistics`
 
-### Example
+## Example
 
 `g!statistics`
 
-### Alias
+## Alias
 
 * Use the alias _**st**_ for _**statistics**_
-
-
 

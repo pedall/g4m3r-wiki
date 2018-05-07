@@ -1,14 +1,12 @@
-# Invite Command
+# Invite
 
-### Usage
+## Usage
 
 `<prefix>invite`
 
-### Example
+## Example
 
-```
+```text
 .invite
 ```
-
-
 

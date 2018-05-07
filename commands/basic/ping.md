@@ -1,14 +1,12 @@
-# Ping Command
+# Ping
 
-### Usage
+## Usage
 
 `<prefix>ping`
 
-### Example
+## Example
 
-```
+```text
 .ping
 ```
-
-
 

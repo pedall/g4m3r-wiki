@@ -1,24 +1,20 @@
-# Shardinfo Command
+# Shardinfo
 
-### Usage
+## Usage
 
 `<prefix>shardinfo`
 
-### Alias
+## Alias
 
 * use the alias _**shard**_ for _**shardinfo**_
 
-### Example
+## Example
 
-```
+```text
 .shardinfo
 ```
 
-
-
-### Alias
+## Alias
 
 * Use the Alias **shard ** for shardinfo
-
-
 
