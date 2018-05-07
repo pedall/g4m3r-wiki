@@ -21,7 +21,8 @@ _Event type can be: gaming, community or calendar. If no event type is entered, 
 
 `deny <event ID>` to show that you will not be joining that event
 
-`search` to open the search menu.
+`search` to open the search menu.  
+_See the 'Search for an Event' section for tips on how to use the search command_
 
 The following actions can only be used if you are the **event creator** or a **server admin**:
 
@@ -91,7 +92,7 @@ So in this example, a user would type`<prefix>events join 2 9988`to join.
 
 ![](../../.gitbook/assets/ems_eventlist.png)
 
-## Search for an event
+## Search for an Event
 
 `<prefix>search`
 
