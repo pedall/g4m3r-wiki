@@ -138,3 +138,7 @@ Discord only allows a maximum of 50 channels in a category and a maximum of 500 
 
 When and if a server has more than 50 users trying to verify at the same time the bot will make a verification channel outside the main Verification Zone category. It will be a bit ugly, but remember only Admins and the user themself can see these channels. Majority of your users will not be effected. Nevertheless, once they complete the verification the channel will delete itself or it will be deleted after 10 minutes.
 
+### Auto Assign Role
+
+The bot also has a feature that can auto assign a role to a user when they join a server. This role is not assigned when you have the Verification System enabled. Once the user completes the verification process, the bot will assign the **Auto-Assign Role.**
+
