@@ -12,11 +12,11 @@ A verification system is a process that server owners can create on their server
 
 First we open up the settings menu:
 
-![](.gitbook/assets/image%20%289%29.png)
+![](.gitbook/assets/image%20%2810%29.png)
 
 Next we go under the Moderation settings:
 
-![](.gitbook/assets/image%20%2810%29.png)
+![](.gitbook/assets/image%20%2811%29.png)
 
 Next we go into \#8: Verification System
 
@@ -34,7 +34,7 @@ Once it has completed these steps you will see the following:
 
 ![](.gitbook/assets/image%20%283%29.png)
 
-For now let us skip the Verify First Message and we will come back to it in Step 2B.
+For now let us skip the Verify First Message and we will come back to it in [Step 2B](verification-system.md#step-2b-setting-the-first-message).
 
 {% hint style="warning" %}
 **Advanced Users:** You are able to change the Category or Role to whichever role and category you desire but we highly recommend using the default settings.
@@ -121,7 +121,7 @@ Once the user is finished as per the last step, they type **finish** to get to t
 
 The last step in the verification system must always have users type **.verify end**
 
-![](.gitbook/assets/image%20%2811%29.png)
+![](.gitbook/assets/image%20%2812%29.png)
 
 When a user types **.verify end**, the bot will do the following:
 
@@ -141,4 +141,10 @@ When and if a server has more than 50 users trying to verify at the same time th
 ### Auto Assign Role
 
 The bot also has a feature that can auto assign a role to a user when they join a server. This role is not assigned when you have the Verification System enabled. Once the user completes the verification process, the bot will assign the **Auto-Assign Role.**
+
+### Setting A Role Message
+
+You can set a Role Message alert to be sent under **Settings &gt; Moderation &gt; Role Messages** to send a message when the @verify role is removed or when the Auto Assign Role is added in a channel where you want the user to be alerted once they complete the verification process. For example, the Arena of Valor server moderators created this feature on their server to show even more cool information that the bot can do on their server once they complete the verification process.
+
+![Credit: Official Arena Of Valor Discord Server](.gitbook/assets/image%20%289%29.png)
 
