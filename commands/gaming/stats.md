@@ -14,13 +14,13 @@
 
 * **IF YOU HAVE A USERNAME / ID REGISTERED**
 
-  &lt;&lt; stats csgo** me **to get your CS:GO stats
+  &lt;&lt; stats csgo **me** to get your CS:GO stats
 
   • _stats overwatch me_ to get general quickplay and competitive stats
 
   • _stats overwatch me mostplayed_ to get your most played hero stats for quickplay and competitive
 
-•_ stats pubg me \[solo\|duo\|squad\]_
+• _stats pubg me \[solo\|duo\|squad\]_
 
 ```text
  to get the general stats for the respective modus
@@ -28,7 +28,7 @@
 
 • _stats pubg me \[solo\|duo\|squad\] \[last1\|last2\|last3\|last4\|last5\]_
 
-_ to get the last x games for the respective modus _
+ _to get the last x games for the respective modus_ 
 
 **» IF YOU DO NOT HAVE A USERNAME / ID REGISTERED OR WANT** **TO GET STATS FOR** **ANOTHER PLAYER**
 
@@ -36,7 +36,7 @@ _ to get the last x games for the respective modus _
 
 ## Alias
 
-* Use the alias **ow** for** overwatch, reg** for **register**, **most** for **mostplayed **
+* Use the alias **ow** for **overwatch, reg** for **register**, **most** for **mostplayed** 
 
 ## Example
 

@@ -8,7 +8,7 @@
 
 ## Alias
 
-* Use the alias _**r**_ for_** role **_
+* Use the alias _**r**_ for _**role**_ 
 
 ## Extended Help
 
@@ -26,7 +26,7 @@ _role &lt;roleName&gt;_
 
 **ADMIN ONLY**
 
-_role &lt;roleName&gt; @user _
+_role &lt;roleName&gt; @user_ 
 
 * Adds or removes a role to a specified user 
 

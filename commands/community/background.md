@@ -8,7 +8,7 @@ The backgrounds command allows you to change the background of your [profile](pr
 
 **Further use:**
 
-`[prefix]background <category>`_ \_to search all backgrounds within that category._  
+`[prefix]background <category>` _\_to search all backgrounds within that category._  
 Categories include: anime, fun, games, other, racing, coding, fantasy and space.  
 \_Leaving the category blank lists all the backgrounds.
 

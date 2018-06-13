@@ -34,20 +34,20 @@
     * [Kitten](commands/fun/kitten.md)
     * [Puppy](commands/fun/puppy.md)
   * [Gaming](commands/gaming/README.md)
-    * BF1
+    * [BF1](commands/gaming/bf1.md)
     * [CSGO](commands/gaming/csgo.md)
     * [Overwatch](commands/gaming/overwatch.md)
     * [PUBG](commands/gaming/pubg.md)
-    * Siege
+    * [Siege](commands/gaming/siege.md)
     * [Stats](commands/gaming/stats.md)
-    * Vainglory
+    * [Vainglory](commands/gaming/vainglory.md)
   * [Moderation](commands/moderation/README.md)
     * [Ban](commands/moderation/ban.md)
     * [Kick](commands/moderation/kick.md)
-    * Mail
+    * [Mail](commands/moderation/mail.md)
     * [Reason](commands/moderation/reason.md)
-    * Softban
-    * Unban
+    * [Softban](commands/moderation/softban.md)
+    * [Unban](commands/moderation/unban.md)
     * [Warn](commands/moderation/warn.md)
   * [Utility](commands/utility/README.md)
     * [Embed](commands/utility/embed.md)
@@ -55,4 +55,6 @@
     * [Role](commands/utility/role.md)
     * [Tag](commands/utility/tag.md)
 * [FAQ](faq.md)
+* [Verification System](verification-system.md)
+* [Stories](stories.md)
 

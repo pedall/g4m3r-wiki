@@ -2,7 +2,7 @@
 
 The definition of a prefix is to add a word, letter, number or sign placed before another as an introduction.  
 You put the _prefix infront of a command_, so that the bot knows you want to **use a command**.  
-_For example: _`g! help`_ will let the bot know you need help._
+_For example:_ `g! help` _will let the bot know you need help._
 
 ## **How to know what the prefix of G4M3R is:**
 
@@ -11,7 +11,7 @@ To change the prefix, _which is advised if you have another bot that uses the sa
 
 1. Make sure you are in a channel where the bot has the **access and permissions** set up as described in [**Setting Up**](./)**.** Anyone without admin rights on the bot will not be able to get into the settings menu.
 2. Access the **settings menu** of G4M3R Bot by typing `g! settings`  
-   Here you can **view** the currently set prefix as shown below at **\[ 1 \] **In this case the prefix is** **\`.
+   Here you can **view** the currently set prefix as shown below at **\[ 1 \]** In this case the prefix is ****\`.
 
    \`![](../.gitbook/assets/serversettings.png)
 
@@ -25,8 +25,8 @@ To change the prefix, _which is advised if you have another bot that uses the sa
    * Not used by discord itself.  
    * Not in use by any bot on your server.
 
-   **Special symbols are usually the best option or a combination of special symbols + letters.    
-   **_For example:_** **`. * $ ! gb! < >g`
+   **Special symbols are usually the best option or a combination of special symbols + letters.**    
+   _For example:_ ****`. * $ ! gb! < >g`
 
 _**Tip**_: _To quick change your prefix use_ `[prefix]s prefix [newprefix]`
 

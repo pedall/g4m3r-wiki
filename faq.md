@@ -18,7 +18,7 @@ Here you can find answers to commonly asked questions. If you have any other que
 
 **A:** `[prefix]s prefix`
 
-**Example: ** `g!s prefix .`
+**Example:**  `g!s prefix .`
 
 ![](.gitbook/assets/prefixchange.png)
 
@@ -36,8 +36,8 @@ Here you can find answers to commonly asked questions. If you have any other que
 * `1 h` = 1 hour
 * `1 m` = 1 minute
 
-**Important: **Format always has to be `<number><space><unit>`  
-**Examples: **
+**Important:** Format always has to be `<number><space><unit>`  
+**Examples:** 
 
 * 2.5 h = 2 hours and 30 minutes
 * 130 m = 2 hours 10 minutes
@@ -47,22 +47,22 @@ Here you can find answers to commonly asked questions. If you have any other que
 
 #### Q: Is there a cheat sheet for the bot?
 
-**A: **There is:
+**A:** There is:
 
 * .h details // lists all the commands in detail
 * .e // lists all events in the server
-* _.e add &lt;event-type&gt;_ // can be **"gaming" **or **"community"** or also without event type
+* _.e add &lt;event-type&gt;_ // can be **"gaming"** or **"community"** or also without event type
 * _.e join &lt;eventID&gt; &lt;pinCode&gt;_ // pincode only if event is set to private \(via edit only atm\)
 * _.e leave &lt;eventID&gt;_
 * _.e edit &lt;eventID&gt;_ // only if you are event author or server admin
 * _.e delete &lt;eventID&gt;_ // only if you are event author or server admin
 * ._e pin &lt;eventID&gt;_ // only if you are event author or server admin and event is private
-* in the menu** select stuff with numbers** // when numbers are shown
+* in the menu **select stuff with numbers** // when numbers are shown
 * _j_ or join _&lt;pinCode&gt;_ //**pincode** if event is private
-* _l_ or_ leave_
-* _e_ or_ edit_
+* _l_ or _leave_
+* _e_ or _edit_
 * _d_ or _delete_
-* _a_ or _attendees_ // gives you the** attendees view**
+* _a_ or _attendees_ // gives you the **attendees view**
 * _k_ or _kick_ // then type _@user_ or the _userID_ to **kick a user**
 
 A new pin is generated when setting private to false and true again.
@@ -72,7 +72,7 @@ A new pin is generated when setting private to false and true again.
 **A:** Steps:
 
 1. Type in `.events`
-2. Type in the `[event ID]`_ _\(For example: `1` to select event with ID 1\)\*
+2. Type in the `[event ID]` __\(For example: `1` to select event with ID 1\)\*
 3. Type in `join` \(or `leave`\)
 
 A quicker alternative is to just type `.events join 1` or `.e j 1`
@@ -90,9 +90,9 @@ A quicker alternative is to just type `.events join 1` or `.e j 1`
 
 #### Q: How can I make G4M3R join my server?
 
-**A: **Go to [https://g4m3r.xyz/](https://g4m3r.xyz/) and click on the **ADD **button
+**A:** Go to [https://g4m3r.xyz/](https://g4m3r.xyz/) and click on the **ADD** button
 
-Or if you are in the G4M3R Discord Server, type `.join`** **in chat
+Or if you are in the G4M3R Discord Server, type `.join` ****in chat
 
 ![](.gitbook/assets/joinmessage.png)
 
@@ -159,7 +159,7 @@ G**ames:**
 
 ![](https://cdn.discordapp.com/attachments/282295514727448587/367002728301330432/image.png)
 
-**help for each command **
+**help for each command** 
 
 _.help &lt;commandname&gt; or alias_
 

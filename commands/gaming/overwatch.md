@@ -6,7 +6,7 @@
 
 ## Alias
 
-* Use the alias _**ow**_ for_** overwatch**_
+* Use the alias _**ow**_ for _**overwatch**_
 
 ## Example
 

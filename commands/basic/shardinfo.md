@@ -16,5 +16,5 @@
 
 ## Alias
 
-* Use the Alias **shard ** for shardinfo
+* Use the Alias **shard**  for shardinfo
 

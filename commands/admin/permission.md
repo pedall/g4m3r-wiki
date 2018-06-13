@@ -27,7 +27,7 @@ You can easily view information about the set permissions.
 
 ![](../../.gitbook/assets/permissioncommanddisable.png)
 
-`[prefix]permission remove <command name>`_ Removes all current exceptions for the specified command._
+`[prefix]permission remove <command name>` _Removes all current exceptions for the specified command._
 
 `[prefix]permission remove <command name> <@role|#channel|id>` _Removes all current exceptions for the specified command regarding the specified @role, \#channel or ID._
 

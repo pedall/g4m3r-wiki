@@ -9,7 +9,7 @@
 ## Extended Help
 
 * _settings_ \(opens interactive menu with all guild settings\)
-* _settings \[menu\] _\(opens menu directly\)
+* _settings \[menu\]_ \(opens menu directly\)
 * \_settings \[menu\] \[input\] \(\_directly sets that input if possible\)
 
 ## Alias
@@ -19,7 +19,7 @@
 ## Interactive Tutorial
 
 * type numbers to select
-* type letters/ words for the options\( e.g. **q **for quitting the menu\)
+* type letters/ words for the options\( e.g. **q** for quitting the menu\)
 
 ## Example
 

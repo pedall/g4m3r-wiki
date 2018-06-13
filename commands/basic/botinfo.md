@@ -4,7 +4,7 @@ The **Botinfo** command provides information about the bot in general \(left on 
 
 ### Use:`[prefix]botinfo`
 
-_**Alias: **_`[prefix]bi`
+_**Alias:**_ `[prefix]bi`
 
 ### Preview:
 

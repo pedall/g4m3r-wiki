@@ -59,11 +59,11 @@ Be aware that when you add an admin they can **access ALL** the server settings 
 
 * **\[4\] Auto-Moderation**
 
-  **\[1\] Turn on/off** the auto-moderation on your server.**  
-  \[2\] **Change the **max. amount of warnings** someone should receive _BEFORE_ auto-moderation kicks in.**  
-  \[3\] Turn on/off** the inactivity moderation on your server.  
-  **\[4\] **The time between a person is _allowed to be inactive_ before **auto-moderation** kicks in. This is from their last sent message.  
-  **\[5\] **You can add roles to the bot that it will **ignore for the auto-moderation**. For example your moderators, when learning the commands.  
+  **\[1\] Turn on/off** the auto-moderation on your server.  
+  **\[2\]** Change the **max. amount of warnings** someone should receive _BEFORE_ auto-moderation kicks in.  
+  **\[3\] Turn on/off** the inactivity moderation on your server.  
+  **\[4\]** The time between a person is _allowed to be inactive_ before **auto-moderation** kicks in. This is from their last sent message.  
+  **\[5\]** You can add roles to the bot that it will **ignore for the auto-moderation**. For example your moderators, when learning the commands.  
   **\[6\]** What will happen when someone surpasses the max. amount of warnings on your server. You can choose between _kick_ / _role_.  
   **\[7\]** What will happen when someone surpasses the amount of time between their last message and now. _Kick_ or _Role_.  
   **\[8\]** You can @mention the role here you want to choose for the auto-moderation **inactivity** role.  
@@ -111,9 +111,9 @@ In the general tab you can set up GENERAL server settings, like the default serv
 
 ## \[6\] Tags
 
-**\[1\]** Set who is **allowed to create tags**._ All users / Admins & mods / Admins only._
+**\[1\]** Set who is **allowed to create tags**. _All users / Admins & mods / Admins only._
 
-**\[2\]** Set who is allowed to **"trigger" **\(use\) **tags **in the server. _All users / admins & mods / admins only_.
+**\[2\]** Set who is allowed to **"trigger"** \(use\) **tags** in the server. _All users / admins & mods / admins only_.
 
 **\[3\]** Deletes the name of the tag when spoken in the chat.
 
