@@ -92,7 +92,7 @@ Wow that was complicated! No worries, you can always refer back to this guide wh
 
 This KISS LFG Module setup is mostly designed if you believe your users will have trouble following directions and you want to keep it as simple as possible for your users.
 
-## Step 1: Setup The Category And Channels
+### Step 1: Setup The Category And Channels
 
 On my server, I have players from all over the world and to make sure LFG events are easy to find for them I created separate events channels on the server.
 
@@ -104,7 +104,7 @@ Each region was given it's own channel for LFG because players from one region a
 **Advanced Tip:** To take it a step further, you can create roles for each region and only allow each role to see their own specific channel so that users are not able to view or get spammed by channels they can not participate in.
 {% endhint %}
 
-## Step 2: Creating The First LFG Event
+### Step 2: Creating The First LFG Event
 
 Now you can go ahead and create an base LFG event. This event should be made so that players can find each other.
 
@@ -124,5 +124,9 @@ I also made this event **recurring every 24 hours.** This makes it so that every
 **Note:** Please make sure the bot also has **Manage Messages** permission in these channels so that it can delete these extra messages that are sent when a person leaves or joins.
 {% endhint %}
 
+Now you can simply create other events at times your other users request to play and make them recurring every 24 hours. Once the events, are made players can join with a simple tap of a reaction. There is no complicated stuff for users and it really is Keep It Simple Stupid!
 
+{% hint style="info" %}
+**Advanced Users:** You can also create a \#custom-lfg channel where you allow other users to create their own events. For example, some users on a server can handle a higher amount of responsibility and they can be given permission to create and manage events on a separate channel for advanced levels.
+{% endhint %}
 
