@@ -1,32 +1,23 @@
 # Embed
 
-## Usage
+You can use[ Nadeko embed builder](https://embedbuilder.nadekobot.me/) to create neat looking embeds.
 
-```text
-<prefix>embed [user] [embed] [whatever]
-```
+## `Use: <prefix>embed [optional: @user] [embed from Nadeko builder]`
 
-## Extended Help
+ Using @user is only relevant if you use one of the USER variables.
 
-&gt;&gt; _Two options_ to create an embed:
+## User Variables
 
-* _embed @user &lt;embedObject from Nadeko embed builder&gt;_
-* _embed &lt;embedObject from Nadeko embed builder&gt;_
-
-using @user is only relevant if you use one of the USER variables
-
-&gt;&gt; Possible _variables_ that will replaced by the bot:
+Here are the possible variables that will replaced by the bot:
 
 * _%author%, %authorimage%, %authormention%_
 * _%user%,%userimage%, %usermention%_
 * _%guild%, %guildimage%_
 
-&gt;&gt; user variables **only work** when mentioning a user together with the command
+User variables only work when mentioning a user together with the command and guild variables only work **** when command is used in a guild channel
 
-&gt;&gt; guild variables **only work**  when command is used in a guild channel
-
-**Create your embed object on this website:** [embedbuilder.nadekobot.me](https://embedbuilder.nadekobot.me/)  
-Soon there will be a custom Embed Builder in your dashboard ;\)
+  
+Soon there will be a custom Embed Builder in your dashboard
 
 ## Example
 

@@ -1,6 +1,6 @@
 # Events
 
-G4M3R has the best event system on Discord. It allows you to create private/public events. Private events require a password to join, which is sent to the event creator via direct message. Not only can you join/create events, you have some moderation over them. You can kick members you don't want in your event. You can also change the timezone of a particular event!
+G4M3R has the best event system on Discord. It allows you to create private/public events. Private events require a password to join, which is sent to the event creator via direct message. Not only can you join/create events, you have some moderation over them. You can kick members you don't want in your event, or add members. Members can now also deny joining an event, or be added to a waiting list if the max number of members is reached. 
 
 ## Use: `[prefix]events <action> <event type/ID>`
 
@@ -45,6 +45,10 @@ Enter the number corresponding to the information you would like to edit. When e
 Press the `enter` key to save your changes.  
 Enter `c` to cancel the change and return to the event creation menu.  
 Enter `q` to quit event creation completely.
+
+{% hint style="info" %}
+You can set multiple reminders for events at times of your choice!
+{% endhint %}
 
 When editing the events start date and time, you no longer need to enter it as  `YYYY/MM/DD hh:mm.`   
 You can enter it as any of the following:
@@ -98,11 +102,21 @@ So in this example, a user would type`<prefix>events join 2 9988`to join.
 
 Opens up a menu allowing you to enter a search criteria. 
 
+![](../../.gitbook/assets/events_search.png)
+
 You can also enter your search criteria directly as part of the search command.
 
-`<prefix>search author: [@user / ID]   
-<prefix>search type: [event type]   
-<prefix>search tags: [tag1] [tag2] [tag3]`
+`<prefix>events search author: [@user / ID]   
+<prefix>events search type: [event type]   
+<prefix>events search tags: [tag1] [tag2] [tag3]`
 
+Below is an example:
 
+```text
+.e search tags: search with tags
+```
+
+![](../../.gitbook/assets/events_searchexample.png)
+
+The event containing the tags is displayed.
 
