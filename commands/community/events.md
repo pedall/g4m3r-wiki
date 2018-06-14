@@ -46,9 +46,7 @@ Press the `enter` key to save your changes.
 Enter `c` to cancel the change and return to the event creation menu.  
 Enter `q` to quit event creation completely.
 
-{% hint style="info" %}
 You can set multiple reminders for events at times of your choice!
-{% endhint %}
 
 When editing the events start date and time, you no longer need to enter it as  `YYYY/MM/DD hh:mm.`   
 You can enter it as any of the following:

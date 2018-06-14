@@ -36,15 +36,11 @@ Once it has completed these steps you will see the following:
 
 For now let us skip the Verify First Message and we will come back to it in [Step 2B](verification-system.md#step-2b-setting-the-first-message).
 
-{% hint style="warning" %}
 **Advanced Users:** You are able to change the Category or Role to whichever role and category you desire but we highly recommend using the default settings.
-{% endhint %}
 
-{% hint style="danger" %}
 **DANGEROUS:** Reset Verification System will remove the channels, category, and roles associated with the Verification System if you click the Check Reaction.
 
 ![](.gitbook/assets/image%20%2810%29.png)
-{% endhint %}
 
 ## Step 2: Creating The Embeds
 
@@ -56,19 +52,13 @@ The \#verify channel will be where all members joining the server will join and 
 
 ![](.gitbook/assets/image%20%289%29.png)
 
-{% hint style="success" %}
 Always avoid having conversation or messages in this channel except this base message so when a user joins the server and this is the **ONLY** channel they can see it is easy for them to know what to do to start.
-{% endhint %}
 
 When a user joins the server and types **.verify** the message they typed will be deleted by the bot so the channel is kept clean for new users. Sometimes users will talk in this channel and it is recommended to use the **nuke** command to delete those messages once that conversation is finished.
 
-{% hint style="info" %}
 The reason we do not delete **every** message on this channel automatically with the bot is because sometimes new users may have difficulty with the process so it is good for them to be able to talk and ask for help.
-{% endhint %}
 
-{% hint style="success" %}
 **Advanced Users:** As a cool addition, you can use the **permission** command to disable all the commands on \#verify channel except the **verify** command so no other commands will work on the main \#verify channel.
-{% endhint %}
 
 ### Step 2B: Setting The First Message
 
@@ -87,27 +77,21 @@ In the first message, you can ask your users to take the first step in your proc
 
 ![](.gitbook/assets/image%20%282%29.png)
 
-{% hint style="warning" %}
 Never forget to make sure to include a line telling the user on how to proceed to the next step. In the image above, you can see the user is asked to type **toys** to go to the next step. I highly recommend using the footer in an embed to show your users on what to do for the next step.
 
 **Note:** Toys is not a bot command. It is a **tag** that we will create now.
-{% endhint %}
 
 ### Step 2C: Creating Your Second Step Tag
 
 If you are not aware of what a **tag** is please read about [here](commands/utility/tag.md).
 
-{% hint style="info" %}
 **Advanced Users:** You can also use **Stories** instead of a tag if you prefer. Learn more about what a story is [here](commands/utility/stories.md).
-{% endhint %}
 
 Now the user will type what you ask them to type to continue to the next step. In our case, we asked the user to type **toys**.
 
 ![](.gitbook/assets/image.png)
 
-{% hint style="info" %}
 **Advanced Users:** You can enable tag/story trigger deletion in **Settings** command in order to keep the channel cleaner and a much more professional feeling for users.
-{% endhint %}
 
 In my second step, I provide users a variety of different tags they can type to get access to those information. Let's suppose the user is interested in playing in our upcoming Talent Show league.
 

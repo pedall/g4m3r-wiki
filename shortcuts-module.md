@@ -14,9 +14,7 @@ Shortcuts are shorter versions of commands which can be created by server admins
 
 User shortcuts will work only for the user that created it and on any server they are on.
 
-{% hint style="info" %}
 **Note:** User shortcuts can only be created in a Private Message with the bot.
-{% endhint %}
 
 ### Step 1: Starting The Creation
 
@@ -34,9 +32,7 @@ The bot will ask you what shortcut you'd like to create. For example, I want to 
 
 Then the bot will ask you what command that shortcut is going to execute, in my case I will type in "vainglory hero".
 
-{% hint style="danger" %}
 **Note:** Do not ****add the prefix before the command while setting up a shortcut. Prefixes will be added automatically by the bot.
-{% endhint %}
 
 Done! In my case, I can now execute the the shortcut by typing **.vgh** on any server.
 

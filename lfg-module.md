@@ -48,13 +48,9 @@ Now lets take a look at the default guild settings:
 
 The hard part is now done! You have now successfully, created and understood the settings for the LFG Module _hopefully!_
 
-{% hint style="info" %}
 We know this is a complicated module so please don't be afraid to ask for help after you have read this guide thoroughly.
-{% endhint %}
 
-{% hint style="warning" %}
 **NOTE:** In order to make sure that users could still have their own custom default settings, the **usersettings** command enables any user to save their own defaults which will override all guild settings that you create on the server.
-{% endhint %}
 
 ### Event Creation
 
@@ -78,15 +74,11 @@ Now that we have understood 50% of the LFG Module, let us understand and master 
 13. **Interval** is only visible if Recurring is set to true and this allows you to determine how often to re-create the events.
 14. **Timezone** helps set the timezone of the Time for the event.
 
-{% hint style="info" %}
 When showing an event, the time of the event will be shown to players based on **their** timezone and not the set timezone. 
-{% endhint %}
 
 Wow that was complicated! No worries, you can always refer back to this guide when you need it. You don't need to memorize anything and it will all become very easy to do once you make a few events yourself. It is like riding a bike, once you learn it you can do it with your eyes closed.
 
-{% hint style="danger" %}
 **Note:** I do not recommend doing this with your eyes closed. 😝
-{% endhint %}
 
 ## KISS: Keep It Simple Stupid!
 
@@ -100,9 +92,7 @@ On my server, I have players from all over the world and to make sure LFG events
 
 Each region was given it's own channel for LFG because players from one region are not able to play with others from another server. 
 
-{% hint style="success" %}
 **Advanced Tip:** To take it a step further, you can create roles for each region and only allow each role to see their own specific channel so that users are not able to view or get spammed by channels they can not participate in.
-{% endhint %}
 
 ### Step 2: Creating The First LFG Event
 
@@ -120,13 +110,9 @@ I also made this event **recurring every 24 hours.** This makes it so that every
 
 ![When a person leaves the event.](.gitbook/assets/image%20%2818%29.png)
 
-{% hint style="info" %}
 **Note:** Please make sure the bot also has **Manage Messages** permission in these channels so that it can delete these extra messages that are sent when a person leaves or joins.
-{% endhint %}
 
 Now you can simply create other events at times your other users request to play and make them recurring every 24 hours. Once the events, are made players can join with a simple tap of a reaction. There is no complicated stuff for users and it really is Keep It Simple Stupid!
 
-{% hint style="info" %}
 **Advanced Users:** You can also create a \#custom-lfg channel where you allow other users to create their own events. For example, some users on a server can handle a higher amount of responsibility and they can be given permission to create and manage events on a separate channel for advanced levels.
-{% endhint %}
 
