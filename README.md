@@ -31,7 +31,7 @@ Become a **Patreon** or donate on PayPal:
 
 ### Design Team
 
-* AngeloC (best designer in the world)
+* AngeloC \(best designer in the world\)
 
 ## Got any questions?
 

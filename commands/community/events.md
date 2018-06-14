@@ -1,6 +1,6 @@
 # Events
 
-G4M3R has the best event system on Discord. It allows you to create private/public events. Private events require a password to join, which is sent to the event creator via direct message. Not only can you join/create events, you have some moderation over them. You can kick members you don't want in your event, or add members. Members can now also deny joining an event, or be added to a waiting list if the max number of members is reached. 
+G4M3R has the best event system on Discord. It allows you to create private/public events. Private events require a password to join, which is sent to the event creator via direct message. Not only can you join/create events, you have some moderation over them. You can kick members you don't want in your event, or add members. Members can now also deny joining an event, or be added to a waiting list if the max number of members is reached.
 
 ## Use: `[prefix]events <action> <event type/ID>`
 
@@ -48,7 +48,7 @@ Enter `q` to quit event creation completely.
 
 You can set multiple reminders for events at times of your choice!
 
-When editing the events start date and time, you no longer need to enter it as  `YYYY/MM/DD hh:mm.`   
+When editing the events start date and time, you no longer need to enter it as `YYYY/MM/DD hh:mm.`  
 You can enter it as any of the following:
 
 * `Friday 22:30`
@@ -89,8 +89,9 @@ So in this example, a user would type`<prefix>events join 2 9988`to join.
 
 ## View All Server Events
 
-`<prefix>events  
-<prefix>e`
+\`events
+
+e\`
 
 ![](../../.gitbook/assets/ems_eventlist.png)
 
@@ -98,15 +99,17 @@ So in this example, a user would type`<prefix>events join 2 9988`to join.
 
 `<prefix>search`
 
-Opens up a menu allowing you to enter a search criteria. 
+Opens up a menu allowing you to enter a search criteria.
 
 ![](../../.gitbook/assets/events_search.png)
 
 You can also enter your search criteria directly as part of the search command.
 
-`<prefix>events search author: [@user / ID]   
-<prefix>events search type: [event type]   
-<prefix>events search tags: [tag1] [tag2] [tag3]`
+\`events search author: \[@user / ID\]
+
+events search type: \[event type\]
+
+events search tags: \[tag1\] \[tag2\] \[tag3\]\`
 
 Below is an example:
 

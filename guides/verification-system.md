@@ -12,15 +12,15 @@ A verification system is a process that server owners can create on their server
 
 First we open up the settings menu:
 
-![](.gitbook/assets/image%20%2815%29.png)
+![](https://github.com/pedall/g4m3r-wiki/tree/1a68f43ad7f01cf90b0f2f0bcaa4f68ef05dd92a/guides/.gitbook/assets/image%20%2815%29.png)
 
 Next we go under the Moderation settings:
 
-![](.gitbook/assets/image%20%2817%29.png)
+![](https://github.com/pedall/g4m3r-wiki/tree/1a68f43ad7f01cf90b0f2f0bcaa4f68ef05dd92a/guides/.gitbook/assets/image%20%2817%29.png)
 
 Next we go into \#8: Verification System
 
-![](.gitbook/assets/image%20%284%29.png)
+![](https://github.com/pedall/g4m3r-wiki/tree/1a68f43ad7f01cf90b0f2f0bcaa4f68ef05dd92a/guides/.gitbook/assets/image%20%284%29.png)
 
 Now we input **1** to enable the Verify Status. This will take a short amount of time as it does the following steps:
 
@@ -32,7 +32,7 @@ Now we input **1** to enable the Verify Status. This will take a short amount of
 
 Once it has completed these steps you will see the following:
 
-![](.gitbook/assets/image%20%283%29.png)
+![](https://github.com/pedall/g4m3r-wiki/tree/1a68f43ad7f01cf90b0f2f0bcaa4f68ef05dd92a/guides/.gitbook/assets/image%20%283%29.png)
 
 For now let us skip the Verify First Message and we will come back to it in [Step 2B](verification-system.md#step-2b-setting-the-first-message).
 
@@ -40,7 +40,7 @@ For now let us skip the Verify First Message and we will come back to it in [Ste
 
 **DANGEROUS:** Reset Verification System will remove the channels, category, and roles associated with the Verification System if you click the Check Reaction.
 
-![](.gitbook/assets/image%20%2810%29.png)
+![](https://github.com/pedall/g4m3r-wiki/tree/1a68f43ad7f01cf90b0f2f0bcaa4f68ef05dd92a/guides/.gitbook/assets/image%20%2810%29.png)
 
 ## Step 2: Creating The Embeds
 
@@ -50,7 +50,7 @@ Step 1 was really easy as most of it was made automatically. Step 2 is the harde
 
 The \#verify channel will be where all members joining the server will join and should have a message they can see that shows them how to start the verification process. To do this you simply go to the \#verify channel and use the **embed** command to create your base message. Remember to make sure to tell your users how to begin the verification system by using the verification command. In my server, the prefix is "." so I will be asking them to type **.verify**
 
-![](.gitbook/assets/image%20%289%29.png)
+![](https://github.com/pedall/g4m3r-wiki/tree/1a68f43ad7f01cf90b0f2f0bcaa4f68ef05dd92a/guides/.gitbook/assets/image%20%289%29.png)
 
 Always avoid having conversation or messages in this channel except this base message so when a user joins the server and this is the **ONLY** channel they can see it is easy for them to know what to do to start.
 
@@ -71,11 +71,11 @@ So what happens when a user types **.verify**?
 
 In order to set the **first message**, we have to go back into the settings &gt; Moderation &gt; Verification System &gt; **3**. The bot will ask you to paste the embed code, for the first message. Once you have pasted it, exit out of the settings. In \#verify channel, type **.verify** to confirm that the first message looks good.
 
-![](.gitbook/assets/image%20%281%29.png)
+![](https://github.com/pedall/g4m3r-wiki/tree/1a68f43ad7f01cf90b0f2f0bcaa4f68ef05dd92a/guides/.gitbook/assets/image%20%281%29.png)
 
 In the first message, you can ask your users to take the first step in your process. In my case, I asked them to use a command to assign a nickname to them self and then use the **vainglory** command to save their In Game Name into the bot.
 
-![](.gitbook/assets/image%20%282%29.png)
+![](https://github.com/pedall/g4m3r-wiki/tree/1a68f43ad7f01cf90b0f2f0bcaa4f68ef05dd92a/guides/.gitbook/assets/image%20%282%29.png)
 
 Never forget to make sure to include a line telling the user on how to proceed to the next step. In the image above, you can see the user is asked to type **toys** to go to the next step. I highly recommend using the footer in an embed to show your users on what to do for the next step.
 
@@ -83,19 +83,19 @@ Never forget to make sure to include a line telling the user on how to proceed t
 
 ### Step 2C: Creating Your Second Step Tag
 
-If you are not aware of what a **tag** is please read about [here](commands/utility/tag.md).
+If you are not aware of what a **tag** is please read about [here](https://github.com/pedall/g4m3r-wiki/tree/1a68f43ad7f01cf90b0f2f0bcaa4f68ef05dd92a/guides/commands/utility/tag.md).
 
-**Advanced Users:** You can also use **Stories** instead of a tag if you prefer. Learn more about what a story is [here](commands/utility/stories.md).
+**Advanced Users:** You can also use **Stories** instead of a tag if you prefer. Learn more about what a story is [here](https://github.com/pedall/g4m3r-wiki/tree/1a68f43ad7f01cf90b0f2f0bcaa4f68ef05dd92a/guides/commands/utility/stories.md).
 
 Now the user will type what you ask them to type to continue to the next step. In our case, we asked the user to type **toys**.
 
-![](.gitbook/assets/image.png)
+![](https://github.com/pedall/g4m3r-wiki/tree/1a68f43ad7f01cf90b0f2f0bcaa4f68ef05dd92a/guides/.gitbook/assets/image.png)
 
 **Advanced Users:** You can enable tag/story trigger deletion in **Settings** command in order to keep the channel cleaner and a much more professional feeling for users.
 
 In my second step, I provide users a variety of different tags they can type to get access to those information. Let's suppose the user is interested in playing in our upcoming Talent Show league.
 
-![](.gitbook/assets/image%20%287%29.png)
+![](https://github.com/pedall/g4m3r-wiki/tree/1a68f43ad7f01cf90b0f2f0bcaa4f68ef05dd92a/guides/.gitbook/assets/image%20%287%29.png)
 
 This gives them all the information they need to be able to join the talent show.
 
@@ -105,7 +105,7 @@ Once the user is finished as per the last step, they type **finish** to get to t
 
 The last step in the verification system must always have users type **.verify end**
 
-![](.gitbook/assets/image%20%2819%29.png)
+![](https://github.com/pedall/g4m3r-wiki/tree/1a68f43ad7f01cf90b0f2f0bcaa4f68ef05dd92a/guides/.gitbook/assets/image%20%2819%29.png)
 
 When a user types **.verify end**, the bot will do the following:
 
@@ -130,5 +130,5 @@ The bot also has a feature that can auto assign a role to a user when they join 
 
 You can set a Role Message alert to be sent under **Settings &gt; Moderation &gt; Role Messages** to send a message when the @verify role is removed or when the Auto Assign Role is added in a channel where you want the user to be alerted once they complete the verification process. For example, the Arena of Valor server moderators created this feature on their server to show even more cool information that the bot can do on their server once they complete the verification process.
 
-![Credit: Official Arena Of Valor Discord Server](.gitbook/assets/image%20%2812%29.png)
+![Credit: Official Arena Of Valor Discord Server](https://github.com/pedall/g4m3r-wiki/tree/1a68f43ad7f01cf90b0f2f0bcaa4f68ef05dd92a/guides/.gitbook/assets/image%20%2812%29.png)
 
