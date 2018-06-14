@@ -1,0 +1,98 @@
+---
+description: Want to create your very own custom LFG module for your server?
+---
+
+# LFG Module
+
+## What is an LFG Module?
+
+An LFG, Looking For Group, module is a way for players to find other players on your server. We designed this module to be extremely customizable for each server because we knew that every server would want something unique. This guide will cover two different possible LFG modules but you can customize them to however you like.
+
+## Understanding The Basics Of LFG Module
+
+The LFG Module has two core pieces, guild settings and events. 
+
+### Guild Settings
+
+The most basic part here is to create and set up default settings for your LFG Module for your server. To do this we first go into the **Settings** command:
+
+![](.gitbook/assets/image%20%2812%29.png)
+
+Next, we go into Events:
+
+![](.gitbook/assets/image%20%2819%29.png)
+
+Let us first look at Event Permissions:
+
+![](.gitbook/assets/image%20%2818%29.png)
+
+1. Creation permissions are what define which type of users can create **events** that other players can find. Currently, this can be made to be:
+   1. All Users
+   2. Mods + Admins
+   3. Admins Only
+2. Add Member Permissions is what defined what level of permission you need to forcibly add a member to an **event**. I recommend leaving this at Admins Only to prevent any form of childish abuse from members forcing other members to an event.
+
+Now lets take a look at the default guild settings:
+
+![](.gitbook/assets/image%20%2821%29.png)
+
+1. The first thing we want to do is to _enable_ **Use Default** settings. This will make sure that anyone who tries to create an event on your server will automatically have these settings on their event.
+2. Since this is a LFG module, we want to make sure that our **Type**, is set as Gaming.
+3. Depending on the game, you can set your **Duration** how you like but for this guide we will set it to **2 h** duration.
+4. We will set the **Attendees** Maximum to be 5 since Arena of Valor is a 5v5 Game.
+5. Arena of Valor is a **Mobile** game so we will set the platform accordingly.
+6. Since we are creating a LFG Module for Arena of Valor at the moment, we can set the **Game** to be for Arena of Valor.
+7. **Advertisement channel** is really important as this is where the LFG events will be posted. I recommend creating a channel where you _disable_ Send Messages and Add Reactions for everyone except the bot. This will make sure that it is kept clean and professional on your server.
+8. In this case, we will enable **Advertise All Events** but note that this will make it so any event created by anyone will be posted in the LFG channel declared above.
+9. We will set the **Default Reminder Time** to be set at 30 minutes so that the users are reminded 30 minutes before the event starts that they had signed up.
+
+The hard part is now done! You have now successfully, created and understood the settings for the LFG Module _hopefully!_
+
+{% hint style="info" %}
+We know this is a complicated module so please don't be afraid to ask for help after you have read this guide thoroughly.
+{% endhint %}
+
+{% hint style="warning" %}
+**NOTE:** In order to make sure that users could still have their own custom default settings, the **usersettings** command enables any user to save their own defaults which will override all guild settings that you create on the server.
+{% endhint %}
+
+### Event Creation
+
+Now that we have understood 50% of the LFG Module, let us understand and master the other 50%. 
+
+![](.gitbook/assets/image%20%287%29.png)
+
+1. Add in a proper **Title** so that others will know what it is for immediately.
+2. The **Start** time is when the event is set to start. This time will be used to send reminders, re-create recurring events as well as set the **Ends** time based on the duration.
+3. The **Duration** will update the Ends time automatically.
+4. A small **Text** description is very useful to help players understand exactly what it is.
+5. **Max Members** sets the max amount of players that can join. Don't worry more players can join the waiting list.
+6. **Tags** is what is used when players are using the search command to find events.
+7. **Platform** is what device the game is played on. Sometimes, games separate players based on device so this is very useful.
+8. **Game** is meant for players to determine what game the event is for.
+9. **Activity** can be something to tell others what you wish to do in the game during the event.
+10. **Private** allows you to make these events private or public.
+    1. Private events will require players to enter a Password to join.
+11. **Reminders** are at what times before the Start time, a message is sent by the bot in a private message reminding you all the attendees of the event.
+12. **Recurring** allows events to be re-created after it ends.
+13. **Interval** is only visible if Recurring is set to true and this allows you to determine how often to re-create the events.
+14. **Timezone** helps set the timezone of the Time for the event.
+
+{% hint style="info" %}
+When showing an event, the time of the event will be shown to players based on **their** timezone and not the set timezone. 
+{% endhint %}
+
+Wow that was complicated! No worries, you can always refer back to this guide when you need it. You don't need to memorize anything and it will all become very easy to do once you make a few events yourself. It is like riding a bike, once you learn it you can do it with your eyes closed.
+
+{% hint style="danger" %}
+**Note:** I do not recommend doing this with your eyes closed. 😝
+{% endhint %}
+
+## KISS: Keep It Simple Stupid!
+
+This KISS LFG Module setup is mostly designed if you believe your users will have trouble following directions and you want to keep it as simple as possible for your users.
+
+
+
+
+

@@ -54,7 +54,8 @@
     * [Imgur](commands/utility/imgur.md)
     * [Role](commands/utility/role.md)
     * [Tag](commands/utility/tag.md)
+    * [Stories](commands/utility/stories.md)
 * [FAQ](faq.md)
 * [Verification System](verification-system.md)
-* [Stories](stories.md)
+* [LFG Module](lfg-module.md)
 
