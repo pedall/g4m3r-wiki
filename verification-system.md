@@ -12,11 +12,11 @@ A verification system is a process that server owners can create on their server
 
 First we open up the settings menu:
 
-![](.gitbook/assets/image%20%2813%29.png)
+![](.gitbook/assets/image%20%2815%29.png)
 
 Next we go under the Moderation settings:
 
-![](.gitbook/assets/image%20%2814%29.png)
+![](.gitbook/assets/image%20%2817%29.png)
 
 Next we go into \#8: Verification System
 
@@ -43,7 +43,7 @@ For now let us skip the Verify First Message and we will come back to it in [Ste
 {% hint style="danger" %}
 **DANGEROUS:** Reset Verification System will remove the channels, category, and roles associated with the Verification System if you click the Check Reaction.
 
-![](.gitbook/assets/image%20%289%29.png)
+![](.gitbook/assets/image%20%2810%29.png)
 {% endhint %}
 
 ## Step 2: Creating The Embeds
@@ -54,7 +54,7 @@ Step 1 was really easy as most of it was made automatically. Step 2 is the harde
 
 The \#verify channel will be where all members joining the server will join and should have a message they can see that shows them how to start the verification process. To do this you simply go to the \#verify channel and use the **embed** command to create your base message. Remember to make sure to tell your users how to begin the verification system by using the verification command. In my server, the prefix is "." so I will be asking them to type **.verify**
 
-![](.gitbook/assets/image%20%288%29.png)
+![](.gitbook/assets/image%20%289%29.png)
 
 {% hint style="success" %}
 Always avoid having conversation or messages in this channel except this base message so when a user joins the server and this is the **ONLY** channel they can see it is easy for them to know what to do to start.
@@ -111,7 +111,7 @@ Now the user will type what you ask them to type to continue to the next step. I
 
 In my second step, I provide users a variety of different tags they can type to get access to those information. Let's suppose the user is interested in playing in our upcoming Talent Show league.
 
-![](.gitbook/assets/image%20%286%29.png)
+![](.gitbook/assets/image%20%287%29.png)
 
 This gives them all the information they need to be able to join the talent show.
 
@@ -121,7 +121,7 @@ Once the user is finished as per the last step, they type **finish** to get to t
 
 The last step in the verification system must always have users type **.verify end**
 
-![](.gitbook/assets/image%20%2815%29.png)
+![](.gitbook/assets/image%20%2819%29.png)
 
 When a user types **.verify end**, the bot will do the following:
 
@@ -146,5 +146,5 @@ The bot also has a feature that can auto assign a role to a user when they join 
 
 You can set a Role Message alert to be sent under **Settings &gt; Moderation &gt; Role Messages** to send a message when the @verify role is removed or when the Auto Assign Role is added in a channel where you want the user to be alerted once they complete the verification process. For example, the Arena of Valor server moderators created this feature on their server to show even more cool information that the bot can do on their server once they complete the verification process.
 
-![Credit: Official Arena Of Valor Discord Server](.gitbook/assets/image%20%2811%29.png)
+![Credit: Official Arena Of Valor Discord Server](.gitbook/assets/image%20%2812%29.png)
 
