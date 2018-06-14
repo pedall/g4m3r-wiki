@@ -6,7 +6,7 @@ description: Want to create your very own custom LFG module for your server?
 
 ## What is an LFG Module?
 
-An LFG, Looking For Group, module is a way for players to find other players on your server. We designed this module to be extremely customizable for each server because we knew that every server would want something unique. This guide will cover two different possible LFG modules but you can customize them to however you like.
+An LFG, Looking For Group, module is a way for players to find other players on your server. We designed this module to be extremely customizable for each server because we knew that every server would want something unique. This guide will cover the **KISS** LFG module but you can customize them to however you like.
 
 ## Understanding The Basics Of LFG Module
 
