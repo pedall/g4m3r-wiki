@@ -4,8 +4,8 @@ G4M3R is a multi-functional Discord bot that can help _you_ get your **server ac
 
 ### G4M3R Links
 
-* [Invite G4M3R](https://discordapp.com/oauth2/authorize?&client_id=270010330782892032&scope=bot) to your Discord Server
-* [Join](https://discord.gg/mtJyQjW) the support server
+* [Invite G4M3R](http://invite.g4m3r.xyz) to your Discord Server
+* [Join](http://support.g4m3r.xyz) the support server
 * [Setting Up](setting-up/) for your server.
 
 Become a **Patreon** or donate on PayPal:
@@ -16,17 +16,22 @@ Become a **Patreon** or donate on PayPal:
 ### Developers
 
 * pedall: **Founder**
-* kyra: Full Stack Developer
+* Zishan: **Partner** & Full Stack Developer
+* 4ever: **Partner** & Full Stack Developer
+* kyra: Backend Developer
 * ksham: Full Stack Developer
-* 4ever: Full Stack Developer
-* Zishan: Full Stack Developer
-* DestinyKarma: Backend Developer
+* Loganrose: Backend Developer
+* GG182: Full Stack Developer
 * Grade1801: Server Admin
 
 ### Support Team
 
 * Recurve™
 * Genesis Frog
+
+### Design Team
+
+* AngeloC (best designer in the world)
 
 ## Got any questions?
 
