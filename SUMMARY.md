@@ -55,6 +55,6 @@
     * [Role](commands/utility/role.md)
     * [Tag](commands/utility/tag.md)
     * [Stories](commands/utility/stories.md)
+* [Guides](guides/README.md)
 * [FAQ](faq.md)
-* [Guides][guides/README.md]
 

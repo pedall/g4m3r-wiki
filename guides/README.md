@@ -1,4 +1,4 @@
-# Commands
+# Guides
 
 _A complete guide overview for all G4M3R bot guides._
 
