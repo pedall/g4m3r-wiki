@@ -58,4 +58,5 @@
 * [FAQ](faq.md)
 * [Verification System](verification-system.md)
 * [LFG Module](lfg-module.md)
+* [Shortcuts Module](shortcuts-module.md)
 
