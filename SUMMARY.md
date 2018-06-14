@@ -56,7 +56,5 @@
     * [Tag](commands/utility/tag.md)
     * [Stories](commands/utility/stories.md)
 * [FAQ](faq.md)
-* [Verification System](verification-system.md)
-* [LFG Module](lfg-module.md)
-* [Shortcuts Module](shortcuts-module.md)
+* [Guides][guides/README.md]
 
