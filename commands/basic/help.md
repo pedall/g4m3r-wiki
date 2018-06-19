@@ -18,7 +18,7 @@ _**Alias**_: `[prefix]h`
 
 ### Preview:
 
-![Shows command usage.](../../.gitbook/assets/image%20%2847%29.png)
+![Shows command usage.](../../.gitbook/assets/image%20%2848%29.png)
 
 ## Help all
 
