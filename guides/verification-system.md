@@ -12,7 +12,7 @@ A verification system is a process that server owners can create on their server
 
 First we open up the settings menu:
 
-![](../.gitbook/assets/image%20%2850%29.png)
+![](../.gitbook/assets/image%20%2851%29.png)
 
 Next we go under the Moderation settings:
 
@@ -117,7 +117,7 @@ Now the user will type what you ask them to type to continue to the next step. I
 
 In my second step, I provide users a variety of different tags they can type to get access to those information. Let's suppose the user is interested in playing in our upcoming Talent Show league.
 
-![](../.gitbook/assets/image%20%2851%29.png)
+![](../.gitbook/assets/image%20%2852%29.png)
 
 This gives them all the information they need to be able to join the talent show.
 

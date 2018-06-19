@@ -116,7 +116,7 @@ I also made this event **recurring every 24 hours.** This makes it so that every
 
 ![When a person joins the event.](../.gitbook/assets/image%20%2849%29.png)
 
-![When a person leaves the event](../.gitbook/assets/image%20%2852%29.png)
+![When a person leaves the event](../.gitbook/assets/image%20%2853%29.png)
 
 {% hint style="warning" %}
 **Note:** Please make sure the bot also has **Manage Messages** permission in these channels so that it can delete these extra messages that are sent when a person leaves or joins.
