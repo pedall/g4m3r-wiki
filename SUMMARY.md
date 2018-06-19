@@ -59,5 +59,7 @@
   * [Shortcuts](guides/shortcuts.md)
   * [LFG - Looking For Group](guides/lfg-looking-for-group.md)
   * [Verification System](guides/verification-system.md)
+  * [Memes](guides/memes.md)
 * [FAQ](faq.md)
+* [Changelog](changelog.md)
 
