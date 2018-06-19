@@ -114,9 +114,9 @@ It will create an advertisement in that channel as well as post it in the defaul
 
 I also made this event **recurring every 24 hours.** This makes it so that every day at 6PM EDT players can sign up to play together on my discord server. In order to join, the only thing that players have to do is tap the ✅in order to join and ❌ to leave.
 
-![When a person joins the event.](../.gitbook/assets/image%20%2849%29.png)
+![When a person joins the event.](../.gitbook/assets/image%20%2850%29.png)
 
-![When a person leaves the event](../.gitbook/assets/image%20%2853%29.png)
+![When a person leaves the event](../.gitbook/assets/image%20%2854%29.png)
 
 {% hint style="warning" %}
 **Note:** Please make sure the bot also has **Manage Messages** permission in these channels so that it can delete these extra messages that are sent when a person leaves or joins.
