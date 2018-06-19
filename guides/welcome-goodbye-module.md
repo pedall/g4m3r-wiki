@@ -19,7 +19,7 @@ You should see a menu that looks like this:
 
 ### Step 1: Enabling Messages
 
-First, we will enable the welcome messages in this case on a channel. 
+First, we will enable the welcome messages in this case on a channel.
 
 ### Step 2: Adding A Welcome Message
 
@@ -30,8 +30,8 @@ You can make a nice embeded welcome message using the Nadeko embed builder! Chec
 {% endhint %}
 
 {% hint style="info" %}
- **Advanced Users:** • `%author%`, `%authorimage%`, `%authormention%` • `%user%`, `%userimage%`, `%usermention%` • `%guild%`, `%guildimage%`   
-**»** User variables only work when mentioning a user together with the command   
+**Advanced Users:** • `%author%`, `%authorimage%`, `%authormention%` • `%user%`, `%userimage%`, `%usermention%` • `%guild%`, `%guildimage%`  
+**»** User variables only work when mentioning a user together with the command  
 **»** Guild variables only work when command is used in a guild channel
 {% endhint %}
 
@@ -47,7 +47,7 @@ Done! And don't worry, if you change your mind about something, you can edit you
 
 ### Private Welcome Message
 
-If you want your welcome message to be sent to the new member via DM, you can do that by turning on  Welcome Direct Messages instead of Welcome Channel Messages in the menu from [Step 1](welcome-goodbye-messages.md#step-1).
+If you want your welcome message to be sent to the new member via DM, you can do that by turning on Welcome Direct Messages instead of Welcome Channel Messages in the menu from [Step 1](welcome-goodbye-module.md#step-1).
 
 {% hint style="info" %}
 **Advanced Users:** You can add multiple messages and when the user joins the bot will select one at random.
@@ -63,11 +63,11 @@ This time we will enable the Goodbye Channel Messages so that we can send a mess
 
 ### Step 2: Adding A Goodbye Message
 
-The same steps are followed as you created the welcome message in [Step 2](welcome-goodbye-messages.md#step-2-adding-a-welcome-message).
+The same steps are followed as you created the welcome message in [Step 2](welcome-goodbye-module.md#step-2-adding-a-welcome-message).
 
 ### Step 3: Choosing The Channel
 
-The same steps are followed as you created the welcome message in [Step 3](welcome-goodbye-messages.md#step-3-choosing-the-channel).
+The same steps are followed as you created the welcome message in [Step 3](welcome-goodbye-module.md#step-3-choosing-the-channel).
 
 {% hint style="success" %}
 Done! Remember you can edit your goodbye message at anytime, or turn if off completely.
@@ -75,7 +75,7 @@ Done! Remember you can edit your goodbye message at anytime, or turn if off comp
 
 ### Private Goodbye Message
 
-If you want your goodbye message to be sent to the user via DM, you can do that by turning on Goodbye Direct Messages instead of Goodbye Channel Messages in the menu from [Step 1](welcome-goodbye-messages.md#step-1-1).
+If you want your goodbye message to be sent to the user via DM, you can do that by turning on Goodbye Direct Messages instead of Goodbye Channel Messages in the menu from [Step 1](welcome-goodbye-module.md#step-1-1).
 
 {% hint style="warning" %}
 Note: This will only work if the bot has another server in common with the user that's leaving your server.
