@@ -28,7 +28,7 @@ Type 1 to turn on Welcome Channel Messages.
 Type 3, and then the bot will ask you to enter the new message or code that you would like.
 
 {% hint style="info" %}
-You can make a nice embeded welcome message using the Nadeko embed builder! Check it out: embedbuilder.nadeko.me
+You can make a nice embeded welcome message using the Nadeko embed builder! Check it out: [embedbuilder.nadeko.me](http://embedbuilder.nadeko.me)
 {% endhint %}
 
 #### Step 3
