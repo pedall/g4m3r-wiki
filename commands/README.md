@@ -7,9 +7,8 @@ _A complete command overview for all G4M3R bot commands, categorised._
 | _\[prefix\]_**Command** | **What does it do?** | **Aliases** |
 | :--- | :--- | :--- |
 | [Delete](admin/delete.md) | Enable/disable deletion of a text/command message of a specified command. | \[prefix\]del |
-| [HiBye](admin/hibye.md) | Allows you to set up a welcome/goodbye notice when members join/leave your server. | \[prefix\]hi \[prefix\]bye \[prefix\]welcome \[prefix\]goodbye |
 | [Nuke](admin/nuke.md) | Nukes a given amount of messages without a filter. Maximum of 100 messages. | \[prefix\]n |
-| [Permission](admin/permission.md) | Activate/deactivate the usage of a certain command in a specified channel. | \[prefix\]sr |
+| [Permission](admin/permission.md) | Activate/deactivate the usage of a certain command in a specified channel. | \[prefix\]p |
 | [Saverole](admin/saverole.md) | Add a given role to the  list of self-assignable roles in your server. | \[prefix\]sr |
 | [Settings](admin/settings.md) | All server settings via an easy in-chat menu. | \[prefix\]s |
 
@@ -18,12 +17,12 @@ _A complete command overview for all G4M3R bot commands, categorised._
 | _\[prefix\]_**Command** | **What does it do?** | **Aliases** |
 | :--- | :--- | :--- |
 | [About](basic/about.md) | Provides information about the bot. | - |
-| [Botinfo](basic/botinfo.md) | Provides some details about the bot   and its status. | - |
+| [Botinfo](basic/botinfo.md) | Provides some details about the bot and its status. | \[prefix\]bi |
 | [Help](basic/help.md) | Displays general help, all commands   and/or help for a specified command. | \[prefix\]h |
-| [Info](basic/info.md) | Provides some details about the bot   and its status. | - |
+| [Info](basic/info.md) | Provides some details about the bot and its status. | - |
 | [Invite](basic/invite.md) | Display the website url/link of the bot | \[prefix\]join |
-| [Ping](basic/ping.md) | Checks the command response time  of thebot. | \[prefix\]pong |
-| [Serverinfo](basic/serverinfo.md) | Displays valuable information about    your Discord server | \[prefix\]si |
+| [Ping](basic/ping.md) | Checks the command response time of thebot. | \[prefix\]pong |
+| [Serverinfo](basic/serverinfo.md) | Displays valuable information about your Discord server | \[prefix\]si |
 | [Shardinfo](basic/shardinfo.md) | Provides some details about the bot and its status. | \[prefix\]shard |
 | [Statistics](basic/statistics.md) | Get basic statistics about command usage. | \[prefix\]st |
 | [Usersettings](basic/usersettings.md) | All personal user settings via an easy  in-chat menu. | \[prefix\]us |
@@ -45,10 +44,10 @@ _A complete command overview for all G4M3R bot commands, categorised._
 | [BF1](https://github.com/pedall/g4m3r-wiki/tree/e02c9f1e99118cbc5606efe0a929aec2ad537940/commands/gaming/bf1.md) | View Battlefield 1 stats. | \[prefix\]ow |
 | [CSGO](https://github.com/pedall/g4m3r-wiki/tree/e02c9f1e99118cbc5606efe0a929aec2ad537940/commands/gaming/cs:go.md) | View Counter-Stike: Global Offensive  stats | - |
 | [Overwatch](gaming/overwatch.md) | View Overwatch stats. | \[prefix\]ow |
-| [PUBG](gaming/pubg.md) | View PlayerUnknown's Battlegrounds  stats | - |
-| [Siege](https://github.com/pedall/g4m3r-wiki/tree/e02c9f1e99118cbc5606efe0a929aec2ad537940/commands/gaming/siege.md) | View Siege stats. | \[prefix\]ow |
+| [PUBG](gaming/pubg.md) | View PlayerUnknown's Battlegrounds stats | - |
+| [Siege](https://github.com/pedall/g4m3r-wiki/tree/e02c9f1e99118cbc5606efe0a929aec2ad537940/commands/gaming/siege.md) | View Siege stats. | \[prefix\]r6 / rs |
 | [Stats](https://github.com/pedall/g4m3r-wiki/tree/e02c9f1e99118cbc5606efe0a929aec2ad537940/commands/gaming/Stats/README.md) | Register usernames/ID's to your account and easily view the stats. | \[prefix\]gs / register / reg |
-| [Vainglory](https://github.com/pedall/g4m3r-wiki/tree/e02c9f1e99118cbc5606efe0a929aec2ad537940/commands/gaming/vainglory.md) | View Vainglory stats. | \[prefix\]ow |
+| [Vainglory](https://github.com/pedall/g4m3r-wiki/tree/e02c9f1e99118cbc5606efe0a929aec2ad537940/commands/gaming/vainglory.md) | View Vainglory stats. | \[prefix\]vg |
 
 ## [Moderation](moderation/)
 
@@ -56,10 +55,9 @@ _A complete command overview for all G4M3R bot commands, categorised._
 | :--- | :--- | :--- |
 | [Ban](moderation/ban.md) | Bans a user from the server and deletes their messages from the past week. | \[prefix\]b |
 | [Kick](moderation/kick.md) | Kicks a user from the server. | \[prefix\]k |
-| [Mail](https://github.com/pedall/g4m3r-wiki/tree/e02c9f1e99118cbc5606efe0a929aec2ad537940/commands/moderation/mail.md) | Update a mod-log reason or belated adding of a reason. | - |
 | [Reason](moderation/reason.md) | Update a mod-log reason or belated adding of a reason. | - |
 | [Softban](https://github.com/pedall/g4m3r-wiki/tree/e02c9f1e99118cbc5606efe0a929aec2ad537940/commands/moderation/softban.md) | Bans/Unbans a user and deletes the user's messages of last 7 days. | \[prefix\]sb |
-| [Unban](https://github.com/pedall/g4m3r-wiki/tree/e02c9f1e99118cbc5606efe0a929aec2ad537940/commands/moderation/unban.md) | Bans/Unbans a user and deletes the user's messages of last 7 days. | \[prefix\]sb |
+| [Unban](https://github.com/pedall/g4m3r-wiki/tree/e02c9f1e99118cbc5606efe0a929aec2ad537940/commands/moderation/unban.md) | Unbans a user and deletes the user's messages of last 7 days. | \[prefix\]ub |
 | [Warn](moderation/warn.md) | Adds a warning, view lists or remove a warn. | \[prefix\]w |
 
 ## [Utility](utility/)
@@ -69,7 +67,7 @@ _A complete command overview for all G4M3R bot commands, categorised._
 | [Embed](utility/embed.md) | Create an embed from the predefined embed object you enter. | - |
 | [Imgur](utility/imgur.md) | Upload an image to imgur and directly receive the image url. | - |
 | [Role](utility/role.md) | Add/Remove a role from the available self assignable roles to yourself. | \[prefix\]r |
-| [tag](utility/tag.md) | Add/Remove a role from the available self assignable roles to yourself. | \[prefix\]r |
+| [tag](utility/tag.md) | Create and manage your custom made tags for your server. | - |
 
 ## [Fun](fun/)
 
