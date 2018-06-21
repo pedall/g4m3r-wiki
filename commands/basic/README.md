@@ -18,5 +18,5 @@ Bot info, helpful info, but also.. who is the most active on your server? Find o
 
 To view the in-chat overview of all basic commands use: `[prefix]h basic`
 
-![](../../.gitbook/assets/image%20%2870%29.png)
+![](../../.gitbook/assets/image%20%2823%29.png)
 
