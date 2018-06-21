@@ -1,3 +1,9 @@
+---
+description: >-
+  The help can be used in a few different ways. We will go through each
+  different option below.
+---
+
 # Help
 
 The help can be used in a few different ways. We will go through each different option below.
