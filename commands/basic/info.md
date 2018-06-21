@@ -8,5 +8,5 @@ With the **info** command you can quickly view some very helpful links and a bas
 
 `[prefix]info`
 
-![Shows command usage.](../../.gitbook/assets/image%20%287%29.png)
+![](../../.gitbook/assets/image%20%2839%29.png)
 

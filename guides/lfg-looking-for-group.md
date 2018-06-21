@@ -16,7 +16,7 @@ The LFG Module has two core pieces, guild settings and events.
 
 The most basic part here is to create and set up default settings for your LFG Module for your server. To do this we first go into the **Settings** command:
 
-![](../.gitbook/assets/image%20%2827%29.png)
+![](../.gitbook/assets/image%20%2831%29.png)
 
 Next, we go into Events:
 
@@ -24,7 +24,7 @@ Next, we go into Events:
 
 Let us first look at Event Permissions:
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 1. Creation permissions are what define which type of users can create **events** that other players can find. Currently, this can be made to be:
    1. All Users
@@ -34,7 +34,7 @@ Let us first look at Event Permissions:
 
 Now lets take a look at the default guild settings:
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../.gitbook/assets/image%20%2828%29.png)
 
 1. The first thing we want to do is to _enable_ **Use Default** settings. This will make sure that anyone who tries to create an event on your server will automatically have these settings on their event.
 2. Since this is a LFG module, we want to make sure that our **Type**, is set as Gaming.
@@ -58,7 +58,7 @@ We know this is a complicated module so please don't be afraid to ask for help a
 
 Now that we have understood 50% of the LFG Module, let us understand and master the other 50%.
 
-![](../.gitbook/assets/image%20%2844%29.png)
+![](../.gitbook/assets/image%20%2850%29.png)
 
 1. Add in a proper **Title** so that others will know what it is for immediately.
 2. The **Start** time is when the event is set to start. This time will be used to send reminders, re-create recurring events as well as set the **Ends** time based on the duration.
@@ -108,15 +108,15 @@ Now you can go ahead and create an base LFG event. This event should be made so 
 
 Once the event is created, you can go into the channel of that server and type **.e ad id** but replace _id_ with the ID number of the event. In this case the event ID was 3 so I would type **.e ad 3**.
 
-![](../.gitbook/assets/image%20%2853%29.png)
+![](../.gitbook/assets/image%20%2860%29.png)
 
 It will create an advertisement in that channel as well as post it in the default LFG channel you created. Please make sure that the bot has **Add Reactions** permissions enabled in these channels so that it can add those reactions.
 
 I also made this event **recurring every 24 hours.** This makes it so that every day at 6PM EDT players can sign up to play together on my discord server. In order to join, the only thing that players have to do is tap the ✅in order to join and ❌ to leave.
 
-![When a person joins the event.](../.gitbook/assets/image%20%2857%29.png)
+![When a person joins the event.](../.gitbook/assets/image%20%2865%29.png)
 
-![When a person leaves the event](../.gitbook/assets/image%20%2862%29.png)
+![When a person leaves the event](../.gitbook/assets/image%20%2870%29.png)
 
 {% hint style="warning" %}
 **Note:** Please make sure the bot also has **Manage Messages** permission in these channels so that it can delete these extra messages that are sent when a person leaves or joins.

@@ -24,7 +24,7 @@ _**Alias**_: `[prefix]h`
 
 ### Preview:
 
-![Shows command usage.](../../.gitbook/assets/image%20%2854%29.png)
+![](../../.gitbook/assets/image%20%2813%29.png)
 
 ## Help all
 
@@ -55,5 +55,5 @@ It will show you what you need to know to use the command.
 
 `[prefix]h nuke`
 
-![](../../.gitbook/assets/image%20%285%29.png)
+![](../../.gitbook/assets/image%20%2836%29.png)
 
