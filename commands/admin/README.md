@@ -8,7 +8,6 @@ For example have a welcome message for new users upon joining your server.
 
 * [\[Delete\]](delete.md)
 * [\[Settings\]](settings.md)
-* [\[Hibye\]](hibye.md)
 * [\[Nuke\]](nuke.md)
 * [\[Permission\]](permission.md)
 
