@@ -38,7 +38,7 @@ Then the bot will ask you what command that shortcut is going to execute, in my 
 **Note:** Do not add the prefix before the command while setting up a shortcut. Prefixes will be added automatically by the bot.
 {% endhint %}
 
-Done! In my case, I can now execute the the shortcut by typing **.vgh** on any server.
+Done! In my case, I can now execute the shortcut by typing **.vgh** on any server.
 
 ![](../.gitbook/assets/image%20%2846%29.png)
 
