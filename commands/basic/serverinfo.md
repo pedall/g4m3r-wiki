@@ -16,6 +16,8 @@
 g!serverinfo
 ```
 
+![](../../.gitbook/assets/image%20%288%29.png)
+
 ## Alias
 
 Use the alias **si** for server info
