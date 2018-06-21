@@ -55,5 +55,5 @@ It will show you what you need to know to use the command.
 
 `[prefix]h nuke`
 
-![](../../.gitbook/assets/image%20%2865%29.png)
+![](../../.gitbook/assets/image%20%2866%29.png)
 

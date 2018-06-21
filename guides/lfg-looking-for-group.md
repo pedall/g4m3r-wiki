@@ -58,7 +58,7 @@ We know this is a complicated module so please don't be afraid to ask for help a
 
 Now that we have understood 50% of the LFG Module, let us understand and master the other 50%.
 
-![](../.gitbook/assets/image%20%2856%29.png)
+![](../.gitbook/assets/image%20%2857%29.png)
 
 1. Add in a proper **Title** so that others will know what it is for immediately.
 2. The **Start** time is when the event is set to start. This time will be used to send reminders, re-create recurring events as well as set the **Ends** time based on the duration.
@@ -108,15 +108,15 @@ Now you can go ahead and create an base LFG event. This event should be made so 
 
 Once the event is created, you can go into the channel of that server and type **.e ad id** but replace _id_ with the ID number of the event. In this case the event ID was 3 so I would type **.e ad 3**.
 
-![](../.gitbook/assets/image%20%2867%29.png)
+![](../.gitbook/assets/image%20%2868%29.png)
 
 It will create an advertisement in that channel as well as post it in the default LFG channel you created. Please make sure that the bot has **Add Reactions** permissions enabled in these channels so that it can add those reactions.
 
 I also made this event **recurring every 24 hours.** This makes it so that every day at 6PM EDT players can sign up to play together on my discord server. In order to join, the only thing that players have to do is tap the ✅in order to join and ❌ to leave.
 
-![When a person joins the event.](../.gitbook/assets/image%20%2873%29.png)
+![When a person joins the event.](../.gitbook/assets/image%20%2874%29.png)
 
-![When a person leaves the event](../.gitbook/assets/image%20%2881%29.png)
+![When a person leaves the event](../.gitbook/assets/image%20%2882%29.png)
 
 {% hint style="warning" %}
 **Note:** Please make sure the bot also has **Manage Messages** permission in these channels so that it can delete these extra messages that are sent when a person leaves or joins.
