@@ -8,7 +8,7 @@ _**Alias:**_ `[prefix]bi`
 
 ### Preview:
 
-![Showing how the command is used.](../../.gitbook/assets/image%20%2854%29.png)
+![Showing how the command is used.](../../.gitbook/assets/image%20%2857%29.png)
 
 
 
