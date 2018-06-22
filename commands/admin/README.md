@@ -4,7 +4,7 @@ description: This page provides information about the "Admin" commands category.
 
 # Admin
 
-Welcome to the Admin commands page. This page provides you with information on what the Admin commands are. In the table below provides the name of the command and some details about it. And to make it a little bit easier, you can click the name of the command and it will take you directly to the command page. These commands also allow you to make your server a cleaner and nicer **place**.
+Welcome to the Admin commands page. This page provides you with information on what the Admin commands are. In the table below provides the name of the command and some details about it. And to make it a little bit easier, you can click the name of the command and it will take you directly to the command page. These commands also allow you to make your server a cleaner and nicer place.
 
 | Command | Description |
 | --- | --- | --- | --- | --- | --- |
@@ -16,5 +16,5 @@ Welcome to the Admin commands page. This page provides you with information on w
 
 To view all admin commands use: `[prefix]h admin`
 
-![](../../.gitbook/assets/image%20%2830%29.png)
+![](../../.gitbook/assets/image%20%2831%29.png)
 
