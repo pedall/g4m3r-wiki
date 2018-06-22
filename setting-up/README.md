@@ -1,3 +1,7 @@
+---
+description: This page shows you how to setup up G4M3R.
+---
+
 # Setting Up
 
 In this section, you can find how to set up the bot on your server and how to use its commands. There will also be links to more in-depth guides related to the bot.
@@ -6,7 +10,7 @@ In this section, you can find how to set up the bot on your server and how to us
 
 To add the bot, you must have the '_**Manage Server**_' permission in the server you would like to add it to, and then you can add the bot through the official G4M3R website \( [g4m3r.xyz](https://www.g4m3r.xyz/) \).
 
-![](../.gitbook/assets/image%20%2847%29.png)
+![](../.gitbook/assets/image%20%2889%29.png)
 
 **Please give the bot as many permissions as possible.** Otherwise some commands may not function due to missing permissions.
 
