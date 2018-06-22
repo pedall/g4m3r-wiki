@@ -16,5 +16,5 @@ Welcome to the Admin commands page. This page provides you with information on w
 
 To view all admin commands use: `[prefix]h admin`
 
-![](../../.gitbook/assets/image%20%2831%29.png)
+![](../../.gitbook/assets/image%20%2832%29.png)
 
