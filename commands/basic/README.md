@@ -6,7 +6,7 @@ More in-depth and specified information about each command can be found on their
 | Command | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [About](about.md) |  The **About** command provides some basic information about the bot and where you can find useful links. |
-| [Botinfo](botinfo.md) |  The **Botinfo** command provides information about the bot in general \(left on preview\) the amount of events, groups, custom backgrounds and currently polls \(mid on preview\). And the current version of different parts of the bot and used API's. |
+| [Botinfo](botinfo.md) | Displays info about the bot. |
 | [Help](help.md) | This shows you a quick overview of all available commands. |
 | [Info](info.md) |  With the **info** command you can quickly view some very helpful links and a basic information how to use the bot. |
 | [Invite](invite.md) | Provides a invite link to invite G4M3R to your server. |
