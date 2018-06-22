@@ -7,5 +7,5 @@ A brief summery of the visions and awesome features for G4M3R is also shown here
 
 ## Preview:
 
-![](../../.gitbook/assets/image%20%2864%29.png)
+![](../../.gitbook/assets/image%20%2865%29.png)
 
