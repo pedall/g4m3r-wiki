@@ -7,7 +7,6 @@
 * [Commands](commands/README.md)
   * [Admin](commands/admin/README.md)
     * [Delete](commands/admin/delete.md)
-    * [Hibye](commands/admin/hibye.md)
     * [Nuke](commands/admin/nuke.md)
     * [Permission](commands/admin/permission.md)
     * [Saverole](commands/admin/saverole.md)
