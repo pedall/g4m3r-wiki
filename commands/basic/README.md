@@ -18,5 +18,5 @@ More in-depth and specified information about each command can be found on their
 
 To view the in-chat overview of all basic commands use: `[prefix]h basic`
 
-![](../../.gitbook/assets/image%20%2831%29.png)
+![](../../.gitbook/assets/image%20%2833%29.png)
 
