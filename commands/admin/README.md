@@ -4,7 +4,7 @@ description: This page provides information about the "Admin" commands category.
 
 # Admin
 
-Welcome to the Admin commands page. This page provides you with information on what the Admin commands are and what not. In the table below, it provides the name of the command and some details about it. And to make it a little bit easier, you can click the name of the command and it will take you directly to the command page. Enjoy!!!
+Welcome to the Admin commands page. This page provides you with information on what the Admin commands are. In the table below provides the name of the command and some details about it. And to make it a little bit easier, you can click the name of the command and it will take you directly to the command page. These commands also allow you to make your server a cleaner and nicer **place**.
 
 | Command | Description |
 | --- | --- | --- | --- | --- | --- |
