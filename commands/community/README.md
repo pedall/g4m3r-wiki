@@ -14,5 +14,5 @@ Find out how to customize your profile:
 
 To view the in-chat overview of all community commands use: `[prefix]h community`
 
-![](../../.gitbook/assets/image%20%2826%29.png)
+![](../../.gitbook/assets/image%20%2828%29.png)
 
