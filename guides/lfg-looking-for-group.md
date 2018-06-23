@@ -108,15 +108,15 @@ Now you can go ahead and create an base LFG event. This event should be made so 
 
 Once the event is created, you can go into the channel of that server and type **.e ad id** but replace _id_ with the ID number of the event. In this case the event ID was 3 so I would type **.e ad 3**.
 
-![](../.gitbook/assets/image%20%2882%29.png)
+![](../.gitbook/assets/image%20%2883%29.png)
 
 It will create an advertisement in that channel as well as post it in the default LFG channel you created. Please make sure that the bot has **Add Reactions** permissions enabled in these channels so that it can add those reactions.
 
 I also made this event **recurring every 24 hours.** This makes it so that every day at 6PM EDT players can sign up to play together on my discord server. In order to join, the only thing that players have to do is tap the ✅in order to join and ❌ to leave.
 
-![When a person joins the event.](../.gitbook/assets/image%20%2891%29.png)
+![When a person joins the event.](../.gitbook/assets/image%20%2892%29.png)
 
-![When a person leaves the event](../.gitbook/assets/image%20%2899%29.png)
+![When a person leaves the event](../.gitbook/assets/image%20%28100%29.png)
 
 {% hint style="warning" %}
 **Note:** Please make sure the bot also has **Manage Messages** permission in these channels so that it can delete these extra messages that are sent when a person leaves or joins.
