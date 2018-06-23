@@ -32,7 +32,11 @@ The bot will ask you what shortcut you'd like to create. For example, I want to 
 
 Then the bot will ask you what command that shortcut is going to execute, in my case I will type in **vainglory hero**.
 
+<<<<<<< HEAD
 ![](../.gitbook/assets/image%20%2872%29.png)
+=======
+![](../.gitbook/assets/image%20%2876%29.png)
+>>>>>>> 27c23061744b284d0ad35f0d536ea8f6407a12d8
 
 {% hint style="danger" %}
 **Note:** Do not add the prefix before the command while setting up a shortcut. Prefixes will be added automatically by the bot.
@@ -40,7 +44,11 @@ Then the bot will ask you what command that shortcut is going to execute, in my 
 
 Done! In my case, I can now execute the the shortcut by typing **.vgh** on any server.
 
+<<<<<<< HEAD
 ![](../.gitbook/assets/image%20%2877%29.png)
+=======
+![](../.gitbook/assets/image%20%2881%29.png)
+>>>>>>> 27c23061744b284d0ad35f0d536ea8f6407a12d8
 
 ## Server Shortcuts
 
