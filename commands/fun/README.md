@@ -14,5 +14,5 @@ Unleash the fun:
 
 To view the in-chat overview of all fun commands use: `[prefix]h fun`
 
-![Typo in the picture: \`.puppy\` is supposed to say: &quot;Random puppy GIF or Image!&quot;](../../.gitbook/assets/image%20%2878%29.png)
+![Typo in the picture: \`.puppy\` is supposed to say: &quot;Random puppy GIF or Image!&quot;](../../.gitbook/assets/image%20%2880%29.png)
 
