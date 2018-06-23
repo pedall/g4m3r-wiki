@@ -40,7 +40,7 @@ Then the bot will ask you what command that shortcut is going to execute, in my 
 
 Done! In my case, I can now execute the the shortcut by typing **.vgh** on any server.
 
-![](../.gitbook/assets/image%20%2881%29.png)
+![](../.gitbook/assets/image%20%2882%29.png)
 
 ## Server Shortcuts
 
