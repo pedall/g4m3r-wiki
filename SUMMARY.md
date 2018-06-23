@@ -61,4 +61,5 @@
   * [Verification System](guides/verification-system.md)
   * [Memes](guides/memes.md)
 * [FAQ](faq.md)
+* [Giveaway's](giveaways.md)
 
