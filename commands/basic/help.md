@@ -18,7 +18,7 @@ _**Alias**_: `[prefix]h`
 
 ### Preview:
 
-![](../../.gitbook/assets/image%20%2850%29.png)
+![](../../.gitbook/assets/helpcommand.png)
 
 ## Help all
 
@@ -47,7 +47,7 @@ It will show you what you need to know to use the command.
 
 ### Preview:
 
-`[prefix]h nuke`
+`[prefix]h ping`
 
-![](../../.gitbook/assets/image%20%2890%29.png)
+![](../../.gitbook/assets/pingcommand.png)
 
