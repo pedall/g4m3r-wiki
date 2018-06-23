@@ -8,5 +8,7 @@ _**Alias:**_ `[prefix]bi`
 
 ### Preview:
 
-![](../../.gitbook/assets/botinfo.png)
+![](../../.gitbook/assets/image%20%2810%29.png)
+
+
 

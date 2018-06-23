@@ -14,6 +14,8 @@
 .shardinfo
 ```
 
+![](../../.gitbook/assets/image%20%2879%29.png)
+
 ## Alias
 
 * Use the Alias **shard**  for shardinfo
