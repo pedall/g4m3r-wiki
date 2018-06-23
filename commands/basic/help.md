@@ -1,9 +1,3 @@
----
-description: >-
-  The help can be used in a few different ways. We will go through each
-  different option below.
----
-
 # Help
 
 The help can be used in a few different ways. We will go through each different option below.
@@ -24,7 +18,7 @@ _**Alias**_: `[prefix]h`
 
 ### Preview:
 
-![](../../.gitbook/assets/image%20%2845%29.png)
+![](../../.gitbook/assets/helpcommand.png)
 
 ## Help all
 
@@ -53,7 +47,7 @@ It will show you what you need to know to use the command.
 
 ### Preview:
 
-`[prefix]h nuke`
+`[prefix]h ping`
 
-![](../../.gitbook/assets/image%20%2882%29.png)
+![](../../.gitbook/assets/pingcommand.png)
 
