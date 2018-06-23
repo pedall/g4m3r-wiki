@@ -4,7 +4,7 @@ description: This page provides information about the "Admin" commands category.
 
 # Admin
 
-Welcome to the Admin commands page. This page provides you with information on what the Admin commands are. In the table below provides the name of the command and some details about it. And to make it a little bit easier, you can click the name of the command and it will take you directly to the command page. These commands also allow you to make your server a cleaner and nicer place.
+The following commands can only be used by **Server Bot Admins**. Server Bot Admins are the admins that you have added in the [**Settings**](settings.md#2-admins) command to be Bot admins OR any person on your server that has the **Administrator Permission**. 
 
 | Command | Description |
 | --- | --- | --- | --- | --- | --- |
