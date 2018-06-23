@@ -23,4 +23,15 @@ The winners of the Arena of Valor Giveaway are:
 *  **Darkness**\#3152
 *  **Toto**\#4589
 *  **Igcross**\#3423
-* 
+*  **LoinFalcon**\#4063
+*  **ItsFree**\#8982
+*  **Bgrts**\#0753
+*  **Purpleapple**\#4297
+*  **TemporaryGod**\#5287
+*  **Lucas Amaral**\#2367
+*  **skayllof**\#8356
+*  **bajie2010**\#6355
+*  **vilmots**\#8170
+*  **Sebas9710**\#3525
+*  **PEDRO**\#4986
+
