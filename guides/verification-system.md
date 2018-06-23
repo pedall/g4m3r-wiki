@@ -79,6 +79,8 @@ So what happens when a user types **.verify**?
 
 In order to set the **first message**, we have to go back into the settings &gt; Moderation &gt; Verification System &gt; **3**. The bot will ask you to paste the embed code, for the first message. Once you have pasted it, exit out of the settings. In \#verify channel, type **.verify** to confirm that the first message looks good.
 
+
+
 ![](../.gitbook/assets/image.png)
 
 ![](../.gitbook/assets/image%20%2864%29.png)
