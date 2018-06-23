@@ -62,5 +62,6 @@
   * [Memes](guides/memes.md)
   * [Welcome / Goodbye Module](guides/welcome-goodbye-module.md)
 * [FAQ](faq.md)
+* [Giveaways](giveaways.md)
 * [Changelog](changelog.md)
 
