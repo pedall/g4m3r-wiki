@@ -50,11 +50,7 @@ These shortcuts will only work in the server they're created.
 
 First, lets open the shortcuts menu by doing **.shortcut add**.
 
-
-
 The bot will ask you what shortcut you'd like to create. This is the name of the shortcut you want to use. I will type in **news** as that is what I want to trigger this shortcut. So whenever, someone on my server types **.news** the .
-
-
 
 {% hint style="info" %}
 **Note:** This is useful if you have a role that gets notified every time you make an announcement or a change in your server!
