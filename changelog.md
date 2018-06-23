@@ -1,10 +1,6 @@
----
-description: This page will display changes made to G4M3R.
----
-
 # Changelog
 
-## **v0.8.7: FEEDBACK!!!!!!!!!!!**
+##  **v0.8.7: FEEDBACK!!!!!!!!!!!**
 
 ### Added
 
