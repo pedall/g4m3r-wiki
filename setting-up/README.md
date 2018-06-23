@@ -10,7 +10,7 @@ In this section, you can find how to set up the bot on your server and how to us
 
 To add the bot, you must have the '_**Manage Server**_' permission in the server you would like to add it to, and then you can add the bot through the official G4M3R website \( [g4m3r.xyz](https://www.g4m3r.xyz/) \).
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
 **Please give the bot as many permissions as possible.** Otherwise some commands may not function due to missing permissions.
 
