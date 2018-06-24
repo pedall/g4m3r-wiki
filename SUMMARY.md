@@ -53,6 +53,7 @@
     * [Imgur](commands/utility/imgur.md)
     * [Role](commands/utility/role.md)
     * [Tag](commands/utility/tag.md)
+    * [Feedback](commands/utility/feedback.md)
     * [Stories](commands/utility/stories.md)
 * [Guides](guides/README.md)
   * [Shortcuts](guides/shortcuts.md)
