@@ -4,8 +4,6 @@
 
 ## Arena of Valor Giveaway \(Ended 6/22/2018\)
 
-![](.gitbook/assets/image%20%287%29.png)
-
 The winners of the Arena of Valor Giveaway are:
 
 *  **ziplocky**\#6577
