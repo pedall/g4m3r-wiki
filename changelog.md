@@ -4,6 +4,14 @@ description: This page will display changes made to G4M3R.
 
 # Changelog
 
+##  
+
+## **v0.8.8: Behind The Scenes Improvements**
+
+This update was a necessary update that brought a lot of bug fixes and mostly updated all our dependencies to the latest technology allowing our bot to be even faster and more powerful. It also helped prepare more things to get our dashboard working. 🎉
+
+There were no new features added in this update and it was mostly just a behind the scenes improvement on the bot.
+
 ## **v0.8.7: FEEDBACK!!!!!!!!!!!**
 
 ### Added
