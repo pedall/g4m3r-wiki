@@ -4,7 +4,7 @@ description: This page shows the release notes of when G4M3R gets updated.
 
 # Changelog
 
-##   **v0.8.9: Shut The Front Door!!!**
+## **v0.8.9: Shut The Front Door!!!**
 
 ### Added Features
 
@@ -12,7 +12,7 @@ description: This page shows the release notes of when G4M3R gets updated.
 
 ### Enhancements and/or Bug Fixes
 
- **» Vainglory commands** got a massive overhaul. Not only do you now have reactions to go to different commands from one to another but also we added in a lot more emojis! ❤  Check it out with `.vg`.  You can tap the reactions to see your detailed info. 💃  Vaing   lory commands also got a performance boost and are now processing almost 150% faster! ⚡ 
+ **» Vainglory commands** got a massive overhaul. Not only do you now have reactions to go to different commands from one to another but also we added in a lot more emojis! ❤  Check it out with `.vg`.  You can tap the reactions to see your detailed info. 💃  Vainglory commands also got a performance boost and are now processing almost 150% faster! ⚡ 
 
  **» Kitten command** now gives really cool amazing kitten facts along with the image/gif. 🐱
 
