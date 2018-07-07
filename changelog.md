@@ -8,7 +8,7 @@ description: This page shows the release notes of when G4M3R gets updated.
 
 ### Added Features
 
- **» Mute/Unmute**: Ever had someone be super annoying on your server and just wanted them to be quiet? 🤫 The mute feature when activated from the settings command allow you to create and set up two muted roles which can be used to mute users separately. You can mute them on voice only, text only, or both text and voice\(default\). We also created a separate command `.tmute` to mute a user for a certain amount of time and the bot will automatically `.unmute` them when the time is up.
+ **» Mute/Unmute**: Ever had someone be super annoying on your server and just wanted them to be quiet? 🤫 The mute feature when activated from the settings command allow you to create and set up two muted roles which can be used to mute users separately. You can mute them on voice only, text only, or both text 📵 and voice 🔈. We also created a separate command `.tmute` to mute a user for a certain amount of time and the bot will automatically `.unmute` them when the time is up. ⏱
 
 ### Enhancements and/or Bug Fixes
 
