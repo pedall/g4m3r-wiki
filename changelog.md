@@ -26,7 +26,7 @@ There were no new features added in this update and it was mostly just a behind 
 
 ## **v0.8.7: FEEDBACK!!!!!!!!!!!**
 
-### Added
+### Added Features
 
 * **» Feedback**: Ever wanted to get suggestions or problems from your server members in a nice clean way? Ever wanted to have other users see those suggestions/Issues and vote on them? Well now you can. Feedback command allows members to send feedback to the server as a _idea_ or a _bug_. Furthermore, we also enabled sending feedback to us directly from any server using the _dev_ key.
 * You can also set your own custom Emojis instead of the default emojis to represent 👍 and 👎 ❤
