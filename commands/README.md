@@ -7,11 +7,11 @@ _A complete command overview for all G4M3R bot commands, categorised._
 | _\[prefix\]_**Command** | **What does it do?** | **Aliases** |
 | :--- | :--- | :--- |
 | [Delete](admin/delete.md) | Enable/disable deletion of a text/command message of a specified command. | \[prefix\]del |
-| [HiBye]() | Allows you to set up a welcome/goodbye notice when members join/leave your server. | \[prefix\]hi \[prefix\]bye \[prefix\]welcome \[prefix\]goodbye |
+| [HiBye](./) | Allows you to set up a welcome/goodbye notice when members join/leave your server. | \[prefix\]hi \[prefix\]bye \[prefix\]welcome \[prefix\]goodbye |
 | [Nuke](admin/nuke.md) | Nukes a given amount of messages without a filter. Maximum of 100 messages. | \[prefix\]n |
 | [Permission](admin/permission.md) | Activate/deactivate the usage of a certain command in a specified channel. | \[prefix\]sr |
 | [Saverole](admin/saverole.md) | Add a given role to the  list of self-assignable roles in your server. | \[prefix\]sr |
-| [Settings](admin/settings.md) | All server settings via an easy in-chat menu. | \[prefix\]s |
+| [Settings](admin/settings/) | All server settings via an easy in-chat menu. | \[prefix\]s |
 
 ## [Basic](basic/)
 
