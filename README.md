@@ -27,11 +27,12 @@ Become a **Patreon** or donate on PayPal:
 ### Support Team
 
 * Recurve™
-* Genesis Frog
+* Genesis Frog™
+* James™
 
 ### Design Team
 
-* AngeloC \(best designer in the world\)
+* AngeloC
 
 ## Got any questions?
 
