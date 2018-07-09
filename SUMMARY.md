@@ -59,7 +59,6 @@
     * [Imgur](commands/utility/imgur.md)
     * [Role](commands/utility/role.md)
     * [Shortcut](commands/utility/shortcut.md)
-    * [Stories](commands/utility/stories-2.md)
     * [Stories](commands/utility/stories.md)
     * [Tag](commands/utility/tag.md)
 * [Guides](guides/README.md)

@@ -71,7 +71,7 @@ _A complete command overview for all G4M3R bot commands, categorised._
 | [Feedback](utility/feedback.md) | Send feedback in the server or to G4M3Rs support server.  | \[prefix\]fb |
 | [Role](utility/role.md) | Add/Remove a role from the available self assignable roles to yourself. | \[prefix\]r |
 | [Shortcut](utility/shortcut.md) | Create or remove shortcuts in DM or on your server. | \[prefix\]sc |
-| [Stories](utility/stories-2.md) | Create and manage your custom made stories for your server | - |
+| [Stories]() | Create and manage your custom made stories for your server | - |
 | [tag](utility/tag.md) | Add/Remove a role from the available self assignable roles to yourself. | \[prefix\]r |
 
 ## [Fun](fun/)
