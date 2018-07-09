@@ -23,7 +23,7 @@ _A complete command overview for all G4M3R bot commands, categorised._
 | [Serverinfo](basic/serverinfo.md) | Displays valuable information about    your Discord server | \[prefix\]si |
 | [Shardinfo](basic/shardinfo.md) | Provides some details about the bot and its status. | \[prefix\]shard |
 | [Usersettings](basic/usersettings.md) | All personal user settings via an easy  in-chat menu. | \[prefix\]us |
-| [Verify](community/verify.md) | Start the verification process set on the current server. | - |
+| [Verify](basic/verify.md) | Start the verification process set on the current server. | - |
 
 ## [Community](community/)
 
