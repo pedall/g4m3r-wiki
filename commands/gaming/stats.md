@@ -1,4 +1,4 @@
-# Stats
+# Register
 
 ## Usage
 

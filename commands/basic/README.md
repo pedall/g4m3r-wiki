@@ -10,10 +10,10 @@ Bot info, helpful info, but also.. who is the most active on your server? Find o
 * [\[Help\]](https://github.com/pedall/g4m3r-wiki/tree/e02c9f1e99118cbc5606efe0a929aec2ad537940/commands/admin/saverole/help.md)
 * [\[Info\]](info.md)
 * [\[Invite\]](invite.md)
-* [\[Ping\]](ping.md)
+* [\[Ping\]]()
 * [\[Serverinfo\]](serverinfo.md)
 * [\[Shardinfo\]](shardinfo.md)
-* [\[Statistics\]](statistics.md)
+* [\[Statistics\]]()
 * [\[Usersettings\]](usersettings.md)
 
 To view the in-chat overview of all basic commands use: `[prefix]h basic`
