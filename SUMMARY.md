@@ -7,7 +7,6 @@
 * [Commands](commands/README.md)
   * [Admin](commands/admin/README.md)
     * [Delete](commands/admin/delete.md)
-    * [Hibye](commands/admin/hibye.md)
     * [Nuke](commands/admin/nuke.md)
     * [Permission](commands/admin/permission.md)
     * [Saverole](commands/admin/saverole.md)
@@ -62,6 +61,5 @@
   * [Memes](guides/memes.md)
   * [Welcome / Goodbye Module](guides/welcome-goodbye-module.md)
 * [FAQ](faq.md)
-* [Giveaways](giveaways.md)
 * [Changelog](changelog.md)
 
