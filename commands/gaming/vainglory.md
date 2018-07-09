@@ -1,9 +1,3 @@
----
-description: >-
-  Check Vainglory stats, meta heroes and detailed match information for you or a
-  friend!
----
-
 # Vainglory
 
 ## Aliases
