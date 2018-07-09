@@ -27,8 +27,8 @@ Become a **Patreon** or donate on PayPal:
 ### Support Team
 
 * Recurve™
-* Genesis Frog™
-* James™
+* Genesis Frog
+* James!
 
 ### Design Team
 
