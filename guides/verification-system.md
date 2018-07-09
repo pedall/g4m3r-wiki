@@ -10,27 +10,29 @@ A verification system is a process that server owners can create on their server
 
 ## Step 1: Creating The Verification Settings
 
-First we open up the settings menu with `<prefix>S`
+First we open up the settings menu:
 
-![](../.gitbook/assets/settingsv2.png)
+![](../.gitbook/assets/image%20%2897%29.png)
 
-Next we go under the Moderation settings \(option 3\)
+Next we go under the Moderation settings:
 
-![](../.gitbook/assets/s-moderationv2.png)
+![](../.gitbook/assets/image%20%2848%29.png)
 
-Next we go into 9: Verification System
+Next we go into \#8: Verification System
 
-![](../.gitbook/assets/s-verify%20%281%29.png)
+![](../.gitbook/assets/image%20%2891%29.png)
 
 Now we input **1** to enable the Verify Status. This will take a short amount of time as it does the following steps:
 
-1. Enable / disable verify.
+1. Create a role called **Verify**
 2. Create a category on the server called **Verification Zone**
-3. Set the first verification message.
-4. Set the role that your members will receive upon completing the verification
-5. **This will RESET the system and DELETE the channels/category it has been set to!**
+3. Create a Verify Channel
+4. Edit every channel and category permissions to disable **Read Messages** permission for the Verify role.
+5. Enable all **Mod Roles**  and  **Bot Admins** to be able to view the Verification Zone and channel.
 
+Once it has completed these steps you will see the following:
 
+![](../.gitbook/assets/image%20%2852%29.png)
 
 For now let us skip the Verify First Message and we will come back to it in [Step 2B](verification-system.md#step-2b-setting-the-first-message).
 
@@ -42,7 +44,7 @@ For now let us skip the Verify First Message and we will come back to it in [Ste
 **DANGEROUS:** Reset Verification System will remove the channels, category, and roles associated with the Verification System if you click the Check Reaction.
 {% endhint %}
 
-
+![](../.gitbook/assets/image%20%2879%29.png)
 
 ## Step 2: Creating The Embeds
 
@@ -51,6 +53,8 @@ Step 1 was really easy as most of it was made automatically. Step 2 is the harde
 ### Step 2A: Base Message In \#verify Channel
 
 The \#verify channel will be where all members joining the server will join and should have a message they can see that shows them how to start the verification process. To do this you simply go to the \#verify channel and use the **embed** command to create your base message. Remember to make sure to tell your users how to begin the verification system by using the verification command. In my server, the prefix is "." so I will be asking them to type **.verify**
+
+![](../.gitbook/assets/image%20%2836%29.png)
 
 {% hint style="info" %}
 Always avoid having conversation or messages in this channel except this base message so when a user joins the server and this is the **ONLY** channel they can see it is easy for them to know what to do to start.
@@ -75,13 +79,17 @@ So what happens when a user types **.verify**?
 
 In order to set the **first message**, we have to go back into the settings &gt; Moderation &gt; Verification System &gt; **3**. The bot will ask you to paste the embed code, for the first message. Once you have pasted it, exit out of the settings. In \#verify channel, type **.verify** to confirm that the first message looks good.
 
+
+
 ![](../.gitbook/assets/image.png)
+
+![](../.gitbook/assets/image%20%2864%29.png)
 
 In the first message, you can ask your users to take the first step in your process. In my case, I asked them use the **vainglory** command to save their In Game Name into the bot so they can easily get their statistics.
 
 ![](https://github.com/pedall/g4m3r-wiki/tree/1a68f43ad7f01cf90b0f2f0bcaa4f68ef05dd92a/guides/.gitbook/assets/image%20%282%29.png)
 
-
+![](../.gitbook/assets/image%20%2866%29.png)
 
 {% hint style="warning" %}
 Never forget to make sure to include a line telling the user on how to proceed to the next step. In the image above, you can see the user is asked to type **toys** to go to the next step. I highly recommend using the footer in an embed to show your users on what to do for the next step.
@@ -101,7 +109,7 @@ If you are not aware of what a **tag** is please read about [here](https://githu
 
 Now the user will type what you ask them to type to continue to the next step. In our case, we asked the user to type **toys**.
 
-
+![](../.gitbook/assets/image%20%2860%29.png)
 
 {% hint style="info" %}
 **Advanced Users:** You can enable tag/story trigger deletion in **Settings** command in order to keep the channel cleaner and a much more professional feeling for users.
@@ -109,7 +117,7 @@ Now the user will type what you ask them to type to continue to the next step. I
 
 In my second step, I provide users a variety of different tags they can type to get access to those information. Let's suppose the user is interested in playing in our upcoming Talent Show league.
 
-
+![](../.gitbook/assets/image%20%2898%29.png)
 
 This gives them all the information they need to be able to join the talent show.
 
@@ -143,4 +151,6 @@ The bot also has a feature that can auto assign a role to a user when they join 
 ### Setting A Role Message
 
 You can set a Role Message alert to be sent under **Settings &gt; Moderation &gt; Role Messages** to send a message when the @verify role is removed or when the Auto Assign Role is added in a channel where you want the user to be alerted once they complete the verification process. For example, the Arena of Valor server moderators created this feature on their server to show even more cool information that the bot can do on their server once they complete the verification process.
+
+![Credit: Official Arena of Valor Discord Server](../.gitbook/assets/image%20%2854%29.png)
 
