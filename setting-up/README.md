@@ -12,7 +12,8 @@ To add the bot, you must have the '_**Manage Server**_' permission in the server
 
 ## Changing the Prefix
 
-The default prefix for G4M3R bot is `g!`  
+The default prefix for G4M3R bot is `g! .` The bot will **ALWAYS** respond to g!, so if you forgot your prefix either @G4M3R or check it with g!.  
+  
 The prefix can be changed in the settings menu using `g!settings`
 
 For a more in-depth explanation, visit the [prefix](prefix.md) page.

@@ -13,9 +13,9 @@ To change the prefix, _which is advised if you have another bot that uses the sa
 2. Access the **settings menu** of G4M3R Bot by typing `g! settings`  
    Here you can **view** the currently set prefix as shown below at **\[ 1 \]** In this case the prefix is ****\`.
 
-   \`![](../.gitbook/assets/serversettings.png)
+   \`![](../.gitbook/assets/settingsv2%20%282%29.png)
 
-3. If you want to **change** the prefix, type `1`into the chat. This will open the **prefix layer** of the menu. ![](../.gitbook/assets/serversettingsprefix.png)
+3. If you want to **change** the prefix, type `1`into the chat. This will open the **prefix layer** of the menu. ![](../.gitbook/assets/s-prefix.png)
 4. Now you can input any _special symbol, letter or number_ to be the **new prefix** of G4M3R on \_your \_server.  
    If you want to **cancel** the action enter **C** to go back to the menu. Or **Q to quit** the menu.
 

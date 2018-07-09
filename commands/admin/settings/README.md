@@ -6,7 +6,7 @@ Diving into customising the bot for your server. The **Settings** command is one
 
 _Command:_`[prefix]settings`
 
-![](../../../.gitbook/assets/settingsv2%20%282%29.png)
+![](../../../.gitbook/assets/settingsv2%20%283%29.png)
 
 ## \[1\] Prefix
 
