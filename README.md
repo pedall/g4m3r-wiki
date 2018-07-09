@@ -28,11 +28,10 @@ Become a **Patreon** or donate on PayPal:
 
 * Recurve™
 * Genesis Frog
-* James!
 
 ### Design Team
 
-* AngeloC
+* AngeloC \(best designer in the world\)
 
 ## Got any questions?
 
