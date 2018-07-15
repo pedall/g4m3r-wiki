@@ -72,7 +72,7 @@ You can enter it as any of the following:
 
 * `Friday 22:30`
 * `Tomorrow 10pm`
-* `2p` \(which will change the start date to today at 2pm\)
+* `2pm` \(which will change the start date to today at 2pm\)
 
 When editing the frequency \(to change frequency, recurring must be set to true\) of the event, keep in the mind the format has to be `<number><space><unit>`
 
