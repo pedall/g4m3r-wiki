@@ -56,7 +56,5 @@ The bot will ask you what shortcut you'd like to create. This is the name of the
 **Note:** This is useful if you have a role that gets notified every time you make an announcement or a change in your server!
 {% endhint %}
 
-## Credits:
 
-James
 

@@ -48,7 +48,3 @@ Next time you want to use that meme again you have two options:
 
 ![](https://jgriffin34432.gitbooks.io/g4m3r-sample-guides/content/assets/memes%20list.png)
 
-I hope now it is more clear on how to use G4M3R's meme generator.
-
-> Credits: JoshTheGamer632
-
