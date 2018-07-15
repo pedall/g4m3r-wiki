@@ -61,7 +61,7 @@ The command [UserSettings](../commands/basic/usersettings.md) allows everyone to
 
 Depending on the size and purpose of your server you should consider setting up channels, roles and regions for your game\(s\).
 
-This is completely up to you but to make LFG work properly at least create a channel for the game to advertise the LFG events in separate from your normal event advertisement channel.  
+This is completely up to you but to make LFG work properly at least create a channel for the game to advertise the LFG events separately from your normal event advertisement channel.  
 You can also create the channels with separate games, regions or even servers.  
   
 _Here are some examples:_  
@@ -76,14 +76,14 @@ Once the event is created, go into the LFG channel created in the previous step 
 
 
 This will create an advertisement in that channel as well as post it in the default LFG channel you created. Please make sure that the bot has **Add Reactions** permissions enabled in these channels so that it can add those reactions.  
-In order to join, the only thing that players have to do is tap the ✅in order to join and ❌ to leave.
+In order to join, the only thing that players have to do is tap the ✅ in order to join and ❌ to leave.
 
 **Some examples of LFG events:**  
-24h reoccurring LFG at the peak time created separately for every region on the server.  
+24h recurring LFG at the peak time created separately for every region on the server.  
  ![](../.gitbook/assets/lfgeventasia.png) 
 
   
-Weekly reoccurring raid LFG on Saturday at 8pm for EU for specified guild.  
+Weekly recurring raid LFG on Saturday at 8pm for EU for specified guild.  
  ![](../.gitbook/assets/lfgraidexample.png) 
 
 
