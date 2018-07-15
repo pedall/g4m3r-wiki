@@ -12,9 +12,9 @@ A LFG \(Looking For Group\) module is a way for players to find other players on
 
 ### Understanding The Basics Of LFG Module
 
-The LFG Module has two core pieces, guild settings and events. Lets dive into both of them:
+The LFG Module has two core pieces, server settings and events. Lets dive into both of them:
 
-#### Guild Settings
+#### Server Settings
 
 The most basic part here is to create and set up default settings for your LFG Module for your server. To do this we first go into the **Settings** command:
 
