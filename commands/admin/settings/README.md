@@ -6,7 +6,7 @@ Diving into customising the bot for your server. The **Settings** command is one
 
 _Command:_`[prefix]settings`
 
-![](../../../.gitbook/assets/settingsv2%20%283%29.png)
+![](../../../.gitbook/assets/settingsv2%20%284%29.png)
 
 ## \[1\] Prefix
 
@@ -57,7 +57,7 @@ In the general tab you can set up GENERAL server settings, like the default serv
 
 **\[7\]** Insert the default game for the server. _\(Very useful for clan / guild discords!\)_
 
-![](../../../.gitbook/assets/settings-event.png)
+![](../../../.gitbook/assets/settings-event%20%281%29.png)
 
 ## \[6\] Tags
 
