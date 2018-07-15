@@ -47,62 +47,51 @@ Now lets take a look at the default event settings:
 
 Now you have prepared your server properly and set it to your own liking!
 
-
-
 {% hint style="info" %}
 The command [UserSettings](../commands/basic/usersettings.md) allows everyone to create their own default event settings!
 {% endhint %}
 
-## Creating an Event
 
-`[prefix]events create`
 
-Enter the number corresponding to the information you would like to edit. When editing a section, just follow the instructions displayed.
+## Creating an Event!
 
-![](../.gitbook/assets/ems_eventcreate.png)
+### Step 1: Setup The Category And Channels
 
-Press the `enter` key to save your changes.  
-Enter `c` to cancel the change and return to the event creation menu.  
-Enter `q` to quit event creation completely.
+On my server, I have players from all over the world and to make sure LFG events are easy to find for them I created separate events channels on the server.
 
-You can set multiple reminders for events at times of your choice!
 
-When editing the events start date and time, you no longer need to enter it as `YYYY/MM/DD hh:mm.`  
-You can enter it as any of the following:
 
-* `Friday 22:30`
-* `Tomorrow 10pm`
-* `2pm` \(which will change the start date to today at 2pm\)
+Each region was given it's own channel for LFG because players from one region are not able to play with others from another server.
 
-When editing the frequency \(to change frequency, recurring must be set to true\) of the event, keep in the mind the format has to be `<number><space><unit>`
+{% hint style="info" %}
+**Advanced Tip:** To take it a step further, you can create roles for each region and only allow each role to see their own specific channel so that users are not able to view or get spammed by channels they can not participate in.
+{% endhint %}
 
-Below, the unit is shown like `this`
+### Step 2: Creating The First LFG Event
 
-`mo` = month
+Now you can go ahead and create an base LFG event. This event should be made so that players can find each other.
 
-`w` = week
+Once the event is created, you can go into the channel of that server and type **.e ad id** but replace _id_ with the ID number of the event. In this case the event ID was 3 so I would type **.e ad 3**.
 
-`d` = day
+![](../.gitbook/assets/image%20%2885%29.png)
 
-`h` = hour
+It will create an advertisement in that channel as well as post it in the default LFG channel you created. Please make sure that the bot has **Add Reactions** permissions enabled in these channels so that it can add those reactions.
 
-`m` = minute
+I also made this event **recurring every 24 hours.** This makes it so that every day at 6PM EDT players can sign up to play together on my discord server. In order to join, the only thing that players have to do is tap the ✅in order to join and ❌ to leave.
 
-Examples:
+![When a person joins the event.](../.gitbook/assets/image%20%2894%29.png)
 
-`2.5 h` = 2 hours and 30 minutes
+![When a person leaves the event](../.gitbook/assets/image%20%28102%29.png)
 
-`130 m` = 2 hours 10 minutes
+{% hint style="warning" %}
+**Note:** Please make sure the bot also has **Manage Messages** permission in these channels so that it can delete these extra messages that are sent when a person leaves or joins.
+{% endhint %}
 
-## Private Events
+Now you can simply create other events at times your other users request to play and make them recurring every 24 hours. Once the events, are made players can join with a simple tap of a reaction. There is no complicated stuff for users and it really is Keep It Simple Stupid!
 
-When an event is set to private, the creator will be sent a pin via direct message. Any member wishing to join this event must enter the pin along with the join command.
+{% hint style="info" %}
+**Advanced Users:** You can also create a \#custom-lfg channel where you allow other users to create their own events. For example, some users on a server can handle a higher amount of responsibility and they can be given permission to create and manage events on a separate channel for advanced levels.
+{% endhint %}
 
-The direct message will look like this: 
 
-![](../.gitbook/assets/ems_event-newpin.png)
-
-So in this example, a user would type`<prefix>events join 2 9988`to join.
-
-![](../.gitbook/assets/ems_eventjoined.png)
 
