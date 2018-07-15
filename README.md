@@ -11,7 +11,7 @@ G4M3R is a multi-functional Discord bot that can help _you_ get your **server ac
 Become a **Patreon** or donate on PayPal:
 
 * [Patreon](https://www.patreon.com/g4m3r) - "Donate to the G4M3R Patreon!" 
-* [Paypal](https://www.paypal.me/pedall) - "Make a one time donation to pedall!"
+* [Paypal](https://www.paypal.me/pedall) - "Make a one time donation!"
 
 ### Developers
 
