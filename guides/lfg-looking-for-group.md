@@ -30,14 +30,14 @@ Its easier to start at the top, choose 1 to open **Event Permissions**.
    1. All Users
    2. Mods + Admins
    3. Admins Only
-2. **Add Member Permissions** is what defined what level of permission you need to forcibly **add a member** to an event. Be careful with these settings as they can be abused.
+2. **Add Member Permissions** is what defines which level of permission you need to forcibly **add a member** to an event. Be careful with these settings as they can be abused.
 
 Now lets take a look at the default event settings:    
 ![](../.gitbook/assets/settings-e-2%20%283%29.png)
 
 1. We recommend you to customise these settings and then turn on **"Use Default"**. This will not only make it easier for your members, especially if you are one game / platform focused. But it will also ensure it has a good base setting.
 2. You can set this bot to _Gaming, Community_ or _Calendar_ event. Depending on your server and LFG event plans!
-3. This you can also set to your own liking, as shown in the image above, its currently 2 hours.
+3. Also this you can set to your own liking, as shown in the image above, it is currently set to 2 hours.
 4. Set the attendees to however big your standard party is.
 5. Set up the platform accordingly to your server.
 6. You can also set a default game.
@@ -50,7 +50,7 @@ Now you have prepared your server properly and set it to your own liking!
 
 
 {% hint style="info" %}
-The command [UserSettings](../commands/basic/usersettings.md) can enable everyone to make their own default event settings!
+The command [UserSettings](../commands/basic/usersettings.md) allows everyone to create their own default event settings!
 {% endhint %}
 
 ## Creating an Event
