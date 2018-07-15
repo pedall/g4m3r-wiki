@@ -10,11 +10,11 @@ A LFG \(Looking For Group\) module is a way for players to find other players on
 
 
 
-### Understanding The Basics Of LFG Module
+## Step 1: Understanding
 
 The LFG Module has two core pieces, server settings and events. Lets dive into both of them:
 
-#### Server Settings
+### Server Settings
 
 The most basic part here is to create and set up default settings for your LFG Module for your server. To do this we first go into the **Settings** command:
 
@@ -32,6 +32,8 @@ Its easier to start at the top, choose 1 to open **Event Permissions**.
    3. Admins Only
 2. **Add Member Permissions** is what defines which level of permission you need to forcibly **add a member** to an event. Be careful with these settings as they can be abused.
 
+### Default Event Settings:
+
 Now lets take a look at the default event settings:    
 ![](../.gitbook/assets/settings-e-2%20%283%29.png)
 
@@ -47,51 +49,48 @@ Now lets take a look at the default event settings:
 
 Now you have prepared your server properly and set it to your own liking!
 
+
+
 {% hint style="info" %}
 The command [UserSettings](../commands/basic/usersettings.md) allows everyone to create their own default event settings!
 {% endhint %}
 
+## Step 2: Setting up LFG
+
+### Setting up channels:
+
+Depending on the size and purpose of your server you should consider setting up channels, roles and regions for your game\(s\).
+
+This is completely up to you but to make LFG work properly at least create a channel for the game to advertise the LFG events in separate from your normal event advertisement channel.  
+You can also create the channels with separate games, regions or even servers.  
+  
+_Here are some examples:_  
+ ![](../.gitbook/assets/lfgchannels.png) 
 
 
-## Creating an Event!
 
-### Step 1: Setup The Category And Channels
+### First LFG Event:
 
-On my server, I have players from all over the world and to make sure LFG events are easy to find for them I created separate events channels on the server.
+To start off your LFG module, create an event. How to can be found here: [Event](../commands/community/events.md).  
+Once the event is created, go into the LFG channel created in the previous step and use the command `[prefix]`**`e ad eventid`** to advertise the event. Replace eventid with the ID of the event you created.  
+
+
+This will create an advertisement in that channel as well as post it in the default LFG channel you created. Please make sure that the bot has **Add Reactions** permissions enabled in these channels so that it can add those reactions.  
+In order to join, the only thing that players have to do is tap the ✅in order to join and ❌ to leave.
+
+**Some examples of LFG events:**  
+24h reoccurring LFG at the peak time created separately for every region on the server.  
+ ![](../.gitbook/assets/lfgeventasia.png) 
+
+  
+Weekly reoccurring raid LFG on Saturday at 8pm for EU for specified guild.  
+ ![](../.gitbook/assets/lfgraidexample.png) 
 
 
 
-Each region was given it's own channel for LFG because players from one region are not able to play with others from another server.
 
-{% hint style="info" %}
-**Advanced Tip:** To take it a step further, you can create roles for each region and only allow each role to see their own specific channel so that users are not able to view or get spammed by channels they can not participate in.
-{% endhint %}
 
-### Step 2: Creating The First LFG Event
-
-Now you can go ahead and create an base LFG event. This event should be made so that players can find each other.
-
-Once the event is created, you can go into the channel of that server and type **.e ad id** but replace _id_ with the ID number of the event. In this case the event ID was 3 so I would type **.e ad 3**.
-
-![](../.gitbook/assets/image%20%2885%29.png)
-
-It will create an advertisement in that channel as well as post it in the default LFG channel you created. Please make sure that the bot has **Add Reactions** permissions enabled in these channels so that it can add those reactions.
-
-I also made this event **recurring every 24 hours.** This makes it so that every day at 6PM EDT players can sign up to play together on my discord server. In order to join, the only thing that players have to do is tap the ✅in order to join and ❌ to leave.
-
-![When a person joins the event.](../.gitbook/assets/image%20%2894%29.png)
-
-![When a person leaves the event](../.gitbook/assets/image%20%28102%29.png)
-
-{% hint style="warning" %}
 **Note:** Please make sure the bot also has **Manage Messages** permission in these channels so that it can delete these extra messages that are sent when a person leaves or joins.
-{% endhint %}
 
-Now you can simply create other events at times your other users request to play and make them recurring every 24 hours. Once the events, are made players can join with a simple tap of a reaction. There is no complicated stuff for users and it really is Keep It Simple Stupid!
-
-{% hint style="info" %}
 **Advanced Users:** You can also create a \#custom-lfg channel where you allow other users to create their own events. For example, some users on a server can handle a higher amount of responsibility and they can be given permission to create and manage events on a separate channel for advanced levels.
-{% endhint %}
-
-
 
