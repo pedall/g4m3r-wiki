@@ -64,8 +64,18 @@ Depending on the size and purpose of your server you should consider setting up 
 This is completely up to you but to make LFG work properly at least create a channel for the game to advertise the LFG events separately from your normal event advertisement channel.  
 You can also create the channels with separate games, regions or even servers.  
   
-_Here are some examples:_  
- ![](../.gitbook/assets/lfgchannels.png) 
+Perhaps consider viewing permissions for multi-channel LFG, to prevent spamming people with events they might not even be able to join due to for example region restrictions.  
+  
+_Example of multi-LFG:_  
+ ![](../.gitbook/assets/lfgchannels.png)   
+Think about creating [self assignable roles](../commands/admin/saverole.md), this could be a nice self sustaining system with members adding their own interests / regions.  
+As shown above you could consider creating game roles, but also gameregion roles. Or even game-mode roles.  
+Set the permissions up properly if you use different regions, eu role has viewing access to the game's eu channel.   
+  
+**Example roles:**  
+_VaingloryEU \(View access  to \#vainglory-eu only\)  
+GuildWars2 \(View access to all GW2 channels\)  
+GW2Raid \(View access to \#guildwars2-raid channel only\)_
 
 
 
