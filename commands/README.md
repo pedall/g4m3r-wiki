@@ -5,7 +5,7 @@ _A complete command overview for all G4M3R bot commands, categorised._
 ## [Admin](admin/)
 
 | _\[prefix\]_**Command** | **What does it do?** |  |  |  | **Aliases** |
-| :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | [Delete](admin/delete.md) | Enable/disable deletion of a text/command message of a specified command. |  |  |  | \[prefix\]del |
 | [Permission](admin/permission.md) | Active/Deactivate the usage of a certain command in a channel of your choice. |  |  |  | \[prefix\]p \| perm |
 | [Saverole](admin/saverole.md) | Add a given role to the  list of self-assignable roles in your server. |  |  |  | \[prefix\]sr |

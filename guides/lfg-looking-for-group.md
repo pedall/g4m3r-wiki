@@ -39,7 +39,7 @@ Now lets take a look at the default event settings:
 
 1. We recommend you to customise these settings and then turn on **"Use Default"**. This will not only make it easier for your members, especially if you are one game / platform focused. But it will also ensure it has a good base setting.
 2. You can set this bot to _Gaming, Community_ or _Calendar_ event. Depending on your server and LFG event plans!
-3. Also this you can set to your own liking, as shown in the image above, it is currently set to 2 hours.
+3. This, you can also set up to your liking, as shown in the image above, it is currently set to 2 hours.
 4. Set the attendees to however big your standard party is.
 5. Set up the platform accordingly to your server.
 6. You can also set a default game.
@@ -68,8 +68,7 @@ Perhaps consider viewing permissions for multi-channel LFG, to prevent spamming 
   
 _Example of multi-LFG:_  
  ![](../.gitbook/assets/lfgchannels.png)   
-Think about creating [self assignable roles](../commands/admin/saverole.md), this could be a nice self sustaining system with members adding their own interests / regions.  
-As shown above you could consider creating game roles, but also gameregion roles. Or even game-mode roles.  
+Think about creating [self assignable roles](../commands/admin/saverole.md), this could be a nice self sustaining system with members adding their own interests / regions. As shown above you could consider creating game roles, but also gameregion roles. Or even game-mode roles.   
 Set the permissions up properly if you use different regions, eu role has viewing access to the game's eu channel.   
   
 **Example roles:**  
@@ -81,7 +80,7 @@ GW2Raid \(View access to \#guildwars2-raid channel only\)_
 
 ### First LFG Event:
 
-To start off your LFG module, create an event. How to can be found here: [Event](../commands/community/events.md).  
+To start off your LFG module, create an event. How to can be found here =&gt; [Event](../commands/community/events.md).  
 Once the event is created, go into the LFG channel created in the previous step and use the command `[prefix]`**`e ad eventid`** to advertise the event. Replace eventid with the ID of the event you created.  
 
 
@@ -100,7 +99,8 @@ Weekly recurring raid LFG on Saturday at 8pm for EU for specified guild.
 
 
 
-**Note:** Please make sure the bot also has **Manage Messages** permission in these channels so that it can delete these extra messages that are sent when a person leaves or joins.
+**Note:** Please make sure the bot also has **Manage Messages** permission in these channels so that it can delete these extra messages that are sent when a person leaves or joins.  
+Also make sure the bot has permissions to add reactions.
 
 **Advanced Users:** You can also create a \#custom-lfg channel where you allow other users to create their own events. For example, some users on a server can handle a higher amount of responsibility and they can be given permission to create and manage events on a separate channel for advanced levels.
 
